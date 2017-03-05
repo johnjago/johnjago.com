@@ -23,69 +23,58 @@ time, mark, audio, video {
 
 body {
 	font-family: 'Lato', sans-serif;
-	font-size: 1.0em;
-	color: #333;
-	background-color: #fff;
-}
-
-header {
-	border-bottom: 1px solid #c9c9c9;
-	padding: 10px 30px;
-}
-
-.wrapper {
-	padding: 0 30px;
-	line-height: 1.5rem;
-	width: 40%;
-	margin: 0 auto;
+	font-size: 1.5em;
+	color: #999;
+	background-color: #333;
+	padding: 80px;
 }
 
 h1 {
-	font-size: 1.2em;
-	font-weight: bold;
-	margin: 20px 0 3px 0;
-}
-
-h2 {
-	font-size: 1.1em;
-	margin: 10px 0 0 0;
+	font-size: 2.0em;
+	margin-bottom: 30px;
 }
 
 p {
-	margin: 5px 0 5px 0;
+	font-size: 0.7em;
+	margin: 30px 0 20px 0;
+}
+
+p a:link, a:visited {
+	border-bottom: 1px dotted #777;
+}
+
+p a:hover {
+	color: #fff;
+	border-bottom: 1px dotted #fff;
+}
+
+footer {
+	font-size: 0.6em;
+	margin: 30px 0 20px 0;
+}
+
+footer a {
+	margin-right: 15px;
 }
 
 li {
+	list-style-type: none;
 	padding: 3px 0 3px 0;
-	margin-left: 30px;
 }
 
 a:link, a:visited {
-	color: #4078c0;
+	color: #999;
 	text-decoration: none;
 }
 
 a:hover {
-	text-decoration: underline;
-}
-
-footer {
-	border-top: 1px solid #c9c9c9;
-	padding: 10px 30px;
-	margin-top: 20px;
-	color: #777;
-	text-align: center;
-}
-
-@media (max-width: 960px) {
-	.wrapper {
-		width: 75%;
-	}
+	color: #fff;
+	border-bottom: 2px solid #fff;
 }
 
 @media (max-width: 480px) {
-	.wrapper {
-		line-height: 1.5em;
-		width: 90%;
+	body {
+		font-size: 1.5em;
+		padding: 20px;
 	}
 }
