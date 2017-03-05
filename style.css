@@ -36,14 +36,19 @@ header {
 .wrapper {
 	padding: 0 30px;
 	line-height: 1.5rem;
-	width: 50%;
+	width: 40%;
 	margin: 0 auto;
 }
 
 h1 {
 	font-size: 1.2em;
 	font-weight: bold;
-	margin-top: 20px;
+	margin: 20px 0 3px 0;
+}
+
+h2 {
+	font-size: 1.1em;
+	margin: 10px 0 0 0;
 }
 
 p {
@@ -79,10 +84,6 @@ footer {
 }
 
 @media (max-width: 480px) {
-	body {
-		font-size: 1.5em;
-	}
-
 	.wrapper {
 		line-height: 1.5em;
 		width: 90%;
