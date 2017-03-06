@@ -29,6 +29,16 @@ body {
 	padding: 80px;
 }
 
+a:link, a:visited {
+	color: #c6c6c6;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
+
 h1 {
 	font-size: 2.0em;
 	margin-bottom: 30px;
@@ -55,6 +65,7 @@ footer {
 
 footer a {
 	margin-right: 15px;
+	color: #999;
 }
 
 li {
@@ -62,19 +73,9 @@ li {
 	padding: 3px 0 3px 0;
 }
 
-a:link, a:visited {
-	color: #999;
-	text-decoration: none;
-}
-
-a:hover {
-	color: #fff;
-	border-bottom: 2px solid #fff;
-}
-
 @media (max-width: 480px) {
 	body {
-		font-size: 1.5em;
+		font-size: 2.0em;
 		padding: 20px;
 	}
 }
