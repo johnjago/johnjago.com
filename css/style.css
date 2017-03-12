@@ -34,9 +34,9 @@ a:link, a:visited {
 	text-decoration: none;
 }
 
-a:hover {
+a:hover, a:visited:hover {
 	color: #fff;
-	border-bottom: 2px solid #fff;
+	border-bottom: 2px solid #888;
 }
 
 h1 {
