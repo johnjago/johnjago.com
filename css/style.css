@@ -27,16 +27,7 @@ body {
 	color: #999;
 	background-color: #333;
 	padding: 80px;
-}
-
-a:link, a:visited {
-	color: #c6c6c6;
-	text-decoration: none;
-}
-
-a:hover, a:visited:hover {
-	color: #fff;
-	border-bottom: 2px solid #888;
+	max-width: 500px;
 }
 
 h1 {
@@ -46,7 +37,8 @@ h1 {
 
 p {
 	font-size: 0.7em;
-	margin: 30px 0 20px 0;
+	margin: 25px 0;
+	line-height: 30px;
 }
 
 p a:link, a:visited {
@@ -58,19 +50,24 @@ p a:hover {
 	border-bottom: 1px dotted #fff;
 }
 
-footer {
-	font-size: 0.6em;
-	margin: 30px 0 20px 0;
+.profiles a {
+	margin: 0 10px;
 }
 
-footer a {
-	margin-right: 15px;
-	color: #999;
+a:link, a:visited {
+	color: #c6c6c6;
+	text-decoration: none;
+}
+
+a:hover, a:visited:hover {
+	color: #fff;
 }
 
 li {
 	list-style-type: none;
 	padding: 3px 0 3px 0;
+	margin-left: 10px;
+	font-size: 0.7em;
 }
 
 @media (max-width: 480px) {
