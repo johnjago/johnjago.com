@@ -45,11 +45,6 @@ p a:link, a:visited {
 	border-bottom: 1px dotted #777;
 }
 
-p a:hover {
-	color: #fff;
-	border-bottom: 1px dotted #fff;
-}
-
 .profiles a {
 	margin: 0 10px;
 }
@@ -57,10 +52,6 @@ p a:hover {
 a:link, a:visited {
 	color: #c6c6c6;
 	text-decoration: none;
-}
-
-a:hover, a:visited:hover {
-	color: #fff;
 }
 
 li {
