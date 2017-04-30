@@ -49,14 +49,11 @@ a:link, a:visited {
 	text-decoration: none;
 }
 
-.links a:link, a:visited {
+.buttons a:link, a:visited {
 	color: #fff;
-	background-color: #8de0d1;
-	text-decoration: none;
-	border-radius: 2px;
-	padding: 7px;
-	border: none;
 	margin: 0 10px;
+	padding: 7px;
+	border-radius: 2px;
 }
 
 #git {
@@ -87,12 +84,10 @@ li {
 
 @media (max-width: 480px) {
 	body {
-		font-size: 2.0em;
 		padding: 20px;
-		line-height: 3em;
 	}
 
-	.links a:link, a:visited {
+	.buttons a:link, a:visited {
 		padding: 3px;
 		margin: 0;
 	}
