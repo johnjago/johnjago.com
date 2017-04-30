@@ -49,7 +49,7 @@ a:link, a:visited {
 	text-decoration: none;
 }
 
-.buttons a:link, a:visited {
+.buttons a:link, .buttons a:visited {
 	color: #fff;
 	margin: 0 10px;
 	padding: 7px;
@@ -87,7 +87,7 @@ li {
 		padding: 20px;
 	}
 
-	.buttons a:link, a:visited {
+	.buttons a:link, .buttons a:visited {
 		padding: 3px;
 		margin: 0;
 	}
