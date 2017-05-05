@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -13,21 +13,20 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
+  border: 0;
+  font: inherit;
+  font-size: 100%;
   margin: 0;
   padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
   vertical-align: baseline;
 }
 
 body {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 1em;
+  background: #f2f2f2;
   color: #333;
-  background-color: #f2f2f2;
-  padding: 80px;
+  font: 1em 'Ubuntu', sans-serif;
   max-width: 500px;
+  padding: 80px;
 }
 
 h1 {
@@ -44,42 +43,44 @@ p {
   line-height: 50px;
 }
 
-a:link, a:visited {
+a:link,
+a:visited {
   color: #333;
   text-decoration: none;
 }
 
-.buttons a:link, .buttons a:visited {
+.buttons a:link,
+.buttons a:visited {
+  border-radius: 2px;
   color: #fff;
   margin: 0 10px;
   padding: 7px;
-  border-radius: 2px;
 }
 
 #git {
-  background-color: #404448;
+  background: #404448;
 }
 
 #stack {
-  background-color: #f48024;
+  background: #f48024;
 }
 
 #moz {
-  background-color: #000;
+  background: #000;
 }
 
 #fsf {
-  background-color: #cc0000;
+  background: #cc0000;
 }
 
 #eff {
-  background-color: #800000;
+  background: #800000;
 }
 
 li {
   list-style-type: none;
-  padding: 5px 0;
   margin-left: 25px;
+  padding: 5px 0;
 }
 
 @media (max-width: 480px) {
@@ -87,9 +88,10 @@ li {
     padding: 20px;
   }
 
-  .buttons a:link, .buttons a:visited {
-    padding: 3px;
+  .buttons a:link,
+  .buttons a:visited {
     margin: 0;
+    padding: 3px;
   }
 
   li {
