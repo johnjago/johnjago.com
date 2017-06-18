@@ -63,6 +63,10 @@ a:visited {
   background: #f48024;
 }
 
+#hack {
+  background: #2EC866;
+}
+
 #moz {
   background: #000;
 }
@@ -73,6 +77,10 @@ a:visited {
 
 #eff {
   background: #800000;
+}
+
+#ccfc {
+  background: #00ACED;
 }
 
 li {
