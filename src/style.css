@@ -55,6 +55,10 @@ a:visited {
   padding: 7px;
 }
 
+.buttons a:focus {
+  border: 2px solid #000;
+}
+
 #git {
   background: #404448;
 }
