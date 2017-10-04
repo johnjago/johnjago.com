@@ -32,8 +32,9 @@ body {
 
 .container {
   background: #fff;
-  padding: 20px;
   box-shadow: 0 0 10px #c3c3c3;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
 header {
