@@ -8,65 +8,67 @@
     <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
   </head>
   <body>
-    <div class="container">
-      <header>
+    <header>
+      <div class="col-50">
         <h1>John Jago</h1>
-        <div class="info">
-          <p>
-            Find me on
-            <a href="https://gitlab.com/users/johnjago/projects">GitLab</a>,
-            <a href="https://github.com/johnjago">GitHub</a>,
-            <a href="https://developer.mozilla.org/en-US/profiles/johnjago">MDN</a>,
-            <a href="https://stackoverflow.com/users/7691151/john-jago">Stack&nbsp;Overflow</a>, and
-            <a href="https://hackerrank.com/johnjago">HackerRank</a>.
-          </p>
-        </div>
-      </header>
-      <main>
-        <p>
-          My areas of expertise are web development and writing "quality software with a focus on <a href="http://suckless.org/philosophy">simplicity, clarity, and frugality</a>."
-        </p>
-        <div class="project">
-          <a href="https://johnjago.com/deformat/">
-            <h2>Deformat</h2>
-            <p>Simple tool that removes whitespace and line breaks from text.</p>
-          </a>
-        </div>
-        <div class="project">
-          <a href="https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/">
-            <h2>Stripped YouTube</h2>
-            <p>Firefox WebExtension that hides the YouTube comment section, related videos, and other distractions for a more pleasant and focused viewing experience.</p>
-          </a>
-        </div>
-        <div class="project">
-          <a href="https://nomoreads.org/">
-            <h2>No More Ads</h2>
-            <p>I manage an organization that promotes alternative business models.<br>(We are looking for writers!)</p>
-          </a>
-        </div>
-        <div class="project">
-          <a href="https://github.com/johnjago/awesome-free-software">
-            <h2>Awesome Free Software</h2>
-            <p>Curated list of free as in freedom software applications that are of notable quality or are surprisingly useful.</p>
-          </a>
-        </div>
-        <div class="project">
-          <a href="https://simpletechtutorials.blogspot.com/">
-            <h2>Simple Tech Tutorials</h2>
-            <p>Tutorials on computer-related topics in text and video format.</p>
-          </a>
-        </div>
-      </main>
-      <footer>
-        <div class="info">
-          <p>
-            The design and contents of this <a href="https://gitlab.com/johnjago/johnjago.com">website</a> are released into the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>.
-          </p>
-          <p>
-            Powered by <a href="https://httpd.apache.org/">Apache HTTP Server</a>, <a href="https://www.gandi.net/">Gandi</a>, and <a href="https://www.digitalocean.com/">DigitalOcean</a>.
-          </p>
-        </div>
-      </footer>
-    </div>
+      </div>
+      <div class="col-50">
+        <nav>
+          <a href="#about">About</a>
+          <a href="#projects">Projects</a>
+          <a href="#links">Links</a>
+        </nav>
+      </div>
+    </header>
+    <section>
+      <h2 id="about">About</h2>
+      <p>
+        Software developer whose enjoys the web, open source, and "quality software
+        with a focus on <a href="http://suckless.org/philosophy">simplicity,
+        clarity, and frugality</a>."
+      </p>
+    </section>
+    <section class="projects">
+      <h2 id="projects">Projects</h2>
+      <h3><a href="https://johnjago.com/deformat/">Deformat</a></h3>
+      <p>Simple tool that removes whitespace and line breaks from text.</p>
+      <h3><a href="https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/">Stripped YouTube</a></h3>
+      <p>Firefox WebExtension that hides the YouTube comment section, related videos, and other distractions for a more pleasant and focused viewing experience.</p>
+      <h3><a href="https://nomoreads.org/">No More Ads</a></h3>
+      <p>I manage an organization that promotes alternative business models.<br>(We are looking for writers!)</p>
+      <h3><a href="https://github.com/johnjago/awesome-free-software">Awesome Free Software</a></h3>
+      <p>Curated list of free as in freedom software applications that are of notable quality or are surprisingly useful.</p>
+      <h3><a href="https://simpletechtutorials.blogspot.com/">Simple Tech Tutorials</a></h3>
+      <p>Tutorials on computer-related topics in text and video format.</p>
+    </section>
+    <section>
+      <h2 id="links">Links</h2>
+      <div class="col-50">
+        <h3>Personal</h3>
+        <ul>
+          <li><a href="https://gitlab.com/users/johnjago/projects">GitLab</a></li>
+          <li><a href="https://github.com/johnjago">GitHub</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/profiles/johnjago">MDN</a></li>
+          <li><a href="https://stackoverflow.com/users/7691151/john-jago">Stack&nbsp;Overflow</a></li>
+          <li><a href="https://hackerrank.com/johnjago">HackerRank</a></li>
+        </ul>
+      </div>
+      <div class="col-50">
+        <h3>Other</h3>
+        <ul>
+          <li><a href="https://suckless.org/">suckless.org</a></li>
+          <li><a href="https://fsf.org/">Free Software Foundation</a></li>
+          <li><a href="https://www.eff.org/">Electronic Frontier Foundation</a></li>
+          <li><a href="https://www.gandi.net">Gandi</a></li>
+          <li><a href="http://uncopyright.org">Uncopyright</a></li>
+        </ul>
+      </div>
+    </section>
+    <footer class="col-100">
+      <p>
+        The design and contents of this <a href="https://gitlab.com/johnjago/johnjago.com">website</a>
+        are released into the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>.
+      </p>
+    </footer>
   </body>
 </html>
