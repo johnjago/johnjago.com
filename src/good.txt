@@ -6,7 +6,7 @@ GitLab              gitlab.com
 Mozilla             mozilla.org
 NewDream            newdream.org
 ProtonMail          protonmail.com
-RedHat              redhat.com
+Red Hat             redhat.com
 Sirimangalo         sirimangalo.org
 suckless.org        suckless.org
 Story of Stuff      storyofstuff.org
@@ -14,5 +14,6 @@ Time Well Spent     timewellspent.io
 Creative Commons                creativecommons.org
 Electronic Frontier Foundation  eff.org
 Free Software Foundation        fsf.org
+QuestionCopyright.org           questioncopyright.org
 Software Freedom Conservancy    sfconservancy.org
 Wikimedia Foundation            wikimediafoundation.org
