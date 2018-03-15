@@ -21,7 +21,7 @@ time, mark, audio, video {
 
 body {
   color: #333;
-  font-family: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro", monospace;
+  font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Mono', 'Droid Sans Mono', 'Source Code Pro', monospace;
   font-size: 0.9em;
   line-height: 1.35;
   max-width: 40rem;
@@ -29,21 +29,13 @@ body {
 }
 
 h1 {
-  font-size: 1.15em;
-}
-
-h2 {
   font-size: 1.05em;
-}
-
-h1,
-h2 {
   margin: 20px 0;
 }
 
 ul {
-  list-style: none;
   color: #666;
+  list-style: none;
 }
 
 li {
