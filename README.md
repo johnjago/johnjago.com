@@ -1,7 +1,7 @@
 # johnjago.com
 
-Plain HTML and CSS, along with a script to do the dirty work.
+Plain HTML, CSS, and JS, along with a script to do the dirty work.
 
-# License
+## License
 
 CC0
