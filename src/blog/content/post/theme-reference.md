@@ -2,7 +2,7 @@
 title: "Theme Reference"
 description: "Description of the post"
 date: 2017-07-23T16:20:16+02:00
-draft: false
+draft: true
 ---
 
 This is a post to help showing the _complete_ rules of this theme.
