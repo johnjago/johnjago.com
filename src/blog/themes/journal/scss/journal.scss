@@ -2,8 +2,8 @@ $black: #303030;
 $gray: #686868;
 $light-gray: #e5e5e5;
 $white: #fbfbfb;
-$serif: 'Arvo';
-$monospace: '"Source Code Pro"';
+$serif: 'Arvo',Georgia,serif;
+$monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 $fs: 1rem;
 $fs-large: 1.125rem;
 $std-margin: 0 0 1rem;
@@ -20,7 +20,7 @@ html {
 
   color: $black;
 
-  font-family: $serif, serif;
+  font-family: $serif;
   font-size: $fs;
 
   @media screen and (min-width: $break-small) {
@@ -136,11 +136,23 @@ abbr {
 kbd,
 code,
 pre {
-  font-family: $monospace, monospace;
+  font-family: $monospace;
 }
 
 pre {
+  background: #fff;
+  border: 1px solid #ddd;
   max-width: 100%;
+  overflow-x: auto;
+  padding: 1em;
+
+  code {
+    background: none;
+  }
+}
+
+code {
+  font-size: 85%;
 }
 
 kbd,
@@ -217,7 +229,7 @@ h6 {
   margin: 3rem 0 0;
   font-size: .8125rem;
 
-  [itemprop="sameAs"] + [itemprop="sameAs"] {
+  a + a {
     margin-left: .4rem;
   }
 
@@ -270,8 +282,4 @@ h6 {
     margin: $std-margin;
     text-align: right;
   }
-}
-
-.hljs {
-  font-size: .875rem;
 }
