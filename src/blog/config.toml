@@ -1,11 +1,11 @@
-baseURL = "https://johnjago.com/"
+baseURL = "https://johnjago.com/blog/"
 languageCode = "en-us"
 title = "John's Software Blog"
 theme = "journal"
 
 [author]
   name = "John Jago"
-  homepage = "https://johnjago.com/"
+  homepage = "https://johnjago.com"
 
 [params]
   description = "Sharing what I learn about Linux, back-end development, and life in general."
@@ -13,13 +13,13 @@ theme = "journal"
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "about/"
 [[menu.main]]
     name = "Blogroll"
-    url = "/blogroll/"
+    url = "blogroll/"
 [[menu.main]]
     name = "Books"
-    url = "/books/"
+    url = "books/"
 [[menu.main]]
     name = "Uncopyright"
-    url = "/uncopyright/"
+    url = "uncopyright/"
