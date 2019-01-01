@@ -1,0 +1,11 @@
+
+      <footer class="site-footer">
+          {{ range .Site.Menus.main }}
+          <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+          {{ end }}
+
+        <!-- {{ .Hugo.BuildDate }} -->
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+---
+title: "Off to a Good Start"
+date: 2018-12-29
+draft: false
+---
+
+The hardest part of starting a blog was choosing a theme. After going through every theme in the official Hugo collection (I decided to use Hugo over Write.as and WordPress, the other two platforms I was considering), I found exactly two themes that I could start using without spending days tweaking HTML and CSS (which I think is not a good use of time). The first one was xmin by [yihui](https://github.com/yihui/hugo-xmin), and the second one was Journal by [Damien Caselli](https://github.com/damiencaselli). I was partial towards xmin because of its raw simplicity. It did not take too long to figure out how Hugo's templating worked by looking at the code. Yihui also happened to graduate from the school I'm attending now. However, the layout and style of the Journal theme was perfect. It was what I would design if I wanted to spend time designing a Hugo theme.
+
+Of course, there were a few changes that I had to make, such as the addition of navigation links and standalone pages. Thanks to Hugo, doing this took maybe a few minutes, and once it's all set up, I won't have to touch HTML or CSS at all. Everything can be done by adding content and data through markdown and config files. There was also quite a bit that I removed, including a 100 KB code highlighting library and Source Code Pro from Google Fonts for the code snippets, instead opting for Bootstrap's monospace system font stack.
+
+With Hugo, I was able to get a good looking blog up and running within minutes. Learning the basics of using it and extending themes took no time at all. And by the looks of it, adding content in the future will be just as easy. This makes Hugo a great piece of software.

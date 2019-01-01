@@ -1,0 +1,25 @@
+baseURL = "https://johnjago.com/blog/"
+languageCode = "en-us"
+title = "John's Software Blog"
+theme = "journal"
+
+[author]
+  name = "John Jago"
+  homepage = "https://johnjago.com"
+
+[params]
+  description = "Sharing what I learn about Linux, back-end development, and life in general."
+  tagline = "Linux, back-end development, and other musings"
+
+[[menu.main]]
+    name = "About"
+    url = "about/"
+[[menu.main]]
+    name = "Blogroll"
+    url = "blogroll/"
+[[menu.main]]
+    name = "Books"
+    url = "books/"
+[[menu.main]]
+    name = "Uncopyright"
+    url = "uncopyright/"
