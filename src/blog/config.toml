@@ -18,8 +18,5 @@ theme = "journal"
     name = "Blogroll"
     url = "blogroll/"
 [[menu.main]]
-    name = "Books"
-    url = "books/"
-[[menu.main]]
     name = "Uncopyright"
     url = "uncopyright/"
