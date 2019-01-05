@@ -1,9 +1,30 @@
+@font-face {
+  font-family: Charter;
+  font-style: normal;
+  font-weight: normal;
+  src: local('CharterBT-Roman'), url('/blog/fonts/charter_regular-webfont.woff');
+}
+
+@font-face {
+  font-family: Charter;
+  font-style: normal;
+  font-weight: bold;
+  src: local('CharterBT-Bold'), url('/blog/fonts/charter_bold-webfont.woff');
+}
+
+@font-face {
+  font-family: Charter;
+  font-style: italic;
+  font-weight: normal;
+  src: local('CharterBT-Italic'), url('/blog/fonts/charter_italic-webfont.woff');
+}
+
 $black: #303030;
 $gray: #686868;
 $light-gray: #e5e5e5;
 $white: #fbfbfb;
-$serif: 'Arvo',Georgia,serif;
-$monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+$serif: Charter,'Bitstream Charter',Palatino,'Palatino Linotype','Palatino LT STD','Book Antiqua',Georgia,serif;
+$monospace: SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;
 $fs: 1rem;
 $fs-large: 1.125rem;
 $std-margin: 0 0 1rem;
