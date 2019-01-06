@@ -1,0 +1,31 @@
+---
+title: "The Typographer's Serif System Font Stack"
+date: 2019-01-06
+draft: false
+---
+
+GitHub, Bootstrap, and many others have switched to system fonts stacks. The idea is that modern computers come with good fonts installed, so why not use those instead of making additional requests to download (often large) font files? There are good system fonts stacks out there for sans-serif and monospaced fonts, but serif font stacks are lacking. I've seen many include Times New Roman and other overused, poorly designed fonts.
+
+So here is what I came up with:
+
+```
+font-family: 'Bitstream Charter', Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+```
+
+I referenced the [chapter on system fonts](https://practicaltypography.com/system-fonts.html) in Matthew Butterick's Practical Typography to find out what options were available.
+
+Simply listing all the fonts in the "generally tolerable" section would have sufficed, but I wanted some consistency.
+
+Then I came across [CSS Font Stack](https://www.cssfontstack.com/), which lists stacks of web safe fonts along with the percentage of Windows and macOS computers that would have the primary font. Excluding Times New Roman, it looked like the best choice was going to be the font stack based on Palatino, so that is where I started.
+
+There was one font, [Charter](https://practicaltypography.com/charter.html), which I added to the front of the list. It's not clear how many Windows and macOS computers come with this font, but it does seem like it can be found in most distributions of Linux.
+
+The fonts following Palatino are variations of Palatino, save for Georgia, which is there as one last defense before the browser uses a horrid default serif font. Of course, this is not true for Linux users since Georgia is not included as a system font. On the flip side, Linux users should catch one of the better fonts at the beginning of the list.
+
+## Browser Problems
+
+Firefox seems to pick up all my system fonts just fine. It even chooses the correct Palatino clone, URW Palladio L. Chrome is another story. Both on my computer and on a fresh installation in a VM, Chrome completely ignores many system fonts, and I could not figure out why, which brings me to my final point.
+
+Perfecting a system font stack is difficult. Considering the number of operating systems and browsers out there, there is certainly someone who is looking at your site in the world's ugliest font. Even on modern systems, issues like the Firefox/Chrome discrepancy that I found can be troublesome.
+
+So if people will be doing a lot of reading on your site, don't be afraid to send them a professional web font as well. In this scenario, the benefits outweigh the costs.
