@@ -15,8 +15,8 @@ theme = "journal"
     name = "About"
     url = "about/"
 [[menu.main]]
-    name = "Blogroll"
-    url = "blogroll/"
+    name = "Reading"
+    url = "recommended/"
 [[menu.main]]
     name = "Uncopyright"
     url = "uncopyright/"
