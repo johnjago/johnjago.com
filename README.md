@@ -1,6 +1,6 @@
 # johnjago.com
 
-Plain HTML, CSS, and JS, along with a script to do the dirty work.
+What I'm doing + a blog powered by Hugo.
 
 ## License
 
