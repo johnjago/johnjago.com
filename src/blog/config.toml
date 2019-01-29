@@ -8,7 +8,7 @@ theme = "journal"
   homepage = "https://johnjago.com"
 
 [params]
-  description = "Sharing what I learn about Linux, back-end development, and life in general."
+  description = "Sharing what I learn about Linux, back-end development, and software in general."
   tagline = "Linux, back-end development, and other musings"
 
 [[menu.main]]

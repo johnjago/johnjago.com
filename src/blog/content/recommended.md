@@ -11,7 +11,7 @@ Reading is one of the best ways to learn something new. However, not everything 
 
 ## Papers & Protocols
 
-The distributed architecture of peer-to-peer computer networks is something that I often read about. While these concepts are not directly applicable to all fields of software development, the innovative thinking behind them certainly is.
+The distributed architecture of peer-to-peer computer networks is wonderful. While these concepts are not directly applicable to all fields of software development, the innovative thinking behind them certainly is.
 
 - [Leader Election in a Smartphone Peer-to-Peer Network](http://people.cs.georgetown.edu/~cnewport/pubs/le-IPDPS2017.pdf)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
@@ -21,8 +21,7 @@ The distributed architecture of peer-to-peer computer networks is something that
 - [Joel on Software](https://www.joelonsoftware.com/) (software, business)
 - [Cal Newport](http://calnewport.com/blog/) (technology and society)
 - [Matt](https://write.as/matt/) (founder of Write.as)
-- [Derek Sivers](https://sivers.org/blog) (programming, minimalism, personal development)
-- [Om Malik](https://om.co/) (industry, technology)
+- [Derek Sivers](https://sivers.org/blog) (programming, entrepreneurship, personal development)
 - [Frankology](https://frankology.net/) (brutally honest advice)
 - [Coding Horror](https://blog.codinghorror.com/) (humans and software)
 
