@@ -1,8 +1,10 @@
---- 
+---
 title: "Typefaces Included with Ubuntu 18.04"
 date: 2019-01-05
+type: "post"
+slug: "ubuntu-typefaces"
 draft: false
---- 
+---
 
 It's easy to find what typefaces are included with Windows and macOS, but for some reason I could not find a list of typefaces included with Ubuntu, so I downloaded a fresh copy of Ubuntu 18.04 LTS and booted it up in a VM to find out.
 
