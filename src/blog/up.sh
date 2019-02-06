@@ -1,4 +1,5 @@
 #!/bin/bash
 
 hugo
-rsync -av public/ do:/var/www/html/johnjago.com/public/blog/
+rsync -av --delete public/ do:/var/www/html/johnjago.com/public/blog/
+rm -rf public/
