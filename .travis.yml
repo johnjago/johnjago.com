@@ -1,5 +1,10 @@
+language: generic
+if: branch = master
+
 addons:
   ssh_known_hosts: johnjago.com
+
+install: true
 
 script:
   - mkdir -p dist/blog/
@@ -15,5 +20,3 @@ before_deploy:
 deploy:
   provider: script
   script: rsync --dry-run -azvP --delete dist/ $USER@johnjago.com:$WWW/
-  on:
-    branch: master
