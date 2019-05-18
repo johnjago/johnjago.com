@@ -1,6 +1,11 @@
 addons:
   ssh_known_hosts: johnjago.com
 
+script:
+  - mkdir -p dist/blog/
+  - cd src/blog/ && hugo && mv public/* ../../dist/blog/ && cd ..
+  - rsync -av --exclude=blog/ --exclude=favicon.png . ../dist/
+
 before_deploy:
   - openssl aes-256-cbc -K $encrypted_829f045482e5_key -iv $encrypted_829f045482e5_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
   - eval "$(ssh-agent -s)"
@@ -9,6 +14,6 @@ before_deploy:
 
 deploy:
   provider: script
-  script: bash deploy.sh
+  script: rsync --dry-run -azvP --delete dist/ $USER@johnjago.com:$WWW/
   on:
     branch: master
