@@ -28,5 +28,6 @@ before_deploy:
   - ssh-add /tmp/deploy_rsa
 
 deploy:
+  skip_cleanup: true
   provider: script
   script: rsync --dry-run -azvP --delete dist/ $USER@johnjago.com:$WWW/
