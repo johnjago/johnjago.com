@@ -7,17 +7,10 @@ go:
 addons:
   ssh_known_hosts: johnjago.com
 
-install:
-  - mkdir $HOME/src
-  - cd $HOME/src
-  - git clone https://github.com/gohugoio/hugo.git
-  - cd hugo
-  - go install
-  - cd $TRAVIS_BUILD_DIR
-
 script:
   - mkdir -p dist/blog/
-  - cd src/blog/ && hugo && mv public/* ../../dist/blog/ && cd ..
+  - cd src/blog/
+  - ../../bin/hugo && mv public/* ../../dist/blog/ && cd ..
   - rsync -av --exclude=blog/ --exclude=favicon.png . ../dist/
   - cd ..
 
@@ -30,4 +23,4 @@ before_deploy:
 deploy:
   skip_cleanup: true
   provider: script
-  script: rsync --dry-run -azvP --delete dist/ $USER@johnjago.com:$WWW/
+  script: rsync --dry-run -azvP --delete --exclude=/deformat --exclude=/musearch dist/ $USER@johnjago.com:$WWW/
