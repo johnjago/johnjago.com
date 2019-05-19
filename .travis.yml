@@ -1,10 +1,17 @@
-language: generic
 if: branch = master
+language: go
+go:
+  - 1.11.x
 
 addons:
   ssh_known_hosts: johnjago.com
 
-install: true
+install:
+  - mkdir $HOME/src
+  - cd $HOME/src
+  - git clone https://github.com/gohugoio/hugo.git
+  - cd hugo
+  - go install
 
 script:
   - mkdir -p dist/blog/
