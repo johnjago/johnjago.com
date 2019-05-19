@@ -18,6 +18,7 @@ script:
   - mkdir -p dist/blog/
   - cd src/blog/ && hugo && mv public/* ../../dist/blog/ && cd ..
   - rsync -av --exclude=blog/ --exclude=favicon.png . ../dist/
+  - cd ..
 
 before_deploy:
   - openssl aes-256-cbc -K $encrypted_829f045482e5_key -iv $encrypted_829f045482e5_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
