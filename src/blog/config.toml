@@ -12,5 +12,8 @@ theme = "journal"
   tagline = "Linux, back-end development, and other musings"
 
 [[menu.main]]
-    name = "About"
-    url = "about/"
+  name = "Now"
+  url="https://johnjago.com"
+[[menu.main]]
+  name = "About"
+  url = "about/"
