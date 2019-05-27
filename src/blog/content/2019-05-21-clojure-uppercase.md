@@ -53,10 +53,8 @@ The final result:
 (defn has-uppercase? [str]
   (some #(Character/isUpperCase %) str))
 
-(print (has-uppercase? "abc")) ; nil - all characters checked without finding uppercase
-(newline)
-(print (has-uppercase? "aBc")) ; true - it stops when it finds B
-(newline)
+(println (has-uppercase? "abc")) ; nil - all characters checked without finding uppercase
+(println (has-uppercase? "aBc")) ; true - it stops when it finds B
 ```
 
 Notice that the function itself is only two lines, and it's easy to read. The
