@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "sass": "node-sass --output-style compressed scss -o static/css"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
