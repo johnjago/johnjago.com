@@ -92,8 +92,6 @@ link="link to the source"
 
 <abbr title="abbreviation">Abbr</abbr> has default styles, so has the `kbd` tag <kbd>Ctrl+f</kbd>.
 
-Theme uses [Highlight.js](https://highlightjs.org/) for code highlighting.
-
 ```python
 from flask import Flask
 
