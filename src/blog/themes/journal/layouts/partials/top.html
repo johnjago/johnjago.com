@@ -22,7 +22,9 @@
     <meta name="description" content="{{ .Description }}">
     {{- end }}
 
-    <link rel="stylesheet" href="{{ "css/journal.css" | relURL }}">
+    {{ $options := (dict "targetPath" "css/journal.css" "outputStyle" "compressed") }}
+    {{ $styles := resources.Get "scss/journal.scss" | toCSS $options | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
     <link href="{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
     <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
 
