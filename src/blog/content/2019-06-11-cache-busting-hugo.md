@@ -49,7 +49,7 @@ If you don't use Sass or want to cache bust images or JavaScript, something like
 the following is sufficient.
 
 ```
-{{ $styles := resources.Get "sccs/journal.scss" | fingerprint }}
+{{ $styles := resources.Get "css/journal.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
 ```
 
@@ -58,6 +58,6 @@ feature called Subresource Integrity. If a malicious actor tampers with the
 file before it gets to your browser, the hash will not match, and the browser
 won't execute the script or apply the stylesheet.
 
-**A final note**: If you plan on using the built-in `toCSS` function, you will need
+**A final note**: If you plan on using the `toCSS` function, you will need
 the extended Hugo binary. On the GitHub releases page, these are the ones that
 start with `hugo_extended_`.
