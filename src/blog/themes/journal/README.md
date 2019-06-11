@@ -5,11 +5,7 @@ _Journal_ is a minimalist theme for Hugo.
 It focuses on improving reading experience with high contrast colors and no
 fancy effects.
 
-### Customize styles
+## Customize styles
 
-node-sass is required to build the theme's CSS file.
-
-```bash
-$ npm install
-$ npm run sass
-```
+This theme requires the Hugo Extended binary which contains the necessary tools
+to convert SCSS to CSS without extra build systems.
