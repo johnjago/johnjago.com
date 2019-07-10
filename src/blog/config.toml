@@ -1,6 +1,6 @@
 baseURL = "https://johnjago.com/blog/"
 languageCode = "en-us"
-title = "John's Software Blog"
+title = "John’s Software Blog"
 theme = "journal"
 
 [author]
