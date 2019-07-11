@@ -21,14 +21,14 @@ time, mark, audio, video {
 
 body {
   color: #333;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
-  font-size: 0.9em;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   line-height: 1.35;
   padding: 8% 2rem;
 }
 
 h1 {
   font-size: 1.05em;
+  font-weight: bold;
   margin: 20px 0;
 }
 
@@ -37,11 +37,47 @@ ul {
 }
 
 li {
+  display: inline-block;
   margin: 5px 0;
+  padding: 20px;
 }
 
 a:link,
 a:visited {
-  color: #666;
+  color: inherit;
   text-decoration: none;
+}
+
+.desc {
+  font-size: 0.8rem;
+  margin-top: 0.6rem;
+}
+
+.tag {
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0 5px;
+  padding: 5px;
+}
+
+.go {
+  background: #51c1e3;
+}
+
+.py {
+  background: #44b78b;
+}
+
+.js {
+  background: #f1e05a;
+}
+
+.white {
+  color: #fff;
+}
+
+.light {
+  color: #666;
 }
