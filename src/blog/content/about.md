@@ -3,7 +3,7 @@ title: "About"
 draft: false
 ---
 
-My name is John Jago. I am a back-end developer and Linux enthusiast who loves minimal software and good typography.
+My name is John Jago. I am a backend developer and Linux enthusiast who loves [minimal software](https://suckless.org/) and [good typography](https://practicaltypography.com/).
 
 I created this blog to share what I learn.
 
