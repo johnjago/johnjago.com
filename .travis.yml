@@ -29,4 +29,4 @@ before_deploy:
 deploy:
   skip_cleanup: true
   provider: script
-  script: rsync -azvP --delete --exclude=/deformat --exclude=/musearch dist/ $USER@johnjago.com:$WWW/
+  script: rsync -azvP --omit-dir-times --delete --exclude=/deformat --exclude=/musearch dist/ $USER@johnjago.com:$WWW/
