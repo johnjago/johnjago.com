@@ -1,6 +1,6 @@
 if: branch = master
 
-dist: xenial
+#dist: xenial
 language: go
 go:
   - 1.11.x
