@@ -1,6 +1,6 @@
 if: branch = master
 
-#dist: xenial
+dist: xenial
 language: go
 go:
   - 1.11.x
@@ -29,4 +29,4 @@ before_deploy:
 deploy:
   skip_cleanup: true
   provider: script
-  script: rsync -azvP --omit-dir-times --no-perms --delete --exclude=/deformat --exclude=/musearch dist/ $USER@johnjago.com:$WWW/
+  script: rsync -azvP --delete --exclude=/deformat --exclude=/musearch dist/ $USER@johnjago.com:$WWW/
