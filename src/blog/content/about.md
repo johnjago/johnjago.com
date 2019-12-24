@@ -3,7 +3,9 @@ title: "About"
 draft: false
 ---
 
-My name is John Jago. I am a backend developer and Linux enthusiast who loves [minimal software](https://suckless.org/) and [good typography](https://practicaltypography.com/).
+My name is John Jago. I am a backend developer who creates secure and efficient software systems, has an eye for [typography](https://practicaltypography.com/), and enjoys learning languages, both computer and human (你好, 我的中文名字是高彰!).
+
+I graduated from Iowa State University but have no plans to stop learning.
 
 I created this blog to share what I learn.
 
