@@ -11,4 +11,6 @@ draft: false
 - [Reading books](https://stack.app/u/john/books)
 - Slowly but surely working on [CodePing](https://codeping.me/)
 
+*Updated 24 Dec 2019*
+
 Thanks to [Derek Sivers](https://sivers.org/now) for the idea of the "Now" page.
