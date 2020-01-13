@@ -8,6 +8,7 @@
 
     {{ .Content }}
 
+    <small class="muted">Found a mistake? <a href="https://github.com/johnjago/johnjago.com/tree/master/src/blog/content/{{ .Date.Format "2006-01-02" }}-{{ .Slug }}.md">Edit this post</a>.</small>
   </article>
 
 {{ partial "bottom.html" . }}
