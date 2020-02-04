@@ -48,6 +48,10 @@ a:visited {
   text-decoration: none;
 }
 
+.underline {
+  text-decoration: underline !important;
+}
+
 .desc {
   font-size: 0.8rem;
   margin-top: 0.6rem;

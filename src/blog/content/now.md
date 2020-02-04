@@ -6,11 +6,10 @@ draft: false
 ## What I'm doing now
 
 - Finishing my last semester at Iowa State University
-- Making apps and libraries with Go, Clojure, and TypeScript, and learning a lot
-  along the way
+- Learning Chinese
+- Making apps and libraries with Go and TypeScript
 - [Reading books](https://stack.app/u/john/books)
-- Slowly but surely working on [CodePing](https://codeping.me/)
 
-*Updated 24 Dec 2019*
+*Updated 4 Feb 2019*
 
 Thanks to [Derek Sivers](https://sivers.org/now) for the idea of the "Now" page.
