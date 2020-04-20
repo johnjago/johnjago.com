@@ -3,15 +3,21 @@ title: "About"
 draft: false
 ---
 
-My name is John Jago. I am a backend developer with a passion for great products.
-I have an eye for [typography](https://practicaltypography.com/) and enjoy
-learning languages, both computer and human. 你好, 我的中文名字是高彰! 有朝一日，我想
-用汉语写博文，可是现在我的汉语不好。
+Hi! I’m John Jago, a backend developer who has an eye for [typography](https://practicaltypography.com/)
+and enjoys learning languages of all kinds.
 
-These days I use Go and TypeScript because they are practical, productive, have
-wonderful communities, and cover the domain of problems that I'm interested in.
+I currently use [Go](https://golang.org/) and [TypeScript](https://www.typescriptlang.org/)
+because they are practical, productive, and have wonderful communities.
 
-I graduated from Iowa State University but have no plans to stop learning.
+你好, 我的中文名字是高彰! 有朝一日，我想用汉语写博文，可是现在我的汉语不好。
+
+I graduated from Iowa State University.
+
+## Contact
+
+If you'd like to talk about anything, feel free to send a note!
+
+- [hello@johnjago.com](mailto:hello@johnjago.com)
 
 All material on this blog is dedicated to the public domain by way of Creative
 Commons Zero. Copy it, change it, or do whatever you like with it. I’d
