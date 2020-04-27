@@ -1,5 +1,5 @@
 ---
-title: "Clojure: Checking for Uppercase Letters in a String"
+title: "Clojure: Checking for uppercase letters in a string"
 date: 2019-05-21
 type: "post"
 slug: "clojure-uppercase"
@@ -68,7 +68,7 @@ public class HasUpperCaseExample {
     System.out.println(hasUpperCase("abc"));
     System.out.println(hasUpperCase("aBC"));
   }
-  
+
   public static boolean hasUpperCase(String str) {
     for (int i = 0; i < str.length(); i++) {
       if (Character.isUpperCase(str.charAt(i))) {

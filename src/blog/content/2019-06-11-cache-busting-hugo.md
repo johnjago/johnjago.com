@@ -1,5 +1,5 @@
 ---
-title: "Cache Busting Static Assets in Hugo"
+title: "Cache busting static assets in Hugo"
 date: 2019-06-11T16:26:49-05:00
 type: "post"
 slug: "cache-busting-hugo"

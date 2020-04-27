@@ -1,5 +1,5 @@
 ---
-title: "Cache Busting with Bash"
+title: "Cache busting with Bash"
 date: 2019-12-20T20:48:07-06:00
 type: "post"
 slug: "bash-cache-busting"

@@ -1,5 +1,5 @@
 ---
-title: "Typefaces Included with Ubuntu 18.04"
+title: "Typefaces included with Ubuntu 18.04"
 date: 2019-01-05
 type: "post"
 slug: "ubuntu-typefaces"
@@ -10,7 +10,7 @@ It's easy to find what typefaces are included with Windows and macOS, but for so
 
 I retrieved this list of 128 system fonts using `fc-list : family style` and then cleaned it up.
 
-## The List
+## The list
 
 - Aakar (medium)
 - Abyssinica SIL (regular)

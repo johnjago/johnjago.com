@@ -1,5 +1,5 @@
 ---
-title: "The Discomfort Compass"
+title: "The discomfort compass"
 date: 2019-08-12T20:51:59-05:00
 type: "post"
 slug: "discomfort"
