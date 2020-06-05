@@ -73,12 +73,12 @@ a:visited {
   background: #51c1e3;
 }
 
-.py {
-  background: #44b78b;
-}
-
 .js {
   background: #f1e05a;
+}
+
+.ts {
+  background: #007acc;
 }
 
 .white {
@@ -87,9 +87,4 @@ a:visited {
 
 .light {
   color: #666;
-}
-
-.clear {
-  border: 1px solid #e7e7e7;
-  font-weight: normal;
 }
