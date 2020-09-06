@@ -11,13 +11,13 @@ I'm working with a team on a real venture: making seamless checkout experiences.
 
 I have been diving deep into Go and TypeScript, two modern languages that are a great fit for web projects, and looking for what the future will be built with. [V, maybe?](https://vlang.io/)
 
-Why the interest in programming languages? Software is powerful leverage in today's world. Languages that enable people to build faster and better software will allow more people to contribute to new technology.
+Why the interest in programming languages? Software gives people unprecedented leverage in the world. Languages that enable people to build software faster and better will allow more people to contribute to new technology.
 
 Oh, I'm also learning to read, write, and speak Mandarin Chinese!
 
 ## Reading books
 
-Over the past **2 years** I've read **11 books** that have provided a lot of
+Over the past **1 year** I've read **11 books** that have provided a lot of
 value. I only keep track of the ones worth revisiting. See the list at
 [stack.app/u/john](https://stack.app/u/john/books)
 
