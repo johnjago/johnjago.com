@@ -8,15 +8,12 @@ theme = "journal"
   homepage = "https://johnjago.com"
 
 [params]
-  description = "Sharing what I learn about backend development, programming languages, and the software industry."
+  description = "Sharing what I learn about backend development, languages, and the software industry."
   tagline = "Backend development, languages, and other musings"
 
 [[menu.main]]
   name = "johnjago.com"
   url = "https://johnjago.com"
-[[menu.main]]
-  name = "Now"
-  url="now/"
 [[menu.main]]
   name = "About"
   url = "about/"
