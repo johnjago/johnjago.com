@@ -16,7 +16,7 @@ In my spare time, I [read books](https://stack.app/u/john/books).
 
 If you'd like to talk, feel free to send a note!
 
-- [hello@johnjago.com](mailto:hello@johnjago.com)
+- hello @ this domain
 - [LinkedIn](https://www.linkedin.com/in/johnjago/)
 - [GitHub](https://github.com/johnjago)
 
