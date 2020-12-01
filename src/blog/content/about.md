@@ -4,9 +4,7 @@ draft: false
 ---
 
 Hi! I’m John Jago, a backend developer who enjoys learning languages of all
-kinds. Currently, I use [Go](https://golang.org/) and [TypeScript](https://www.typescriptlang.org/)
-to build software products because they are practical, productive, and have
-wonderful communities.
+kinds. I create software products with [Go](https://golang.org/) and [TypeScript](https://www.typescriptlang.org/) and [experiment](https://vlang.io) with programming languages to improve the way we tell computers what to do.
 
 你好, 我的中文名字是高彰! 有朝一日，我想用中文写博文，可是现在我的中文不好。
 
