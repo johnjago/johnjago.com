@@ -3,16 +3,19 @@ title: "About"
 draft: false
 ---
 
-Hi! I’m John Jago, a backend developer who enjoys learning languages of all
-kinds. I create software products with [Go](https://golang.org/) and [TypeScript](https://www.typescriptlang.org/) and [experiment](https://vlang.io) with programming languages to improve the way we tell computers what to do.
+Hi, I’m John! I create software products.
 
-你好, 我的中文名字是高彰! 有朝一日，我想用中文写博文，可是现在我的中文不好。
+I have significant experience in the JavaScript ecosystem — Node.js, TypeScript, Deno — and have been using Go lately. I love digging into layers of abstraction to understand how things work.
+
+On the side, I experiment with and contribute to programming languages, most recently the [V language](https://vlang.io/), hoping to improve the way we write software.
+
+你好, 我的中文名字是高彰! 我是一个软件工程师。现在我的中文不好。尽管如此，你可以看一下我的博客：[小笔记](https://xiaobiji.co)
 
 In my spare time, I [read books](https://stack.app/u/john/books).
 
 ## Contact
 
-If you'd like to talk, feel free to send a note!
+If you'd like to talk, don't hesitate to reach out! I enjoy meeting new people.
 
 - hello @ this domain
 - [LinkedIn](https://www.linkedin.com/in/johnjago/)
