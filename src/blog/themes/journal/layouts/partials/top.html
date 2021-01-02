@@ -27,7 +27,10 @@
     <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
     <link href="{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
     <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-
+    <script>
+      // To prevent Firefox flash of unstyled content
+      let FF_FOUC_FIX;
+    </script>
   </head>
 
   <body>
