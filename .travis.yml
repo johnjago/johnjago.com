@@ -13,11 +13,10 @@ script:
   # Build the Hugo blog and move output to dist/blog/ at root
   - cd src/blog/
   - ../../bin/hugo && mv public/* ../../dist/blog/ && cd ..
-  # Insert hash into CSS filename for cache busting
+  # Insert hash into CSS filename for cache busting (for project site, not blog)
   - ./build.sh
   # Move project site into dist/
-  # favicon.png is the full-size version of favicon-32x32.png
-  - rsync -av --exclude=blog/ --exclude=favicon.png --exclude=style.css . ../dist/
+  - rsync -av --exclude=blog/ --exclude=style.css . ../dist/
   - cd ..
 
 before_deploy:

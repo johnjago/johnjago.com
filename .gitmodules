@@ -1,0 +1,4 @@
+[submodule "src/blog/themes/timeless"]
+    path = src/blog/themes/timeless
+    url = https://github.com/johnjago/timeless.git
+    branch = main

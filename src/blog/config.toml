@@ -1,22 +1,19 @@
 baseURL = "https://johnjago.com/blog/"
 languageCode = "en-us"
-title = "John’s Software Blog"
-theme = "journal"
-
-[author]
-  name = "John Jago"
-  homepage = "https://johnjago.com"
+title = "johnjago.com"
+theme = "timeless"
 
 [params]
-  description = "Sharing what I learn about software development, languages, and the industry as a whole."
-  tagline = "Languages and other musings"
+  description = "Thoughts and ideas on software and language."
+  footerSymbol = "~"
+  allPostsText = "read more"
 
-[[menu.main]]
-  name = "小笔记"
-  url = "https://xiaobiji.co"
-[[menu.main]]
-  name = "johnjago.com"
-  url = "https://johnjago.com"
-[[menu.main]]
-  name = "About"
-  url = "about/"
+[menu]
+  [[menu.main]]
+    name = "say hi"
+    url = "about"
+    weight = 2
+  [[menu.main]]
+    name = "projects"
+    url = "https://johnjago.com"
+    weight = 3
