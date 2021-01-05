@@ -21,4 +21,4 @@ If you'd like to talk, don't hesitate to reach out! I enjoy meeting new people.
 ## Colophon
 
 This blog is a static site made with [Hugo](https://gohugo.io/), set in
-[Charter](https://practicaltypography.com/charter.html), with a theme that I made called [Timeless](#).
+[Charter](https://practicaltypography.com/charter.html), with a theme that I made called [Timeless](https://github.com/johnjago/timeless).
