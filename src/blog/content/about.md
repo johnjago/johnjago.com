@@ -6,11 +6,11 @@ draft: false
 
 I write about software and language.
 
-I have significant experience in the JavaScript ecosystem (Node.js, TypeScript, Deno) and have been using Go lately. I love digging into layers of abstraction to understand how things work, then using that understanding to build products that people love.
+I have significant experience in the JavaScript ecosystem (Node.js, TypeScript, Deno) and have been using Go lately. I love digging into layers of abstraction to understand how things work.
 
-On the side, I contribute to the field of programming languages, hoping to improve the way we write software. If you're looking for a fun introduction to the theoretical side, check out this [short paper on lambda calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf).
+On the side, I contribute to the field of programming languages, hoping to improve the way we write software. If you're looking for a fun introduction to some theory, check out this [short paper on lambda calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf).
 
-If you'd like to talk, don't hesitate to reach out! I enjoy meeting new people.
+If you'd like to talk, don't hesitate to reach out!
 
 - hello @ this domain
 - [LinkedIn](https://www.linkedin.com/in/johnjago/)
