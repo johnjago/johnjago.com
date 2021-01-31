@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Remove old temporary directories if present
-rm -r tmp/ dist/
+rm -r dist/
 
 # Create temporary build directories
 cp -R src tmp/
