@@ -6,7 +6,7 @@ draft: false
 
 I write about software and language.
 
-I have significant experience in the JavaScript ecosystem—working with Node.js, TypeScript, and [Deno](https://deno.land/). I love digging into layers of abstraction to understand how things work, then using that understanding to build products that people love.
+I love diving deep to understand how things work, then using that understanding to build products that people love.
 
 If you'd like to talk, don't hesitate to reach out!
 
