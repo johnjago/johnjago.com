@@ -6,7 +6,7 @@ draft: false
 
 I write about software and language.
 
-I love diving deep to understand how things work, then using that understanding to build products that people love.
+I like building useful products and diving deep to understand how things work.
 
 If you'd like to talk, don't hesitate to reach out!
 
