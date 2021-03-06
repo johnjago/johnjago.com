@@ -7,6 +7,7 @@ theme = "timeless"
   description = "Thoughts and ideas on software and language."
   footerSymbol = "~"
   allPostsText = "read more"
+  serif = true
 
 [menu]
   [[menu.main]]
