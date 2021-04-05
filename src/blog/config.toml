@@ -13,8 +13,8 @@ theme = "timeless"
   [[menu.main]]
     name = "say hi"
     url = "about"
-    weight = 2
+    weight = 1
   [[menu.main]]
     name = "projects"
-    url = "https://johnjago.com"
-    weight = 3
+    url = "projects"
+    weight = 2
