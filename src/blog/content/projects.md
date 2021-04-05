@@ -20,7 +20,7 @@ This is a list of side projects that I've worked on.
 
 [up](https://github.com/goupfile/up) – CLI tool for uploading files that rotates between available file uploading services since file upload sites seem to come and go.
 
-[Goupfile](https://goupfile.com/) – File upload site with a few features that others always seem to miss: uploading multiple files under a single URL, easy to remember URLs that don't have ambigious characters, QR codes for easy transfer to and from mobile devices.
+[Goupfile](https://goupfile.com/) – File upload site with a few features that others always seem to miss: uploading multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, QR codes for easy transfer to and from mobile devices.
 
 ## Active
 
