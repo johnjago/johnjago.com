@@ -4,8 +4,6 @@ type: "meta"
 draft: false
 ---
 
-This is a list of side projects that I've worked on.
-
 ## Notable
 
 [Stripped YouTube](https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/) – Firefox add-on that removes distractions on YouTube.
@@ -18,9 +16,9 @@ This is a list of side projects that I've worked on.
 
 *These are in development.*
 
-[up](https://github.com/goupfile/up) – CLI tool for uploading files that rotates between available file uploading services since file upload sites seem to come and go.
+[up](https://github.com/goupfile/up) – CLI tool for sharing files that rotates between available file uploading sites since file upload sites seem to come and go.
 
-[Goupfile](https://goupfile.com/) – File upload site with a few features that others always seem to miss: uploading multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, QR codes for easy transfer to and from mobile devices.
+[Goupfile](https://goupfile.com/) – File upload site with a few features that others seem to miss: uploading multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, QR codes for easy transfer to and from mobile devices.
 
 ## Active
 
