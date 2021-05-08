@@ -12,13 +12,15 @@ draft: false
 
 [Timeless](https://github.com/johnjago/timeless) – the blogging theme that I've always wanted.
 
+[undo.studio](https://undo.studio/) – is where I try new things and iterate quickly through product ideas.
+
 ## Not quite ready
 
 *These are in development.*
 
 [up](https://github.com/goupfile/up) – CLI tool for sharing files that rotates between available file uploading sites since file upload sites seem to come and go.
 
-[Goupfile](https://goupfile.com/) – File upload site with a few features that others seem to miss: uploading multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, QR codes for easy transfer to and from mobile devices.
+[Goupfile](https://goupfile.com/) – file upload site with a few features that others seem to miss: uploading multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, QR codes for easy transfer to and from mobile devices.
 
 ## Active
 
