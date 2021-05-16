@@ -8,11 +8,11 @@ draft: false
 
 [Stripped YouTube](https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/) – Firefox add-on that removes distractions on YouTube.
 
-[Blognow](https://github.com/johnjago/blognow) – zero config static site generator for blogs, much like Hugo but with a lot less configuration.
+[Blognow](https://github.com/johnjago/blognow) – zero config static site generator for blogs, like Hugo but with a lot less configuration.
 
-[Timeless](https://github.com/johnjago/timeless) – the blogging theme that I've always wanted.
+[Timeless](https://github.com/johnjago/timeless) – the Hugo theme used by this blog. It emphasizes readability and good typography.
 
-[undo.studio](https://undo.studio/) – is where I try new things and iterate quickly through product ideas.
+[undo.studio](https://undo.studio/) – a brand under which I do more artistic things and launch software products.
 
 ## Not quite ready
 
@@ -21,6 +21,8 @@ draft: false
 [up](https://github.com/goupfile/up) – CLI tool for sharing files that rotates between available file uploading sites since file upload sites seem to come and go.
 
 [Goupfile](https://goupfile.com/) – file upload site with a few features that others seem to miss: uploading multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, QR codes for easy transfer to and from mobile devices.
+
+[Pitch](https://pitch-iota.vercel.app/) – web version of the original [Pitch Card Generator](projects#deprecated), built with Next.js and deployed to Vercel. This was the first time I tried out Next.js/Vercel, and it was by far the best developer UX I've seen.
 
 ## Active
 
