@@ -18,11 +18,11 @@ draft: false
 
 *These are in development.*
 
-[up](https://github.com/goupfile/up) – command line tool for uploading files to various file sharing sites and services.
+[Goupfile](https://goupfile.com/) – file sharing with support for multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, and QR codes for transfer to and from mobile devices.
 
-[Goupfile](https://goupfile.com/) – file sharing site that supports multiple files under a single URL, has easy to remember URLs that don't have ambiguous characters, and has QR codes for easy transfer to and from mobile devices.
+[up](https://github.com/goupfile/up) – command line tool for uploading files to various file sharing services.
 
-[Flowstash](http://flowstash.com/) – an interesting twist on issue tracking tools that turns GitHub or GitLab issues into an open canvas.
+[Flowstash](http://flowstash.com/) – a twist on issue tracking tools that turns GitHub or GitLab issues into an open canvas.
 
 ## Active
 
