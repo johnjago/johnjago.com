@@ -18,3 +18,7 @@ theme = "timeless"
     name = "projects"
     url = "projects"
     weight = 2
+  [[menu.main]]
+    name = "notes"
+    url = "notes"
+    weight = 3
