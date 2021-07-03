@@ -40,3 +40,15 @@ way they run their business.
 
 - [Fathom Analytics](https://usefathom.com)
 - [Write.as](https://write.as/)
+
+## Typography
+
+> matters because it helps conserve the most valuable resource you have as a writer—*reader attention*.
+
+- [Butterick’s Practical Typography](https://practicaltypography.com/)
+- [Typography for Lawyers](https://typographyforlawyers.com/)
+- [I Love Typography](https://fonts.ilovetypography.com/)
+- [MB Type](https://mbtype.com/)
+- [Grilli Type](https://www.grillitype.com/)
+- [type.today](https://type.today/en)
+- [TypeTogether](https://www.type-together.com/)
