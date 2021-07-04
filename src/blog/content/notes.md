@@ -52,3 +52,18 @@ way they run their business.
 - [Grilli Type](https://www.grillitype.com/)
 - [type.today](https://type.today/en)
 - [TypeTogether](https://www.type-together.com/)
+
+## Blogs
+
+well-written, perhaps underappreciated.
+
+- [tonsky.me](https://tonsky.me/)
+- [Aphyr](https://aphyr.com/)
+- [danluu.com](https://danluu.com/)
+- [fasterthanli.me](https://fasterthanli.me/)
+- [programming is terrible](https://programmingisterrible.com/)
+- [benkuhn.net](https://www.benkuhn.net/)
+- [Proper Fixation](https://yosefk.com/blog/)
+- [マリウス](https://マリウス.com/)
+- [Thesephist](https://thesephist.com/)
+- [hex22.org](https://hex22.org/blog/)
