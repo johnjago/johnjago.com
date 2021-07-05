@@ -67,3 +67,16 @@ well-written, perhaps underappreciated.
 - [マリウス](https://マリウス.com/)
 - [Thesephist](https://thesephist.com/)
 - [hex22.org](https://hex22.org/blog/)
+
+## Podcasts
+
+for software developers.
+
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
+- [Changelog](https://changelog.com/)
+- [Above Board](https://usefathom.com/above-board)
+- [Developer Tea](https://developertea.com/)
+- [Full Stack Radio](https://fullstackradio.com/)
+- [Bootstrapped.fm](https://bootstrapped.fm/)
+- [The Art of Product](https://artofproductpodcast.com/)
+- [二分电台](https://binary.2bab.me/)
