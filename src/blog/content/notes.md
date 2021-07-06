@@ -29,7 +29,7 @@ worth reading if the title seems relevant to you.
 
 ## Apps
 
-which are not mere tools, but more extensions of thought.
+but more like extensions of thought.
 
 - [Nota](https://nota.md/)
 
@@ -40,6 +40,7 @@ way they run their business.
 
 - [Fathom Analytics](https://usefathom.com)
 - [Write.as](https://write.as/)
+- [Ghost](https://ghost.org/)
 
 ## Typography
 
@@ -80,3 +81,8 @@ for software developers.
 - [Bootstrapped.fm](https://bootstrapped.fm/)
 - [The Art of Product](https://artofproductpodcast.com/)
 - [二分电台](https://binary.2bab.me/)
+
+## Web tools
+
+- [Coolors](https://coolors.co/)
+- [Accessible colors](https://accessible-colors.com/)
