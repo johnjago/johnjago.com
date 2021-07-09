@@ -94,15 +94,13 @@ for software developers.
 - [Dave's Visual Guide to dwm](https://ratfactor.com/dwm)
 - [Vim cheat sheet](https://vim.rtorr.com/)
 
-```sh
-# text file to PDF
-enscript file.txt --output=- | ps2pdf - > file.pdf
-```
+### Text file to PDF
 
-```sh
-# top 40 most used commands
-history | awk 'BEGIN {FS="[ \t]+|\\|"} {print $3}' | sort | uniq -c | sort -nr | head -n 40
-```
+`enscript file.txt --output=- | ps2pdf - > file.pdf`
+
+### Top 40 most used commands
+
+`history | awk 'BEGIN {FS="[ \t]+|\\|"} {print $3}' | sort | uniq -c | sort -nr | head -n 40`
 
 ## Quotes
 
