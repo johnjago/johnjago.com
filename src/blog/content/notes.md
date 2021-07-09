@@ -19,6 +19,7 @@ which all meet one criteria: they flipped my perspective on something.
 - [effort](https://ava.substack.com/p/effort)
 - [Why I'm unreachable and maybe you should be too](https://levels.io/contact-me/)
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
+- [Everyone has something to hide](https://usefathom.com/blog/to-hide)
 
 ## Other essays
 
@@ -102,3 +103,16 @@ enscript file.txt --output=- | ps2pdf - > file.pdf
 # top 40 most used commands
 history | awk 'BEGIN {FS="[ \t]+|\\|"} {print $3}' | sort | uniq -c | sort -nr | head -n 40
 ```
+
+## Quotes
+
+> If you want to build a ship, don’t drum up the men to gather wood, divide the
+> work, and give orders. Instead, teach them to yearn for the vast and endless
+> sea.
+>
+> —Antoine de Saint-Exupéry
+
+> In civilizations without boats, dreams dry up, espionage takes the place of
+> adventure and the police take the place of pirates.
+>
+> —Michel Foucault
