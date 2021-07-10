@@ -83,6 +83,16 @@ for software developers.
 - [The Art of Product](https://artofproductpodcast.com/)
 - [二分电台](https://binary.2bab.me/)
 
+## Programming & human language
+
+- [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
+- [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
+
+## Compilers, interpreters, & PL
+
+- [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
+- [Programming Language Theory](https://steshaw.org/plt/)
+
 ## Web tools
 
 - [Coolors](https://coolors.co/)
