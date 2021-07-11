@@ -90,8 +90,11 @@ for software developers.
 
 ## Compilers, interpreters, & PL
 
+- [Why Study Programming Languages?](https://cs.lmu.edu/~ray/notes/whystudyprogramminglanguages/)
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
 - [Programming Language Theory](https://steshaw.org/plt/)
+- [jeanqasaur/learn-programming-languages](https://github.com/jeanqasaur/learn-programming-languages)
+- [SIGPLAN](https://sigplan.org/)
 
 ## Web tools
 
