@@ -23,10 +23,11 @@ which all meet one criteria: they flipped my perspective on something.
 
 ## Other essays
 
-worth reading if the title seems relevant to you.
+worth reading.
 
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
 - [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
+- [The infinite-pixel screen](https://practicaltypography.com/the-infinite-pixel-screen.html)
 
 ## Apps
 
@@ -87,6 +88,7 @@ for software developers.
 
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
 - [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
+- [Project Fluent](https://projectfluent.org/)
 
 ## Compilers, interpreters, & PL
 
