@@ -6,19 +6,19 @@ draft: false
 
 ## Notable
 
+[Goupfile](https://goupfile.com/) – file sharing with support for multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, and QR codes for transfer to and from mobile devices.
+
 [Stripped YouTube](https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/) – Firefox add-on that removes distractions on YouTube.
 
-[Blognow](https://github.com/johnjago/blognow) – zero config static site generator for blogs, like Hugo but with a lot less configuration.
+[undo.studio](https://undo.studio/) – type design and software products.
 
 [Timeless](https://github.com/johnjago/timeless) – the Hugo theme used by this blog. It emphasizes readability and good typography.
 
-[undo.studio](https://undo.studio/) – art, design, and software products.
+[Blognow](https://github.com/johnjago/blognow) – zero config static site generator for blogs, like Hugo but with a lot less configuration.
 
 ## Not quite ready
 
 *These are in development.*
-
-[Goupfile](https://goupfile.com/) – file sharing with support for multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, and QR codes for transfer to and from mobile devices.
 
 [up](https://github.com/goupfile/up) – command line tool for uploading files to various file sharing services.
 
