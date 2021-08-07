@@ -13,7 +13,6 @@ If you'd like to talk, don't hesitate to reach out!
 - hello @ this domain
 - [GitHub](https://github.com/johnjago)
 - [Instagram](https://www.instagram.com/johncjago/)
-- [LinkedIn](https://www.linkedin.com/in/johnjago/)
 
 你好, 我的中文名字是高彰! 我是一个软件工程师。现在我的中文不好。尽管如此，你可以看一下我的博客：[小笔记](https://xiaobiji.co)
 
