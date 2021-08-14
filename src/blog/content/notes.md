@@ -4,11 +4,9 @@ type: "meta"
 draft: false
 ---
 
-I use this page as a personal collection of bookmarks that I can access from
-anywhere, on any device. I find that the best works, whether writing or
-software, can be difficult to come across, especially when the creator's
-motivation does not include having the largest possible audience or biggest
-share of the market.
+I find that the best works, whether writing or software, can be difficult to
+come across, especially when the creator's motivation does not include having
+the largest possible audience or biggest share of the market.
 
 ## Essays
 
@@ -28,21 +26,6 @@ worth reading.
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
 - [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 - [The infinite-pixel screen](https://practicaltypography.com/the-infinite-pixel-screen.html)
-
-## Apps
-
-but more like extensions of thought.
-
-- [Nota](https://nota.md/)
-
-## Companies
-
-that are [aboveboard](https://www.wordnik.com/words/aboveboard) in the
-way they run their business.
-
-- [Fathom Analytics](https://usefathom.com)
-- [Write.as](https://write.as/)
-- [Ghost](https://ghost.org/)
 
 ## Typography
 
@@ -98,7 +81,16 @@ for software developers.
 - [jeanqasaur/learn-programming-languages](https://github.com/jeanqasaur/learn-programming-languages)
 - [SIGPLAN](https://sigplan.org/)
 
-## Web tools
+## Tools
+
+run by [aboveboard](https://www.wordnik.com/words/aboveboard) companies.
+
+- [Fathom Analytics](https://usefathom.com)
+- [Write.as](https://write.as/)
+- [Ghost](https://ghost.org/)
+- [Nota](https://nota.md/)
+
+## Web
 
 - [Coolors](https://coolors.co/)
 - [Accessible colors](https://accessible-colors.com/)
