@@ -66,6 +66,7 @@ for software developers.
 - [Bootstrapped.fm](https://bootstrapped.fm/)
 - [The Art of Product](https://artofproductpodcast.com/)
 - [二分电台](https://binary.2bab.me/)
+- [CoRecursive](https://corecursive.com/)
 
 ## Programming & human language
 
