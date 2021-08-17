@@ -53,6 +53,7 @@ well-written, perhaps underappreciated.
 - [マリウス](https://マリウス.com/)
 - [Thesephist](https://thesephist.com/)
 - [hex22.org](https://hex22.org/blog/)
+- [Hundred Rabbits](https://100r.co/site/home.html)
 
 ## Podcasts
 
@@ -84,17 +85,20 @@ for software developers.
 
 ## Tools
 
-run by [aboveboard](https://www.wordnik.com/words/aboveboard) companies.
+that have a common theme, though I can't quite describe it yet, often run by
+[aboveboard](https://www.wordnik.com/words/aboveboard) companies.
 
 - [Fathom Analytics](https://usefathom.com)
 - [Write.as](https://write.as/)
 - [Ghost](https://ghost.org/)
 - [Nota](https://nota.md/)
+- [Hardly Everything](https://www.hardlyeverything.com/)
 
 ## Web
 
 - [Coolors](https://coolors.co/)
 - [Accessible colors](https://accessible-colors.com/)
+- [favicon.io](https://favicon.io/)
 
 ## Linux
 
