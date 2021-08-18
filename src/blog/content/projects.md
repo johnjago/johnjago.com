@@ -4,29 +4,21 @@ type: "meta"
 draft: false
 ---
 
-## Notable
+## Featured
 
 [Goupfile](https://goupfile.com/) – file sharing with support for multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, and QR codes for transfer to and from mobile devices.
 
-[Stripped YouTube](https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/) – Firefox add-on that removes distractions on YouTube.
+[Blognow](https://github.com/johnjago/blognow) – zero config static site generator for blogs, like Hugo but with a lot less configuration.
 
-[undo.studio](https://undo.studio/) – type design and software products.
+[Stripped YouTube](https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/) – Firefox add-on that removes distractions on YouTube.
 
 [Timeless](https://github.com/johnjago/timeless) – the Hugo theme used by this blog. It emphasizes readability and good typography.
 
-[Blognow](https://github.com/johnjago/blognow) – zero config static site generator for blogs, like Hugo but with a lot less configuration.
-
-## Not quite ready
-
-*These are in development.*
-
-[up](https://github.com/goupfile/up) – command line tool for uploading files to various file sharing services.
-
-[Flowstash](http://flowstash.com/) – a twist on issue tracking tools that turns GitHub or GitLab issues into an open canvas.
+[undo.studio](https://undo.studio/) – type design and software products.
 
 ## Active
 
-*Things that are deployed, published, or otherwise finished.*
+*These projects are deployed, published, or otherwise finished.*
 
 [Faview](https://faview.johnjago.com) – see how an image looks as a favicon in the browser tab.
 
@@ -46,7 +38,7 @@ draft: false
 
 [cshear](https://github.com/johnjago/cshear) – concurrent shearsort algorithm in C using pthreads.
 
-## Deprecated
+## Archived
 
 *These are no longer in active development or use.*
 
