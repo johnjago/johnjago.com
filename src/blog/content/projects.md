@@ -16,6 +16,8 @@ draft: false
 
 [undo.studio](https://undo.studio/) – type design and software products.
 
+[xiaobiji.co](https://xiaobiji.co/) – my other blog written in Chinese. The name means "little notes".
+
 ## Active
 
 *These projects are deployed, published, or otherwise finished.*
@@ -23,8 +25,6 @@ draft: false
 [Faview](https://faview.johnjago.com) – see how an image looks as a favicon in the browser tab.
 
 [Pitch](https://pitch-iota.vercel.app/) – web version of the original [Pitch Card Generator](projects#deprecated), built with Next.js and deployed to Vercel. This was the first time I tried out Next.js/Vercel, and it was by far the best developer UX I've seen.
-
-[xiaobiji.co](https://xiaobiji.co/) – my other blog where I practice writing Chinese. The name means "little notes".
 
 [Musearch](https://johnjago.com/musearch/) – search the same query in multiple search engines. Useful for checking how well your content shows in up various search engines.
 

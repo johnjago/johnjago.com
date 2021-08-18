@@ -4,9 +4,10 @@ type: "meta"
 draft: false
 ---
 
-I find that the best works, whether writing or software, can be difficult to
-come across, especially when the creator's motivation does not include having
-the largest possible audience or biggest share of the market.
+I find that the best creative works can be difficult to come across, especially
+when the author's motivation does not include having the largest possible
+audience or biggest share of the market. Hopefully this page will make some of
+them a little more visible.
 
 ## Essays
 
