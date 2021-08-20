@@ -107,13 +107,7 @@ that have a common theme, though I can't quite describe it yet, often run by
 - [Dave's Visual Guide to dwm](https://ratfactor.com/dwm)
 - [Vim cheat sheet](https://vim.rtorr.com/)
 
-### Text file to PDF
-
-`enscript file.txt --output=- | ps2pdf - > file.pdf`
-
-### Top 40 most used commands
-
-`history | awk 'BEGIN {FS="[ \t]+|\\|"} {print $3}' | sort | uniq -c | sort -nr | head -n 40`
+I also have a page for [Linux commands and snippets](linux).
 
 ## Quotes
 
