@@ -76,14 +76,6 @@ for software developers.
 - [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 - [Project Fluent](https://projectfluent.org/)
 
-## Compilers, interpreters, & PL
-
-- [Why Study Programming Languages?](https://cs.lmu.edu/~ray/notes/whystudyprogramminglanguages/)
-- [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
-- [Programming Language Theory](https://steshaw.org/plt/)
-- [jeanqasaur/learn-programming-languages](https://github.com/jeanqasaur/learn-programming-languages)
-- [SIGPLAN](https://sigplan.org/)
-
 ## Tools
 
 that have a common theme, though I can't quite describe it yet, often run by
