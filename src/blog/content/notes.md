@@ -6,8 +6,10 @@ draft: false
 
 I find that the best creative works can be difficult to come across, especially
 when the author's motivation does not include having the largest possible
-audience or biggest share of the market. Hopefully this page will make some of
-them a little more visible.
+audience or biggest share of the market.
+
+Apart from the bookmarks here, I also have pages for [Linux snippets](linux)
+and [quotes](quotes).
 
 ## Essays
 
@@ -76,7 +78,7 @@ for software developers.
 - [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 - [Project Fluent](https://projectfluent.org/)
 
-## Tools
+## Software products
 
 that have a common theme, though I can't quite describe it yet, often run by
 [aboveboard](https://www.wordnik.com/words/aboveboard) companies.
@@ -87,9 +89,9 @@ that have a common theme, though I can't quite describe it yet, often run by
 - [Nota](https://nota.md/)
 - [Hardly Everything](https://www.hardlyeverything.com/)
 
-## Web
+## Design tools
 
-- [Coolors](https://coolors.co/)
+- [Components AI](https://components.ai/)
 - [Accessible colors](https://accessible-colors.com/)
 - [favicon.io](https://favicon.io/)
 
@@ -98,18 +100,3 @@ that have a common theme, though I can't quite describe it yet, often run by
 - [dwm](https://dwm.suckless.org/)
 - [Dave's Visual Guide to dwm](https://ratfactor.com/dwm)
 - [Vim cheat sheet](https://vim.rtorr.com/)
-
-I also have a page for [Linux commands and snippets](linux).
-
-## Quotes
-
-> If you want to build a ship, don’t drum up the men to gather wood, divide the
-> work, and give orders. Instead, teach them to yearn for the vast and endless
-> sea.
->
-> —Antoine de Saint-Exupéry
-
-> In civilizations without boats, dreams dry up, espionage takes the place of
-> adventure and the police take the place of pirates.
->
-> —Michel Foucault
