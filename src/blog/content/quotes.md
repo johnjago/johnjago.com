@@ -14,3 +14,8 @@ draft: false
 > adventure and the police take the place of pirates.
 >
 > —Michel Foucault
+
+> If you give me six lines written by the hand of the most honest of men, I
+> will find something in them which will hang him.
+>
+> Author disputed
