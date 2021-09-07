@@ -8,8 +8,8 @@ I find that the best creative works can be difficult to come across, especially
 when the author's motivation does not include having the largest possible
 audience or biggest share of the market.
 
-Apart from the bookmarks here, I also have pages for [Linux snippets](linux)
-and [quotes](quotes).
+Apart from the bookmarks here, I also have pages for [Linux snippets](linux),
+[quotes](quotes), and [books](https://stack.app/u/john/books).
 
 ## Essays
 
