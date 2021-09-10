@@ -8,19 +8,22 @@ I find that the best creative works can be difficult to come across, especially
 when the author's motivation does not include having the largest possible
 audience or biggest share of the market.
 
-Apart from the bookmarks here, I also have pages for [Linux snippets](linux),
-[quotes](quotes), and [books](books).
+Apart from the bookmarks here, I also have pages for [quotes](quotes) and
+[books](books).
+
+Everything is sorted in alphabetical order.
 
 ## Essays
 
 which all meet one criteria: they flipped my perspective on something.
 
-- [Default to tabs instead of spaces for an 'accessible first' environment](https://alexandersandberg.com/tabs-for-accessibility/)
 - [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
+- [Default to tabs instead of spaces for an 'accessible first' environment](https://alexandersandberg.com/tabs-for-accessibility/)
 - [effort](https://ava.substack.com/p/effort)
+- [Everyone has something to hide](https://usefathom.com/blog/to-hide)
+- [Productivity advice](https://www.spakhm.com/p/productivity-advice)
 - [Why I'm unreachable and maybe you should be too](https://levels.io/contact-me/)
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
-- [Everyone has something to hide](https://usefathom.com/blog/to-hide)
 
 ## Other essays
 
@@ -35,28 +38,28 @@ worth reading.
 > matters because it helps conserve the most valuable resource you have as a writer—*reader attention*.
 
 - [Butterick’s Practical Typography](https://practicaltypography.com/)
-- [Typography for Lawyers](https://typographyforlawyers.com/)
+- [Grilli Type](https://www.grillitype.com/)
 - [I Love Typography](https://fonts.ilovetypography.com/)
 - [MB Type](https://mbtype.com/)
-- [Grilli Type](https://www.grillitype.com/)
 - [type.today](https://type.today/en)
 - [TypeTogether](https://www.type-together.com/)
+- [Typography for Lawyers](https://typographyforlawyers.com/)
 
 ## Blogs
 
 well-written, perhaps underappreciated.
 
-- [tonsky.me](https://tonsky.me/)
 - [Aphyr](https://aphyr.com/)
+- [benkuhn.net](https://www.benkuhn.net/)
 - [danluu.com](https://danluu.com/)
 - [fasterthanli.me](https://fasterthanli.me/)
-- [programming is terrible](https://programmingisterrible.com/)
-- [benkuhn.net](https://www.benkuhn.net/)
-- [Proper Fixation](https://yosefk.com/blog/)
-- [マリウス](https://マリウス.com/)
-- [Thesephist](https://thesephist.com/)
 - [hex22.org](https://hex22.org/blog/)
 - [Hundred Rabbits](https://100r.co/site/home.html)
+- [programming is terrible](https://programmingisterrible.com/)
+- [Proper Fixation](https://yosefk.com/blog/)
+- [Thesephist](https://thesephist.com/)
+- [tonsky.me](https://tonsky.me/)
+- [マリウス](https://マリウス.com/)
 
 ## Podcasts
 
@@ -80,23 +83,24 @@ for software developers.
 
 ## Software products
 
-that have a common theme, though I can't quite describe it yet, often run by
-[aboveboard](https://www.wordnik.com/words/aboveboard) companies.
+that have a common theme.
 
 - [Fathom Analytics](https://usefathom.com)
 - [Write.as](https://write.as/)
 - [Ghost](https://ghost.org/)
 - [Nota](https://nota.md/)
+- [Are.na](https://www.are.na/)
 - [Hardly Everything](https://www.hardlyeverything.com/)
 
 ## Design tools
 
 - [Components AI](https://components.ai/)
-- [Accessible colors](https://accessible-colors.com/)
+- [Coolors](https://coolors.co/)
 - [favicon.io](https://favicon.io/)
+- [Accessible colors](https://accessible-colors.com/)
 
 ## Linux
 
-- [dwm](https://dwm.suckless.org/)
+- [My dotfiles](https://github.com/johnjago/dotfiles)
 - [Dave's Visual Guide to dwm](https://ratfactor.com/dwm)
 - [Vim cheat sheet](https://vim.rtorr.com/)
