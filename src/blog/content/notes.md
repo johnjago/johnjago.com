@@ -8,8 +8,7 @@ I find that the best creative works can be difficult to come across, especially
 when the author's motivation does not include having the largest possible
 audience or biggest share of the market.
 
-Apart from the bookmarks here, I also have pages for [quotes](quotes) and
-[books](books).
+Also: [words](words), [quotes](quotes)
 
 Everything is sorted in alphabetical order.
 
@@ -65,42 +64,42 @@ well-written, perhaps underappreciated.
 
 for software developers.
 
-- [Software Engineering Daily](https://softwareengineeringdaily.com/)
-- [Changelog](https://changelog.com/)
 - [Above Board](https://usefathom.com/above-board)
+- [Bootstrapped.fm](https://bootstrapped.fm/)
+- [Changelog](https://changelog.com/)
+- [CoRecursive](https://corecursive.com/)
 - [Developer Tea](https://developertea.com/)
 - [Full Stack Radio](https://fullstackradio.com/)
-- [Bootstrapped.fm](https://bootstrapped.fm/)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [The Art of Product](https://artofproductpodcast.com/)
 - [二分电台](https://binary.2bab.me/)
-- [CoRecursive](https://corecursive.com/)
 
 ## Programming & human language
 
-- [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
 - [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
+- [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
 - [Project Fluent](https://projectfluent.org/)
 
 ## Software products
 
 that have a common theme.
 
+- [Are.na](https://www.are.na/)
 - [Fathom Analytics](https://usefathom.com)
-- [Write.as](https://write.as/)
+- [Hardly Everything](https://www.hardlyeverything.com/)
 - [Ghost](https://ghost.org/)
 - [Nota](https://nota.md/)
-- [Are.na](https://www.are.na/)
-- [Hardly Everything](https://www.hardlyeverything.com/)
+- [Write.as](https://write.as/)
 
 ## Design tools
 
+- [Accessible colors](https://accessible-colors.com/)
 - [Components AI](https://components.ai/)
 - [Coolors](https://coolors.co/)
 - [favicon.io](https://favicon.io/)
-- [Accessible colors](https://accessible-colors.com/)
 
 ## Linux
 
-- [My dotfiles](https://github.com/johnjago/dotfiles)
 - [Dave's Visual Guide to dwm](https://ratfactor.com/dwm)
+- [My dotfiles](https://github.com/johnjago/dotfiles)
 - [Vim cheat sheet](https://vim.rtorr.com/)
