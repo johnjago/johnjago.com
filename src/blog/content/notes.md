@@ -40,6 +40,7 @@ worth reading.
 - [Grilli Type](https://www.grillitype.com/)
 - [I Love Typography](https://fonts.ilovetypography.com/)
 - [MB Type](https://mbtype.com/)
+- [type.lol](https://type.lol/)
 - [type.today](https://type.today/en)
 - [TypeTogether](https://www.type-together.com/)
 - [Typography for Lawyers](https://typographyforlawyers.com/)
