@@ -32,6 +32,13 @@ worth reading.
 - [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 - [The infinite-pixel screen](https://practicaltypography.com/the-infinite-pixel-screen.html)
 
+## Talks
+
+worth watching.
+
+- [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
+- [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
+
 ## Typography
 
 > matters because it helps conserve the most valuable resource you have as a writer—*reader attention*.
@@ -104,3 +111,8 @@ that have a common theme.
 - [Dave's Visual Guide to dwm](https://ratfactor.com/dwm)
 - [My dotfiles](https://github.com/johnjago/dotfiles)
 - [Vim cheat sheet](https://vim.rtorr.com/)
+
+## Want to see more?
+
+For a more frequently updated curation of content like this, check out my
+[Are.na](https://www.are.na/john-jago).
