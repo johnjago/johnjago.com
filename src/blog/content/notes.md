@@ -70,17 +70,15 @@ well-written, perhaps underappreciated.
 
 ## Podcasts
 
-for software developers.
-
 - [Above Board](https://usefathom.com/above-board)
 - [Bootstrapped.fm](https://bootstrapped.fm/)
 - [Changelog](https://changelog.com/)
 - [CoRecursive](https://corecursive.com/)
 - [Developer Tea](https://developertea.com/)
 - [Full Stack Radio](https://fullstackradio.com/)
+- [REWORK](https://www.rework.fm/)
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [The Art of Product](https://artofproductpodcast.com/)
-- [二分电台](https://binary.2bab.me/)
 
 ## Programming & human language
 
