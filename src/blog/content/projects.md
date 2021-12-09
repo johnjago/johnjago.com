@@ -14,8 +14,6 @@ draft: false
 
 [Timeless](https://github.com/johnjago/timeless) – the Hugo theme used by this blog. It emphasizes readability and good typography.
 
-[undo.studio](https://undo.studio/) – type design and software products.
-
 [xiaobiji.co](https://xiaobiji.co/) – my other blog written in Chinese. The name means "little notes".
 
 ## Active
