@@ -2,6 +2,7 @@ baseURL = "https://johnjago.com/blog/"
 languageCode = "en-us"
 title = "johnjago.com"
 theme = "timeless"
+rssLimit = 25
 
 [params]
   description = "Thoughts and ideas on software and language."
