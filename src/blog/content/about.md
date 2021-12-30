@@ -8,7 +8,7 @@ I write about software and language.
 
 I like building useful products and diving deep to understand how things work.
 
-你好, 我的中文名字是高彰！我是一个软件工程师。现在我的中文不好。尽管如此，你可以看一下我的博客，[小笔记](https://xiaobiji.co)。
+你好，我的中文名字是高彰！我是一个软件工程师。现在我的中文不好。尽管如此，你可以看一下我的博客，[小笔记](https://xiaobiji.co)。
 
 ## Get in touch
 
