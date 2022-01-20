@@ -1,3 +1,4 @@
 dist/
 src/blog/public/
 src/blog/resources/
+.hugo_build.lock

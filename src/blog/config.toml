@@ -5,7 +5,7 @@ theme = "timeless"
 rssLimit = 25
 
 [params]
-  description = "Thoughts and ideas on software and language."
+  description = "Thoughts and ideas on software, language, and building products that last."
   footerSymbol = "~"
   allPostsText = "read more"
   serif = true
