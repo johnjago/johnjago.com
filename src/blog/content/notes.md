@@ -8,6 +8,8 @@ I find that the best creative works can be difficult to come across, especially
 when the author's motivation does not include having the largest possible
 audience or biggest share of the market.
 
+This is a page for those creative works.
+
 Also: [words](words), [quotes](quotes)
 
 Everything is sorted in alphabetical order.
@@ -29,6 +31,7 @@ which all meet one criteria: they flipped my perspective on something.
 worth reading.
 
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
+- [Rewriting the Technical Interview](https://aphyr.com/posts/353-rewriting-the-technical-interview)
 - [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 - [The infinite-pixel screen](https://practicaltypography.com/the-infinite-pixel-screen.html)
 
@@ -49,24 +52,30 @@ worth watching.
 - [MB Type](https://mbtype.com/)
 - [type.lol](https://type.lol/)
 - [type.today](https://type.today/en)
-- [TypeTogether](https://www.type-together.com/)
-- [Typography for Lawyers](https://typographyforlawyers.com/)
 
 ## Blogs
 
-well-written, perhaps underappreciated.
+well-written, always insightful, perhaps underappreciated.
 
-- [Aphyr](https://aphyr.com/)
+- [マリウス](https://マリウス.com/)
 - [benkuhn.net](https://www.benkuhn.net/)
 - [danluu.com](https://danluu.com/)
 - [fasterthanli.me](https://fasterthanli.me/)
 - [hex22.org](https://hex22.org/blog/)
-- [Hundred Rabbits](https://100r.co/site/home.html)
+- [Micropreneur Life](https://micropreneur.life/)
+- [neil.computer](https://neil.computer/)
 - [programming is terrible](https://programmingisterrible.com/)
 - [Proper Fixation](https://yosefk.com/blog/)
 - [Thesephist](https://thesephist.com/)
 - [tonsky.me](https://tonsky.me/)
-- [マリウス](https://マリウス.com/)
+
+## Studios
+
+- [Hundred Rabbits](https://100r.co/site/home.html)
+- [iA](https://ia.net/)
+- [Ink & Switch](https://www.inkandswitch.com/)
+- [Musing Studio](https://musing.studio/)
+- [Sensor Station](https://www.sensorstation.co/)
 
 ## Podcasts
 
@@ -91,6 +100,7 @@ well-written, perhaps underappreciated.
 that have a common theme.
 
 - [Are.na](https://www.are.na/)
+- [Basecamp](https://basecamp.com/)
 - [Fathom Analytics](https://usefathom.com)
 - [Hardly Everything](https://www.hardlyeverything.com/)
 - [Ghost](https://ghost.org/)
@@ -103,9 +113,11 @@ that have a common theme.
 - [Components AI](https://components.ai/)
 - [Coolors](https://coolors.co/)
 - [favicon.io](https://favicon.io/)
+- [FontDrop!](https://fontdrop.info/)
 
 ## Linux
 
+- [ArchWiki](https://wiki.archlinux.org/)
 - [Dave's Visual Guide to dwm](https://ratfactor.com/dwm)
 - [My dotfiles](https://github.com/johnjago/dotfiles)
 - [Vim cheat sheet](https://vim.rtorr.com/)
@@ -114,3 +126,7 @@ that have a common theme.
 
 For a more frequently updated curation of content like this, check out my
 [Are.na](https://www.are.na/john-jago).
+
+If you just want code, my
+[GitHub stars](https://github.com/johnjago?tab=stars) are for databases, fonts,
+*nix, and programming languages, and tools that I can't live without.
