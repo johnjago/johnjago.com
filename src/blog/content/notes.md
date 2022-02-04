@@ -128,5 +128,5 @@ For a more frequently updated curation of content like this, check out my
 [Are.na](https://www.are.na/john-jago).
 
 If you just want code, my
-[GitHub stars](https://github.com/johnjago?tab=stars) are for databases, fonts,
-*nix, and programming languages, and tools that I can't live without.
+[GitHub stars](https://github.com/johnjago?tab=stars) are for all things
+related to fonts, programming languages, and tools that I can't live without.
