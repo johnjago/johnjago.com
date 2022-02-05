@@ -59,6 +59,24 @@ li a:hover,
   text-decoration-thickness: 0.125rem !important;
 }
 
+footer {
+  margin-top: 2rem;
+  -webkit-text-underline-position: under;
+  text-underline-position: under;
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 600px) {
+  footer {
+    display: inline-block;
+    transform: rotate(90deg);
+    transform-origin: right top;
+    position: absolute;
+    right: 2rem;
+    bottom: 2rem;
+  }
+}
+
 .subtitle {
   font-size: 0.8rem;
   margin-top: 0.6rem;
