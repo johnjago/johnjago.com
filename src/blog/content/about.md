@@ -6,8 +6,7 @@ draft: false
 
 I write about software and language.
 
-I like building products to solve real problems and learning how the world
-works along the way.
+I like to build useful products and learn how the world works along the way.
 
 你好，我叫高彰！我也用中文写博文，你可以看一下：[小笔记](https://xiaobiji.co)
 
