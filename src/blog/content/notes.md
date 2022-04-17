@@ -4,15 +4,15 @@ type: "meta"
 draft: false
 ---
 
-I find that the best creative works can be difficult to come across, especially
-when the author's motivation does not include having the largest possible
-audience or biggest share of the market.
+The best creative works can be difficult to come across, especially when the
+author's motivation does not include having the largest audience or biggest
+share of the market.
 
 This is a page for those creative works.
 
 Also: [words](words), [quotes](quotes)
 
-Everything is sorted in alphabetical order.
+Everything is in alphabetical order.
 
 ## Essays
 
@@ -56,7 +56,7 @@ worth watching.
 
 ## Blogs
 
-well-written, always insightful, perhaps underappreciated.
+well-written, insightful, underappreciated.
 
 - [マリウス](https://マリウス.com/)
 - [benkuhn.net](https://www.benkuhn.net/)
@@ -73,6 +73,8 @@ well-written, always insightful, perhaps underappreciated.
 - [tonsky.me](https://tonsky.me/)
 
 ## Studios
+
+staying small, staying curious.
 
 - [Hundred Rabbits](https://100r.co/site/home.html)
 - [iA](https://ia.net/)
@@ -131,5 +133,5 @@ For a more frequently updated curation of content like this, check out my
 [Are.na](https://www.are.na/john-jago).
 
 If you just want code, my
-[GitHub stars](https://github.com/johnjago?tab=stars) are for all things
-related to fonts, programming languages, and tools that I can't live without.
+[GitHub stars](https://github.com/johnjago?tab=stars) are for fonts,
+programming languages, and tools that I can't live without.
