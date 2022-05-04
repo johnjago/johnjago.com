@@ -10,7 +10,7 @@ share of the market.
 
 This is a page for those creative works.
 
-Also: [words](words), [quotes](quotes)
+Also: [books](books), [quotes](quotes), [words](words)
 
 Everything is in alphabetical order.
 
