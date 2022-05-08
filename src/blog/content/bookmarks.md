@@ -1,5 +1,5 @@
 ---
-title: "Notes and bookmarks"
+title: "Bookmarks"
 type: "meta"
 draft: false
 ---
@@ -11,48 +11,6 @@ share of the market.
 This is a page for those creative works.
 
 Also: [books](books), [quotes](quotes), [words](words)
-
-Everything is in alphabetical order.
-
-## Essays
-
-which all meet one criteria: they flipped my perspective on something.
-
-- [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
-- [Default to tabs instead of spaces for an 'accessible first' environment](https://alexandersandberg.com/tabs-for-accessibility/)
-- [effort](https://ava.substack.com/p/effort)
-- [Productivity advice](https://www.spakhm.com/p/productivity-advice)
-- [Why I'm Glad I Lack Passion to BE a Programmer](https://blog.miris.design/not-a-programmer)
-- [Why I'm unreachable and maybe you should be too](https://levels.io/contact-me/)
-- ["Write short sentences" is bad advice](https://thesephist.com/posts/long-sentences/)
-- [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
-
-## Other essays
-
-worth reading.
-
-- [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
-- [Rewriting the Technical Interview](https://aphyr.com/posts/353-rewriting-the-technical-interview)
-- [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
-- [The infinite-pixel screen](https://practicaltypography.com/the-infinite-pixel-screen.html)
-
-## Talks
-
-worth watching.
-
-- [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
-- [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
-
-## Typography
-
-> matters because it helps conserve the most valuable resource you have as a writer—*reader attention*.
-
-- [Butterick’s Practical Typography](https://practicaltypography.com/)
-- [Grilli Type](https://www.grillitype.com/)
-- [I Love Typography](https://fonts.ilovetypography.com/)
-- [MB Type](https://mbtype.com/)
-- [type.lol](https://type.lol/)
-- [type.today](https://type.today/en)
 
 ## Blogs
 
@@ -72,17 +30,38 @@ well-written, insightful, underappreciated.
 - [Thesephist](https://thesephist.com/)
 - [tonsky.me](https://tonsky.me/)
 
-## Studios
+## Essays
 
-staying small, staying curious.
+which all meet one criteria: they flipped my perspective on something.
 
-- [Hundred Rabbits](https://100r.co/site/home.html)
-- [iA](https://ia.net/)
-- [Ink & Switch](https://www.inkandswitch.com/)
-- [Musing Studio](https://musing.studio/)
-- [Sensor Station](https://www.sensorstation.co/)
+- [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
+- [Default to tabs instead of spaces for an 'accessible first' environment](https://alexandersandberg.com/tabs-for-accessibility/)
+- [effort](https://ava.substack.com/p/effort)
+- [Productivity advice](https://www.spakhm.com/p/productivity-advice)
+- [Why I'm Glad I Lack Passion to BE a Programmer](https://blog.miris.design/not-a-programmer)
+- [Why I'm unreachable and maybe you should be too](https://levels.io/contact-me/)
+- ["Write short sentences" is bad advice](https://thesephist.com/posts/long-sentences/)
+- [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
+
+## Essays
+
+worth reading.
+
+- [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
+- [Rewriting the Technical Interview](https://aphyr.com/posts/353-rewriting-the-technical-interview)
+- [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
+- [The infinite-pixel screen](https://practicaltypography.com/the-infinite-pixel-screen.html)
+
+## Talks
+
+worth watching.
+
+- [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
+- [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
 
 ## Podcasts
+
+about making and marketing.
 
 - [Above Board](https://usefathom.com/above-board)
 - [Bootstrapped.fm](https://bootstrapped.fm/)
@@ -95,12 +74,28 @@ staying small, staying curious.
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [The Art of Product](https://artofproductpodcast.com/)
 
+## Typography
+
+> matters because it helps conserve the most valuable resource you have as a writer—*reader attention*.
+
+- [Butterick’s Practical Typography](https://practicaltypography.com/)
+- [Grilli Type](https://www.grillitype.com/)
+- [I Love Typography](https://fonts.ilovetypography.com/)
+- [MB Type](https://mbtype.com/)
+- [type.lol](https://type.lol/)
+- [type.today](https://type.today/en)
+
 ## Programming & human language
 
 - [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 - [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
 - [Project Fluent](https://projectfluent.org/)
+
+## Product management
+
+- [Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/webbook)
+- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 
 ## Software products
 
@@ -116,6 +111,16 @@ with a common theme.
 - [Nicheless](https://nicheless.blog/)
 - [Write.as](https://write.as/)
 
+## Studios
+
+staying small, staying curious.
+
+- [Hundred Rabbits](https://100r.co/site/home.html)
+- [iA](https://ia.net/)
+- [Ink & Switch](https://www.inkandswitch.com/)
+- [Musing Studio](https://musing.studio/)
+- [Sensor Station](https://www.sensorstation.co/)
+
 ## Design tools
 
 - [Accessible colors](https://accessible-colors.com/)
@@ -123,11 +128,6 @@ with a common theme.
 - [Coolors](https://coolors.co/)
 - [favicon.io](https://favicon.io/)
 - [FontDrop!](https://fontdrop.info/)
-
-## Product management
-
-- [Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/webbook)
-- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 
 ## Linux
 

@@ -20,6 +20,6 @@ rssLimit = 25
     url = "projects"
     weight = 2
   [[menu.main]]
-    name = "notes"
-    url = "notes"
+    name = "bookmarks"
+    url = "bookmarks"
     weight = 3
