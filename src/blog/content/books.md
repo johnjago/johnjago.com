@@ -4,15 +4,40 @@ type: "meta"
 draft: false
 ---
 
-Books that I would read again:
+I've read some wonderful books that people have recommended to me, which I
+otherwise wouldn't have known about, so I feel a small obligation to pass on
+the favor here.
 
-*Atomic Habits*, James Clear \
-*Catch-22*, Joseph Heller \
-*Deep Work*, Cal Newport \
-*Elon Musk*, Ashlee Vance \
-*Journey through Genius: The Great Theorems of Mathematics*, William Dunham \
-*Meditations*, Marcus Aurelius \
-*Never Split the Difference*, Chris Voss \
-*The Alchemist*, Paulo Coelho \
-*The Little Prince*, Antoine de Saint-Exupéry \
-*The Selfish Gene*, Richard Dawkins
+Favorites are marked with *
+
+This is not a comprehensive list.
+
+## 2022
+
+**Blitzscaling** — Reid Hoffman \
+**Journey through Genius** — William Dunham \
+**The Innovation Stack** — Jim McKelvey \
+**Trillion Dollar Coach** — Eric Schmidt
+
+## 2021
+
+**Never Split the Difference** — Chris Voss
+
+## 2020
+
+\* **Atomic Habits** — James Clear \
+\* **Elon Musk** — Ashlee Vance
+
+## 2016–2020
+
+\* **Deep Work** — Cal Newport \
+**The Alchemist** — Paulo Coelho \
+**The Little Prince** — Antoine de Saint-Exupéry \
+\* **The Selfish Gene** — Richard Dawkins
+
+## Before 2016
+
+\* **Catch-22** — Joseph Heller \
+**Into the Wild** — Jon Krakauer \
+\* **Meditations** — Marcus Aurelius \
+**Robinson Crusoe** — Daniel Defoe
