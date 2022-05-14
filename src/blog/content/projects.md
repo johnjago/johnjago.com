@@ -8,7 +8,7 @@ draft: false
 
 [PeachPay](https://peachpay.app) - I'm one of the co-founders of a company that is building an ecommerce checkout platform.
 
-[Goupfile](https://goupfile.com/) – file sharing with support for multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, and QR codes for transfer to and from mobile devices.
+[Goupfile](https://goupfile.johnjago.com) – file sharing with support for multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, and QR codes for transfer to and from mobile devices.
 
 [Stripped YouTube](https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/) – Firefox add-on that removes distractions on YouTube.
 
@@ -26,11 +26,9 @@ draft: false
 
 [Blognow](https://github.com/johnjago/blognow) – zero config static site generator for blogs, like Hugo but with a lot less configuration.
 
-[Pitch](https://pitch-iota.vercel.app/) – web version of the original [Pitch Card Generator](projects#deprecated), built with Next.js and deployed to Vercel. This was the first time I tried out Next.js/Vercel, and it was by far the best developer UX I've seen.
+[Pitch](https://pitch-iota.vercel.app/) – web version of the original [Pitch Card Generator](projects#deprecated), built with Next.js and deployed to Vercel.
 
-[Musearch](https://johnjago.com/musearch/) – search the same query in multiple search engines. Useful for checking how well your content shows in up various search engines.
-
-[Deformat](https://johnjago.com/deformat/) – strip extra whitespace from text.
+[Deformat](https://deformat.johnjago.com) – strip extra whitespace from text.
 
 [tailwind-login](https://johnjago.github.io/tailwind-login/) – clone of the DigitalOcean login page ([archive](http://web.archive.org/web/20190113042309/https://cloud.digitalocean.com/login)) to demonstrate how flexible Tailwind CSS is. A coworker of mine couldn't tell which was the real one.
 
@@ -39,6 +37,8 @@ draft: false
 [cshear](https://github.com/johnjago/cshear) – concurrent shearsort algorithm in C using pthreads.
 
 ## Archived
+
+[Musearch](https://github.com/johnjago/musearch) – search the same query in multiple search engines. Useful for checking how well your content shows in up various search engines.
 
 [is-am-pm](https://www.npmjs.com/package/is-am-pm) – Node.js package that tells you whether a number on the 24-hour clock or a date corresponds to am or pm.
 
