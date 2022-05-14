@@ -1,2 +1,2 @@
 all:
-	./up.sh
+	./deploy.sh

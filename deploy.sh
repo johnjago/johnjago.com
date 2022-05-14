@@ -21,10 +21,7 @@ rsync -av \
     . ../dist/ && cd ..
 
 # Upload to server
-rsync -rP --delete \
-    --exclude=/deformat \
-    --exclude=/musearch \
-    dist/ root@johnjago.com:/var/www/johnjago.com/
+rsync -rP --delete dist/ john@johnjago.com:/home/john/johnjago.com/
 
 # Clean up temporary directories, leaving dist/ for debugging
 rm -r tmp/
