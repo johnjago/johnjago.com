@@ -42,6 +42,6 @@ draft: false
 
 [is-am-pm](https://www.npmjs.com/package/is-am-pm) – Node.js package that tells you whether a number on the 24-hour clock or a date corresponds to am or pm.
 
-uSay – middle school project whose full name was uSay Change. It was a site where people could submit ideas on how to improve products or services. Like [Canny](https://canny.io/) but a lot worse. Lots of hacked together PHP.
-
 [Pitch Card Generator](https://github.com/johnjago/pitch-card-generator) – made this with a friend for a high school softball coach.
+
+uSay – middle school project whose full name was uSay Change. It was a site where people could submit ideas on how to improve products or services. Like [Canny](https://canny.io/) but a lot worse. Lots of hacked together PHP.
