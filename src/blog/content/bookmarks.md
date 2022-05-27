@@ -32,7 +32,7 @@ well-written, insightful, underappreciated.
 
 ## Essays
 
-which all meet one criteria: they flipped my perspective on something.
+which all meet one criteria: they flipped my perspective.
 
 - [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
 - [Default to tabs instead of spaces for an 'accessible first' environment](https://alexandersandberg.com/tabs-for-accessibility/)
