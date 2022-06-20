@@ -39,6 +39,7 @@ The Little Prince — Antoine de Saint-Exupéry \
 ## Before 2016
 
 \* Catch-22 — Joseph Heller \
-Into the Wild — Jon Krakauer \
 \* Meditations — Marcus Aurelius \
-Robinson Crusoe — Daniel Defoe
+Robinson Crusoe — Daniel Defoe \
+Ulysses — James Joyce \
+Watership Down  — Richard Adams
