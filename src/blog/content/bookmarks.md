@@ -17,6 +17,7 @@ Also: [books](books), [quotes](quotes), [words](words)
 well-written, insightful, underappreciated.
 
 - [マリウス](https://マリウス.com/)
+- [Alexander Sandberg](https://alexandersandberg.com/)
 - [benkuhn.net](https://www.benkuhn.net/)
 - [danluu.com](https://danluu.com/)
 - [fasterthanli.me](https://fasterthanli.me/)
