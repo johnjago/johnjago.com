@@ -14,6 +14,7 @@ This is not a comprehensive list.
 
 ## 2022
 
+The Five Dysfunctions of a Team — Patrick Lencioni \
 The Cold Start Problem — Andrew Chen \
 Blitzscaling — Reid Hoffman \
 Journey through Genius — William Dunham \
