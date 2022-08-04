@@ -14,6 +14,7 @@ This is not a comprehensive list.
 
 ## 2022
 
+One Click: Jeff Bezos and the Rise of Amazon.com — Richard L. Brandt \
 No Rules Rules: Netflix and the Culture of Reinvention — Reed Hastings \
 The Five Dysfunctions of a Team — Patrick Lencioni \
 The Cold Start Problem — Andrew Chen \
