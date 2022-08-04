@@ -6,7 +6,7 @@ draft: false
 
 ## Featured
 
-[PeachPay](https://peachpay.app) - I'm one of the co-founders of a company that is building an ecommerce checkout platform.
+[PeachPay](https://peachpay.app) – I'm one of the co-founders of a company that is building an ecommerce checkout platform.
 
 [Goupfile](https://goupfile.johnjago.com) – file sharing with support for multiple files under a single URL, easy to remember URLs that don't have ambiguous characters, and QR codes for transfer to and from mobile devices.
 
