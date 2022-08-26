@@ -14,6 +14,7 @@ This is not a comprehensive list.
 
 ## 2022
 
+Trust Me, I'm Lying — Ryan Holiday \
 One Click — Richard L. Brandt \
 No Rules Rules — Reed Hastings \
 The Five Dysfunctions of a Team — Patrick Lencioni \
@@ -25,6 +26,7 @@ Trillion Dollar Coach — Eric Schmidt
 
 ## 2021
 
+Mastery — Robert Greene \
 Never Split the Difference — Chris Voss
 
 ## 2020
