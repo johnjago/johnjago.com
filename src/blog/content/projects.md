@@ -12,7 +12,7 @@ draft: false
 
 [Stripped YouTube](https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/) – Firefox add-on that removes distractions on YouTube.
 
-[xiaobiji.co](https://xiaobiji.co/) – my other blog, Little Notes, is where I write about learnings from a broader perspective. (中文)
+[xiaobiji.co](https://xiaobiji.co/) – my other blog, Little Notes, is for my writing in Chinese. (中文)
 
 [Timeless](https://github.com/johnjago/timeless) – the Hugo theme used by this blog. It emphasizes readability and good typography.
 
