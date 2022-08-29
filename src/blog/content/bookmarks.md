@@ -72,7 +72,6 @@ about making and marketing.
 - [Full Stack Radio](https://fullstackradio.com/)
 - [Product Journey](https://productjourney.fm/)
 - [REWORK](https://www.rework.fm/)
-- [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [The Art of Product](https://artofproductpodcast.com/)
 
 ## Typography
