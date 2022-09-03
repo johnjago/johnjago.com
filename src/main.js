@@ -5,4 +5,4 @@ function clickAndUpdate(id, text) {
   });
 }
 
-clickAndUpdate('email', 'hello@' + 'johnjago.com');
+clickAndUpdate('email', 'jc@' + 'johnjago.com');

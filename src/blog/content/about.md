@@ -10,7 +10,7 @@ I make, write, and explore—mostly software and languages of all kinds.
 
 ## Elsewhere
 
-- hello @ this domain
+- jc @ this domain
 - [GitHub](https://github.com/johnjago)
 - [Are.na](https://www.are.na/john-jago)
 - [Twitter](https://twitter.com/johncjago/)
