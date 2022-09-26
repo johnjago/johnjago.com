@@ -4,9 +4,8 @@ type: "meta"
 draft: false
 ---
 
-The best creative works can be difficult to come across, especially when the
-author's motivation does not include having the largest audience or biggest
-share of the market.
+The best creative works are hard to find, especially when the author does not
+wish to have the largest audience or biggest share of the market.
 
 This is a page for those creative works.
 

@@ -4,9 +4,8 @@ type: "meta"
 draft: false
 ---
 
-I've read some wonderful books that people have recommended to me, which I
-otherwise wouldn't have known about, so I feel a small obligation to pass on
-the favor here.
+People often recommend wonderful books to me that I otherwise wouldn't have
+known about, so I feel an obligation to pass on the favor here.
 
 Favorites are marked with *
 
