@@ -14,6 +14,12 @@ I played. But he practiced.
 
 —*Cal Newport*
 
+A complex system that works is invariably found to have evolved from a simple
+system that works. The inverse proposition also appears to be true: A complex
+system designed from scratch never works and cannot be made to work.
+
+—*John Gall*
+
 There's a difference between simplifying and making a higher level of
 abstraction.
 
