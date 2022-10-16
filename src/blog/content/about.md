@@ -8,16 +8,14 @@ I make, write, and explore—mostly software and languages of all kinds.
 
 你好，我叫高彰！我也用中文写博文，[你可以看一下](https://gaozhang.co)。
 
-## Elsewhere
+## Get in touch
 
-- jc @ this domain
-- [GitHub](https://github.com/johnjago)
-- [Are.na](https://www.are.na/john-jago)
-- [Twitter](https://twitter.com/johncjago/)
-- [undo.studio](https://undo.studio)
-- [RSS feed](index.xml)
+Find me on [Are.na](https://www.are.na/john-jago), [Twitter](https://twitter.com/johncjago/), and [GitHub](https://github.com/johnjago).
 
-## Colophon
+Comments? I love hearing from you! Email `jc @ this domain`
 
-This blog is a static site made with [Hugo](https://gohugo.io/), set in
-[Charter](https://practicaltypography.com/charter.html), with my theme called [Timeless](https://github.com/johnjago/timeless).
+## Follow this blog
+
+For now, there's an [RSS feed](index.xml) you can subscribe to.
+
+When I'm working on projects, I sometimes post work logs at [undo.studio](https://undo.studio/).
