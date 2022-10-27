@@ -1,8 +1,8 @@
 ---
-title: "On book recommendations"
+title: "You can’t recommend books without context"
 date: 2020-06-13T20:27:00-05:00
 type: "post"
-slug: "books"
+slug: "book-recommendations"
 draft: false
 ---
 
@@ -10,8 +10,6 @@ There's a great tool called [stack.app](https://stack.app/u/john/books), which
 I use to keep track of book I've read. It's like Goodreads but without the
 bloat. I made a rule for myself that I would only list books that I would
 recommend to others, so that keeping track of the books wouldn't become a chore.
-
-## What does it mean to recommend a book?
 
 I thought about the context in which I read these books, and how these books
 seem amazing to me, full of insight. This context, however, only makes sense
@@ -35,22 +33,8 @@ If, after the discussion, you find that this book will potentially be useful,
 there's no harm done. You gave your friend a chance to explain what they have
 learned, and you can read the book afterwards.
 
-## The lesson
+Even with my effort to only keep a list of books to recommend, some of those
+books, to some people, I cannot recommend at all.
 
-At a certain point, **working smarter becomes the only way to make progress**.
-One person might read several books a week, and another might read only one. If
-that one book is chosen carefully, then the **net result is usually greater**.
-
-This is a **shift from short-term thinking to long-term thinking** in which you
-evaluate not only the immediate results, but also the future ones.
-
-This comes up a lot in software development in the form of technical debt,
-where it might seem good in the moment to choose the 20 minute solution over
-the 8 hour one. The problem arises when that 20 minute solution has certain
-drawbacks that eat away hours later, often many multiples of the amount of time
-that the original "long" solution would have taken.
-
-In many areas of life, putting in a little more time right now often saves
-a lot of time in the future. It's just so hard for us to do this because for
-thousands of years, humans never had the opportunity to think about anything
-other than their immediate needs.
+Book recommendations therefore only make sense when also considering the
+context of who you're recommending to.
