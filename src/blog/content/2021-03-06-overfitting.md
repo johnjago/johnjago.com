@@ -1,5 +1,5 @@
 ---
-title: "Overfitting"
+title: "Be careful about overfitting when learning new skills"
 date: 2021-03-06
 type: "post"
 slug: "overfitting"
