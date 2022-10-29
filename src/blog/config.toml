@@ -5,21 +5,21 @@ theme = "timeless"
 rssLimit = 25
 
 [params]
-  description = "Thoughts and ideas on software, typography, and building products that last."
-  footerSymbol = "~"
-  allPostsText = "read more"
-  serif = true
+	description = "Thoughts and ideas on software, typography, and building products that last."
+	footerSymbol = "~"
+	allPostsText = "read more"
+	serif = true
 
 [menu]
-  [[menu.main]]
-    name = "say hi"
-    url = "about"
-    weight = 1
-  [[menu.main]]
-    name = "projects"
-    url = "projects"
-    weight = 2
-  [[menu.main]]
-    name = "bookmarks"
-    url = "bookmarks"
-    weight = 3
+	[[menu.main]]
+		name = "say hi"
+		url = "about"
+		weight = 1
+	[[menu.main]]
+		name = "projects"
+		url = "projects"
+		weight = 2
+	[[menu.main]]
+		name = "bookmarks"
+		url = "bookmarks"
+		weight = 3
