@@ -6,7 +6,7 @@ draft: false
 
 I make, write, and explore—mostly software and languages of all kinds.
 
-On this blog I share the nuances of product design and engineering, writing, typography, language learning, building bootstrapped businesses, along with the occasional lesson to unlearn.
+I start with problems and craft tools to solve them, and on the side explore the human expression of ideas, from interfaces to typefaces and the languages we speak every day.
 
 你好，我叫高彰！我也用中文写博文，[你可以看一下](https://gaozhang.co)。
 
