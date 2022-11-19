@@ -13,20 +13,27 @@ Also: [books](books), [quotes](quotes), [words](words)
 
 ## Blogs
 
-well-written, insightful, underappreciated.
+well-written, insightful, genuine — the ones I always come back to.
 
 - [マリウス](https://マリウス.com/)
 - [Alexander Sandberg](https://alexandersandberg.com/)
+- [Autotranslucence](https://autotranslucence.wordpress.com/)
 - [benkuhn.net](https://www.benkuhn.net/)
 - [danluu.com](https://danluu.com/)
-- [fasterthanli.me](https://fasterthanli.me/)
+- [David Heinemeier Hansson](https://world.hey.com/dhh/)
+- [Derek Sivers](https://sive.rs/blog)
 - [Frank Chimero](https://frankchimero.com/blog/)
 - [hex22.org](https://hex22.org/blog/)
+- [Jordan O'Connor](https://jdnoc.com/blog/)
+- [Locklin on science](https://scottlocklin.wordpress.com/)
 - [Manu](https://manuelmoreale.com/)
+- [Matthew Butterick](https://matthewbutterick.com/chron/)
+- [Method of Action](https://method.ac/writing/) & [Exploration Work](https://exploration.work/)
 - [Micropreneur Life](https://micropreneur.life/)
 - [Miris Whispers](https://blog.miris.design/)
 - [neil.computer](https://neil.computer/)
 - [Proper Fixation](https://yosefk.com/blog/)
+- [Ryan Kulp](https://www.ryanckulp.com/)
 - [Thesephist](https://thesephist.com/)
 - [tonsky.me](https://tonsky.me/)
 
@@ -45,11 +52,10 @@ which all meet one criteria: they flipped my perspective.
 
 ## Essays
 
-worth reading.
+that go deep.
 
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
 - [Rewriting the Technical Interview](https://aphyr.com/posts/353-rewriting-the-technical-interview)
-- [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 - [The infinite-pixel screen](https://practicaltypography.com/the-infinite-pixel-screen.html)
 
 ## Talks
@@ -57,7 +63,6 @@ worth reading.
 worth watching.
 
 - [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
-- [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
 
 ## Podcasts
 
@@ -78,7 +83,6 @@ about making and marketing.
 > matters because it helps conserve the most valuable resource you have as a writer—*reader attention*.
 
 - [Butterick’s Practical Typography](https://practicaltypography.com/)
-- [Grilli Type](https://www.grillitype.com/)
 - [I Love Typography](https://fonts.ilovetypography.com/)
 - [MB Type](https://mbtype.com/)
 - [type.lol](https://type.lol/)
@@ -112,7 +116,7 @@ with a common theme.
 
 ## Studios
 
-staying small, staying curious.
+staying small and curious.
 
 - [Hundred Rabbits](https://100r.co/site/home.html)
 - [iA](https://ia.net/)
@@ -137,7 +141,7 @@ staying small, staying curious.
 
 ## Want to see more?
 
-For a more frequently updated curation of content like this, check out my
+For a more frequently updated curation, check out my
 [Are.na](https://www.are.na/john-jago).
 
 If you just want code, my
