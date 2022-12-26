@@ -54,6 +54,8 @@ A DSL for [Julia](https://julialang.org/) called JuMP can be used to [describe a
 
 OpenAI’s ChatGPT is yet another way to bridge the idea and product gap. Among other things, you can use ChatGPT in the way I described at the beginning of this post. You can literally type that sentence, perhaps adding in what programming language you want it to use, and it will create the source code for a web application that supports file uploading. It starts with the basic code, after which you can keep chatting with it about what features to add. It can’t run the application for you at the moment, but it’s not too hard to imagine an interface that hides away the source code output and has the ability to execute the code it generates.
 
+Alex Slade told ChatGPT to [build a small game in Elixir](https://thetinycto.com/blog/writing-a-game-using-chatgpt), and he did not do any coding besides giving it back compiler error messages. Even more impressive, someone told ChatGPT to [build an interpreter for their own programming language](https://6502.is-a.dev/posts/aoc-2022) and then solve programming problems with it.
+
 While not exactly a language, ChatGPT leverages the language the person already knows and programming languages that already exist to provide an interface that allows anyone to code anything.
 
 Problem solved, perhaps?
