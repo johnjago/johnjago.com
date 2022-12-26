@@ -13,7 +13,8 @@ This is not a comprehensive list.
 
 ## 2022
 
-Civilized to Death — Christopher Ryan \
+Masters of Scale — Reid Hoffman \
+\* Civilized to Death — Christopher Ryan \
 \* Trust Me, I'm Lying — Ryan Holiday \
 One Click — Richard L. Brandt \
 No Rules Rules — Reed Hastings \
