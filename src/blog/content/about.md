@@ -12,9 +12,9 @@ I start with problems and craft tools to solve them, and on the side explore the
 
 ## Follow this blog
 
-You can [subscribe to my newsletter](https://buttondown.email/john) or the [RSS feed](index.xml).
+[Subscribe to my newsletter](https://buttondown.email/john) or the [RSS feed](index.xml).
 
-For informal status updates of what I'm working on and thinking about, you can visit [undo.studio](https://undo.studio) where I post work logs.
+For informal notes on recent projects, visit [undo.studio](https://undo.studio).
 
 ## Get in touch
 
