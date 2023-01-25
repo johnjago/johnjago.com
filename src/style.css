@@ -67,6 +67,11 @@ footer {
 	text-decoration: underline;
 }
 
+::selection {
+	background-color: #999;
+	color: #fff;
+}
+
 @media screen and (min-width: 600px) {
 	footer {
 		display: inline-block;
