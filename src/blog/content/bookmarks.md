@@ -4,16 +4,9 @@ type: "meta"
 draft: false
 ---
 
-The best creative works are hard to find, especially when the author does not
-wish to have the largest audience or biggest share of the market.
-
-This is a page for those creative works.
-
-Also: [books](books), [quotes](quotes), [words](words)
-
 ## Blogs
 
-well-written, insightful, genuine — the ones I always come back to.
+insightful and genuine — the ones I always come back to.
 
 - [マリウス](https://マリウス.com/)
 - [Alexander Sandberg](https://alexandersandberg.com/)
@@ -39,7 +32,7 @@ well-written, insightful, genuine — the ones I always come back to.
 
 ## Essays
 
-which all meet one criteria: they flipped my perspective.
+that flipped my perspective on something.
 
 - [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
 - [Default to tabs instead of spaces for an 'accessible first' environment](https://alexandersandberg.com/tabs-for-accessibility/)
@@ -60,7 +53,7 @@ that go deep.
 
 ## Talks
 
-worth watching.
+that give you pause.
 
 - [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
 
@@ -78,51 +71,32 @@ about making and marketing.
 - [REWORK](https://www.rework.fm/)
 - [The Art of Product](https://artofproductpodcast.com/)
 
-## Typography
+## Digital studios and research labs
 
-> matters because it helps conserve the most valuable resource you have as a writer—*reader attention*.
+with fresh ideas.
 
-- [Butterick’s Practical Typography](https://practicaltypography.com/)
-- [I Love Typography](https://fonts.ilovetypography.com/)
-- [MB Type](https://mbtype.com/)
-- [type.lol](https://type.lol/)
-- [type.today](https://type.today/en)
-
-## Programming & human language
-
-- [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
-- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
-- [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
-- [Project Fluent](https://projectfluent.org/)
-
-## Product management
-
-- [Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/webbook)
-- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
-
-## Software products
-
-with a common theme.
-
-- [Are.na](https://www.are.na/)
-- [Basecamp](https://basecamp.com/)
-- [Fathom Analytics](https://usefathom.com)
-- [Hardly Everything](https://www.hardlyeverything.com/)
-- [iA Writer](https://ia.net/writer)
-- [Ghost](https://ghost.org/)
-- [Nota](https://nota.md/)
-- [Nicheless](https://nicheless.blog/)
-- [Write.as](https://write.as/)
-
-## Studios
-
-staying small and curious.
-
+- [37signals](https://37signals.com/)
 - [Hundred Rabbits](https://100r.co/site/home.html)
 - [iA](https://ia.net/)
 - [Ink & Switch](https://www.inkandswitch.com/)
 - [Musing Studio](https://musing.studio/)
 - [Sensor Station](https://www.sensorstation.co/)
+- [Thought & Craft](https://thoughtandcraft.com/)
+
+## Aboveboard companies
+
+- [Basecamp](https://basecamp.com/)
+- [Fathom Analytics](https://usefathom.com)
+- [Ghost](https://ghost.org/)
+
+## Writing spaces
+
+- [blank.page](https://blank.page/)
+- [iA Writer](https://ia.net/writer)
+- [Mak](https://mak.ink/)
+- [Nota](https://nota.md/)
+- [Nicheless](https://nicheless.blog/)
+- [Write.as](https://write.as/)
 
 ## Design tools
 
@@ -141,9 +115,7 @@ staying small and curious.
 
 ## Want to see more?
 
+[Books I’m reading](books)
+
 For a more frequently updated curation, check out my
 [Are.na](https://www.are.na/john-jago).
-
-If you just want code, my
-[GitHub stars](https://github.com/johnjago?tab=stars) are for fonts,
-programming languages, and tools that I can't live without.

@@ -4,8 +4,8 @@ type: "meta"
 draft: false
 ---
 
-People often recommend wonderful books to me that I otherwise wouldn't have
-known about, so I feel an obligation to pass on the favor here.
+People recommend wonderful books to me that I otherwise wouldn't have known
+about, so I feel an obligation to pass on the favor here.
 
 Favorites are marked with *
 
