@@ -21,24 +21,31 @@ If you're serious about improving, you need to get feedback. You need to get it
 fast, you need to be receptive to it, and you need to take action based on that
 feedback.
 
-Let's look at a concrete example.
+Let's look at an example.
 
 If you're learning how to start a fire while camping in the woods, you could go
-there by yourself and try different things until a fire starts. If you are a
-complete beginner, you'll probably be trying a lot of things before you make
-any progress. It might be frustrating depending on your attitude, but it will
-certainly be slow.
+by yourself and try different things until a fire starts. If you are a complete
+beginner, you'll probably try a lot of things before you make any progress. It
+might be frustrating depending on your attitude, and it will certainly be slow.
 
-You could go there with a friend who already knows how to make a campfire. The
-goal is still for you to learn, so your friend won't tell you step-by-step how
-to do it. Otherwise, you won't build up the memory for it. But your friend will
-tell you when your approach is wrong. Perhaps you're arranging the firewood in
-a way that's not optimal, so your friend will suggest to do it another way.
+On the other hand, you could go there with a friend who already knows how to
+make a campfire. The goal is still for you to learn, so your friend won't tell
+you step-by-step how to do it. Otherwise, you won't build up the memory for it.
+But your friend will tell you when your approach is wrong. Perhaps you're
+arranging the firewood in a way that's not optimal, so your friend will suggest
+to do it another way.
 
-At this point, you could ignore your friend's advice and stick with your
-inefficient arrangement of firewood. The feedback is there, but if you're not
-open to being wrong, the feedback will be useless. This part is hard because
-you have to be wrong a lot, and that's a feeling most people avoid.
+At this point, you have a choice, a choice that most people struggle with. You
+could admit that your approach is wrong and try your friend's method, or you
+could ignore the advice, thinking that your way is still the best. Most people
+are stubborn—they resist change and will persist in their way. They don't want
+to be seen as incompetent and would rather continue doing it their way than
+admit their effort was misguided. Even worse, the longer they've been doing
+something in a wrong or ineffective way, the harder it is to admit that it was
+wrong, because they would rather believe the time was not wasted.  That's why
+it's important to seek feedback as early as possible, so that you have less to
+lose. In any case, without admitting that you were wrong, the feedback you
+receive is essentially thrown away.
 
 Lastly, you need to put in effort, sometimes a significant amount,
 based on that feedback. You might have cut down an entire tree, cut up logs
