@@ -115,7 +115,11 @@ with fresh ideas.
 
 ## Want to see more?
 
-[Books I’m reading](books)
+I keep a list of [books I’ve read](books) that left an impression.
+
+[My GitHub stars](https://github.com/johnjago?tab=stars) are a collection of
+fonts, type tools, writing apps, programming languages that inspire a better
+interface to computers, and little things I can't live without.
 
 For a more frequently updated curation, check out my
 [Are.na](https://www.are.na/john-jago).
