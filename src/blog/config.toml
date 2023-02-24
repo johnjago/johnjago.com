@@ -24,6 +24,6 @@ rssLimit = 25
 		url = "bookmarks"
 		weight = 3
 	[[menu.main]]
-		name = "work logs"
+		name = "studio"
 		url = "https://undo.studio"
 		weight = 4
