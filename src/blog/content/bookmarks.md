@@ -10,7 +10,6 @@ insightful and genuine — the ones I always come back to.
 
 - [マリウス](https://マリウス.com/)
 - [Alexander Sandberg](https://alexandersandberg.com/)
-- [Autotranslucence](https://autotranslucence.wordpress.com/)
 - [benkuhn.net](https://www.benkuhn.net/)
 - [danluu.com](https://danluu.com/)
 - [David Heinemeier Hansson](https://world.hey.com/dhh/)
@@ -25,7 +24,6 @@ insightful and genuine — the ones I always come back to.
 - [Micropreneur Life](https://micropreneur.life/)
 - [Miris Whispers](https://blog.miris.design/)
 - [neil.computer](https://neil.computer/)
-- [Proper Fixation](https://yosefk.com/blog/)
 - [Ryan Kulp](https://www.ryanckulp.com/)
 - [Thesephist](https://thesephist.com/)
 - [tonsky.me](https://tonsky.me/)
@@ -100,18 +98,25 @@ with fresh ideas.
 
 ## Design tools
 
-- [Accessible colors](https://accessible-colors.com/)
-- [Components AI](https://components.ai/)
+- [Color Scales](https://components.ai/color-scale/)
 - [Coolors](https://coolors.co/)
+- [Accessible colors](https://accessible-colors.com/)
 - [favicon.io](https://favicon.io/)
 - [FontDrop!](https://fontdrop.info/)
 
 ## Linux
 
-- [ArchWiki](https://wiki.archlinux.org/)
+- [ArchWiki](https://wiki.archlinux.org/) is a good guide for all of Linux, despite its name
 - [Dave's Visual Guide to dwm](https://ratfactor.com/dwm)
-- [My dotfiles](https://github.com/johnjago/dotfiles)
 - [Vim cheat sheet](https://vim.rtorr.com/)
+
+## Browser extensions
+
+I can't browse the web without these.
+
+- [uBlock Origin](https://ublockorigin.com/) is an ad blocker that actually blocks all ads
+- [Unhook](https://unhook.app/) for YouTube
+- [Hide Likes](https://www.hidelikes.com/) and [Hide Feed](https://www.hidefeed.com/)
 
 ## Want to see more?
 
