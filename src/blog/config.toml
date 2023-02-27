@@ -9,6 +9,7 @@ rssLimit = 25
 	footerSymbol = "~"
 	allPostsText = "read more"
 	serif = true
+	script = '<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>'
 
 [menu]
 	[[menu.main]]
