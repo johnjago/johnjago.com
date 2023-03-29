@@ -4,9 +4,7 @@ type: "meta"
 draft: false
 ---
 
-I make, write, and explore—mostly software and languages of all kinds.
-
-I start with problems and craft tools to solve them, and on the side explore the human expression of ideas, from interfaces to typefaces and the languages we speak every day.
+I enjoy problems and crafting tools and teams to solve them.
 
 [undo.studio](https://undo.studio) is where I post informal thoughts about things I'm working on.
 
