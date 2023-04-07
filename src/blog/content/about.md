@@ -4,7 +4,7 @@ type: "meta"
 draft: false
 ---
 
-I enjoy problems and crafting tools and teams to solve them.
+I enjoy crafting tools and teams to solve problems.
 
 [undo.studio](https://undo.studio) is where I post informal thoughts about things I'm working on.
 
