@@ -21,6 +21,6 @@ rssLimit = 25
 		url = "projects"
 		weight = 2
 	[[menu.main]]
-		name = "studio"
+		name = "work logs"
 		url = "https://undo.studio"
 		weight = 3
