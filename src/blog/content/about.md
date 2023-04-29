@@ -6,7 +6,7 @@ draft: false
 
 I enjoy crafting tools and teams to solve problems.
 
-[undo.studio](https://undo.studio) is where I post informal thoughts about things I'm working on.
+[undo.studio](https://undo.studio) is where I share thoughts about what I'm working on.
 
 你好，我叫高彰！我也用中文写博文，[你可以看一下](https://gaozhang.co)。
 
