@@ -4,9 +4,9 @@ type: "meta"
 draft: false
 ---
 
-I enjoy crafting tools and teams to solve problems.
+I like to create things and explore the nuance in life.
 
-[undo.studio](https://undo.studio) is where I share thoughts about what I'm working on.
+[undo.studio](https://undo.studio) is where I share informal thoughts about my work.
 
 你好，我叫高彰！我也用中文写博文，[你可以看一下](https://gaozhang.co)。
 
