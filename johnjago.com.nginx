@@ -4,8 +4,10 @@ server {
 	listen               *:443 ssl;
 	listen               [::]:80;
 	listen               [::]:443 ssl;
-	ssl_certificate      /etc/letsencrypt/live/johnjago.com/fullchain.pem; # managed by Certbot
-	ssl_certificate_key  /etc/letsencrypt/live/johnjago.com/privkey.pem; # managed by Certbot
+	ssl_certificate      /etc/letsencrypt/live/johnjago.com/fullchain.pem;
+	ssl_certificate_key  /etc/letsencrypt/live/johnjago.com/privkey.pem;
+	include              /etc/letsencrypt/options-ssl-nginx.conf;
+	ssl_dhparam          /etc/letsencrypt/ssl-dhparams.pem;
 
 	return 301 https://johnjago.com$request_uri;
 }
@@ -22,8 +24,8 @@ server {
 	server_name          johnjago.com;
 	listen               443 ssl http2;
 	listen               [::]:443 ssl http2;
-	ssl_certificate      /etc/letsencrypt/live/johnjago.com/fullchain.pem; # managed by Certbot
-	ssl_certificate_key  /etc/letsencrypt/live/johnjago.com/privkey.pem; # managed by Certbot
+	ssl_certificate      /etc/letsencrypt/live/johnjago.com/fullchain.pem;
+	ssl_certificate_key  /etc/letsencrypt/live/johnjago.com/privkey.pem;
 
 	root /home/john/johnjago.com;
 	index index.html;
@@ -43,4 +45,31 @@ server {
 	location ~* \.(woff)$ {
 		expires 1y;
 	}
+}
+
+server {
+	server_name          goupfile.johnjago.com;
+	client_max_body_size 5M;
+
+	location / {
+		proxy_pass http://localhost:8090;
+	}
+
+	listen              [::]:443 ssl ipv6only=on;
+	listen              443 ssl;
+	ssl_certificate     /etc/letsencrypt/live/goupfile.johnjago.com/fullchain.pem;
+	ssl_certificate_key /etc/letsencrypt/live/goupfile.johnjago.com/privkey.pem;
+	include             /etc/letsencrypt/options-ssl-nginx.conf;
+	ssl_dhparam         /etc/letsencrypt/ssl-dhparams.pem;
+}
+
+server {
+	if ($host = goupfile.johnjago.com) {
+		return 301 https://$host$request_uri;
+	}
+
+	server_name          goupfile.johnjago.com;
+	listen               *:80;
+	listen               [::]:80;
+	return 404;
 }
