@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="light mb-5">
+	<h1 class="inline"><a href="/" class="light no-underline">{{ .Site.Title }}</a></h1>
+	<span>
+	{{ range .Site.Menus.main }}
+		&middot; <a href="{{ .URL }}" class="lighter no-underline">{{- .Name -}}</a>
+	{{ end }}
+	</span>
+</div>
+{{ range (where .Site.Pages "Type" "post").GroupByPublishDate "2006" }}
+	<h2>{{ .Key }}</h2>
+	<ul class="no-bullet post-list">
+	{{ range (where .Pages "Type" "post") }}
+		<li>
+			<a href="{{ .RelPermalink }}" class="post-link">{{ .Title }}</a>
+			<time
+				datetime='{{ .PublishDate.Format "2006-01-02" }}'
+				title='{{ .PublishDate.Format "2006-01-02" }}'
+				class="post-date lighter {{ if eq .Site.Language.Lang "zh" }}always-show-post-date{{ end }}">{{ if eq .Site.Language.Lang "zh" }}{{ index .Site.Data.months (printf "%d" .PublishDate.Month) }}{{ else }}{{ .PublishDate.Format "January" }}{{ end }}</time>
+		</li>
+	{{ end }}
+	</ul>
+{{ end }}
+{{ end }}

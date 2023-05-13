@@ -1,8 +1,0 @@
-function clickAndUpdate(id, text) {
-	const el = document.getElementById(id);
-	el.addEventListener('click', e => {
-		e.target.textContent = text;
-	});
-}
-
-clickAndUpdate('email', 'jc@' + 'johnjago.com');

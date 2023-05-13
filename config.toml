@@ -1,24 +1,22 @@
-baseURL = "https://johnjago.com/blog/"
+baseURL = "https://johnjago.com"
 languageCode = "en-us"
 title = "johnjago.com"
-theme = "timeless"
 rssLimit = 25
 
 [params]
-	description = "Thoughts and ideas on software, language, and building products that last."
-	footerSymbol = "~"
+	description = "John Jago makes, writes, and explores — mostly software and languages of all kinds."
+	blogHome = "blog/"
 	allPostsText = "read more"
-	serif = true
 	script = '<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>'
 
 [menu]
 	[[menu.main]]
 		name = "say hi"
-		url = "about"
+		url = "hi/"
 		weight = 1
 	[[menu.main]]
 		name = "projects"
-		url = "projects"
+		url = "projects/"
 		weight = 2
 	[[menu.main]]
 		name = "work logs"

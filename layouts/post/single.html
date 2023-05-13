@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section id="main">
+	<time
+		datetime='{{ .PublishDate.Format "2006-01-02" }}'
+		class="light mb-1 inline-block">{{ .Date.Format "2 January 2006" }}</time> &middot; <a href="{{ .Site.Params.BlogHome }}" class="light">{{ .Site.Params.HeaderAllPostsText | default "all posts" }}</a>
+	<h1 id="title" class="mb-5">{{ .Title }}</h1>
+	<div>
+		<article id="content">
+			{{ .Content }}
+		</article>
+	</div>
+</section>
+{{ end }}
