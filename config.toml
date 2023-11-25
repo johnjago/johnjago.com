@@ -4,7 +4,7 @@ title = "johnjago.com"
 rssLimit = 25
 
 [params]
-	description = "John Jago makes, writes, and explores — mostly software and languages of all kinds."
+	description = "I like to create things, explore the nuance in life, and write about what I learn."
 	blogHome = "blog/"
 	allPostsText = "read more"
 	script = '<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>'
