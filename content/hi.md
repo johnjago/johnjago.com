@@ -6,7 +6,7 @@ draft: false
 
 I like to create things and explore the nuance in life.
 
-[undo.studio](https://undo.studio) is where I share informal thoughts about my work.
+I'm currently documenting what it's like to start a software business from scratch at [undo.studio](https://undo.studio).
 
 你好，我叫高彰！我也用中文写博文，[你可以看一下](https://gaozhang.co)。
 
