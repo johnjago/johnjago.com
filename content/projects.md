@@ -9,7 +9,7 @@ draft: false
 *Not necessarily elaborate, but useful time and time again.*
 
 [PeachPay](https://peachpay.app) \
-I co-founded a company that is building Shopify for the rest of ecommerce.
+I co-founded a company that is building a complete financial platform for ecommerce merchants.
 
 [Goupfile](https://goupfile.johnjago.com) \
 File sharing with multiple files under one URL, easy to remember URLs that don't have ambiguous characters, and QR codes for sharing the download link.
