@@ -1,11 +1,11 @@
 {{ define "main" }}
-<div class="light mb-5">
-	<h1 class="inline"><a href="/" class="light no-underline">{{ .Site.Title }}</a></h1>
-	<span>
+<div class="light mb-5 flex flex-col items-center">
+	<h1 class="font-bold"><a href="/" class="light no-underline">{{ .Site.Title }}</a></h1>
+	<nav class="mt-4">
 	{{ range .Site.Menus.main }}
-		&middot; <a href="{{ .URL }}" class="lighter no-underline">{{- .Name -}}</a>
+		<a href="{{ .URL }}" class="my-2 lighter no-underline">{{- .Name -}}</a>
 	{{ end }}
-	</span>
+	</nav>
 </div>
 {{ range (where .Site.Pages "Type" "post").GroupByPublishDate "2006" }}
 	<h2>{{ .Key }}</h2>

@@ -207,3 +207,28 @@ footer a:hover,
 .inline-block {
 	display: inline-block;
 }
+
+.font-bold {
+	font-weight: 700;
+}
+
+.flex {
+	display: flex;
+}
+
+.flex-col {
+	flex-direction: column;
+}
+
+.items-center {
+	align-items: center;
+}
+
+.mt-4 {
+	margin-top: 1rem;
+}
+
+.my-2 {
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+}
