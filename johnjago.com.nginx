@@ -38,11 +38,7 @@ server {
 		try_files $uri $uri/ =404;
 	}
 
-	location ~* \.(png|css|js)$ {
-		expires 30d;
-	}
-
-	location ~* \.(woff)$ {
+	location ~* \.(png|css|js|woff)$ {
 		expires 1y;
 	}
 }

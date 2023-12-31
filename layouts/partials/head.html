@@ -5,7 +5,8 @@
 	<base href="{{ .Site.BaseURL }}">
 	<title>{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }} • {{ $.Site.Title }}{{ end }}</title>
 	<link rel="canonical" href="{{ .Permalink }}">
-	<link rel="stylesheet" href="{{ "css/main.css" | absURL }}" />
+	{{ $style := resources.Get "css/main.css" | minify | fingerprint }}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
 	<link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" />
 	{{ template "_internal/twitter_cards.html" . }}
 	{{ template "_internal/opengraph.html" . }}

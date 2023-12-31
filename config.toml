@@ -2,6 +2,7 @@ baseURL = "https://johnjago.com"
 languageCode = "en-us"
 title = "johnjago.com"
 rssLimit = 25
+assetDir = "static"
 
 [params]
 	description = "I like to create things, explore the nuance in life, and write about what I learn."
