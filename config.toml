@@ -5,7 +5,7 @@ rssLimit = 25
 assetDir = "static"
 
 [params]
-	description = "I like to create things, explore the nuance in life, and write about what I learn."
+	description = "I like to create things and write about what I learn along the way."
 	blogHome = "blog/"
 	allPostsText = "read more"
 	script = '<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>'

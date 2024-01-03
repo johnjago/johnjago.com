@@ -4,7 +4,7 @@ type: "meta"
 draft: false
 ---
 
-I like to create things and explore the nuance in life.
+I like to create things and write about what I learn along the way.
 
 I'm currently documenting what it's like to start a software business from scratch at [undo.studio](https://undo.studio).
 
