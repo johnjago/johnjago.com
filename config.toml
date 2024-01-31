@@ -6,6 +6,7 @@ assetDir = "static"
 
 [params]
 	description = "I like to create things and write about what I learn along the way."
+	images = ['images/card.png']
 	blogHome = "blog/"
 	allPostsText = "read more"
 	script = '<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>'
