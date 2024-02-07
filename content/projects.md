@@ -6,24 +6,30 @@ draft: false
 
 ## Now
 
+[LinkQR](https://linkqr.johnjago.com) {{< years "2024–" >}} \
+Share links using QR codes.
+
 [undo.studio](https://undo.studio) {{< years "2023–" >}} \
-I'm sharing the little details of what it's like to start a software business from day one—the marketing, engineering, and everything else.
+The little details of what it's like to start a software business from day one. Marketing, engineering, customer support, and everything else.
 
 [高彰的小笔记](https://gaozhang.co/) {{< years "2020–" >}} \
 Chinese language blog posts.
 
-[PeachPay](https://peachpay.app) {{< years "2020–" >}} \
-I co-founded a company that set out to innovate in ecommerce checkout. Since inception, we've gone through several iterations of what that means.
-
 ## Published
 
-*People use these often, but I'm not focused on growing them.*
+*People use these, but I'm not focused on growing them.*
 
 [Faview](https://faview.johnjago.com) {{< years "2021–" >}} \
-Preview how an image looks as a favicon in a browser tab. Hundreds of people use it each year.
+Preview how an image looks as a favicon in a browser tab. \
+{{< users "200 yearly active users" >}}
+
+[PeachPay](https://peachpay.app) {{< years "2020–2024" >}} \
+I co-founded a company that set out to innovate in ecommerce checkout. Since inception, we've gone through several iterations of what that means. \
+{{< users "700 merchants" >}}
 
 [Deformat](https://deformat.johnjago.com) {{< years "2016–" >}} \
-Remove extra whitespace from text. Over 7,000 people use it each year.
+Remove extra whitespace from text. \
+{{< users "7,000 yearly active users" >}}
 
 ## Previously
 
