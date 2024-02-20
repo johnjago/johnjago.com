@@ -6,13 +6,17 @@ draft: false
 
 I like to create things and write about what I learn along the way.
 
-I'm currently documenting what it's like to start a software business from scratch at [undo.studio](https://undo.studio).
+I’m currently [trying to start](https://undo.studio) my own little software business.
+
+After graduating from university, I worked briefly as a software engineer for a financial services company before co-founding [a startup](https://web.archive.org/web/20220713045101/https://www.businessinsider.com/peachpay-one-click-checkout-woocommerce-fintech-payments-bolt-fast-2021-4).
+
+~
 
 你好，我叫高彰！我也用中文写博文，[你可以看一下](https://gaozhang.co)。
 
 ## Follow this blog
 
-You can [subscribe to my newsletter](https://buttondown.email/john) where I collect my writings from around the web in one place, or follow the [RSS feed](index.xml).
+[Subscribe to my newsletter](https://buttondown.email/john) where I collect my writings from around the web in one place, or follow the [RSS feed](index.xml).
 
 ## Get in touch
 
