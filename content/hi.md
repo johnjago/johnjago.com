@@ -8,7 +8,7 @@ I like to create things and write about what I learn along the way.
 
 I’m currently [trying to start](https://undo.studio) my own little software business.
 
-After graduating from university, I worked briefly as a software engineer for a financial services company before co-founding [a startup](https://web.archive.org/web/20220713045101/https://www.businessinsider.com/peachpay-one-click-checkout-woocommerce-fintech-payments-bolt-fast-2021-4).
+After graduating from university, I worked briefly as a software engineer for a finance company before [co-founding a startup](https://web.archive.org/web/20220713045101/https://www.businessinsider.com/peachpay-one-click-checkout-woocommerce-fintech-payments-bolt-fast-2021-4).
 
 ~
 

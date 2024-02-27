@@ -26,7 +26,6 @@ body {
 	font-size: 1.2rem;
 	line-height: 1.5;
 	margin: 6rem auto;
-	max-width: 40rem;
 	padding: 1rem;
 }
 
@@ -51,11 +50,8 @@ a {
 	color: #333;
 	text-decoration: underline;
 	text-decoration-color: #ff5d5d;
-	text-decoration-thickness: 2px;
-}
-
-.post-list a:visited {
-	color: #99a;
+	text-decoration-thickness: 0.125rem;
+	text-underline-offset: 0.125rem;
 }
 
 section ul {
@@ -69,6 +65,11 @@ article img {
 
 li {
 	margin: 0.5rem 0;
+}
+
+footer {
+	border-top: 1px solid #535353;
+	padding-top: 1.2rem;
 }
 
 footer li {
@@ -131,6 +132,12 @@ footer a,
 	text-decoration: none;
 }
 
+.post-list li {
+	margin: .5rem 0 1rem 0;
+	display: flex;
+	flex-direction: column;
+}
+
 footer a:hover,
 .post-link:hover {
 	text-decoration: underline;
@@ -138,7 +145,7 @@ footer a:hover,
 
 .post-link:hover {
 	text-decoration-color: #ff5d5d;
-	text-decoration-thickness: 2px;
+	text-decoration-thickness: 0.125rem;
 }
 
 ::selection {
@@ -184,19 +191,12 @@ footer a:hover,
 
 .post-date {
 	font-size: small;
-	margin-left: 0.5rem;
 }
 
 @media screen and (max-width: 800px) {
 	pre {
 		margin-left: 0;
 		width: inherit;
-	}
-	.post-date {
-		display: none;
-	}
-	.always-show-post-date {
-		display: inline;
 	}
 }
 
@@ -232,6 +232,10 @@ footer a:hover,
 	margin-top: 1rem;
 }
 
+.mr-3 {
+	margin-right: 0.75rem;
+}
+
 .my-2 {
 	margin-left: 0.5rem;
 	margin-right: 0.5rem;
@@ -239,4 +243,18 @@ footer a:hover,
 
 .text-sm {
 	font-size: 0.875rem;
+}
+
+.text-base {
+	font-size: 1rem;
+	line-height: 1.5rem;
+}
+
+.text-5xl {
+	font-size: 3rem; /* 48px */
+	line-height: 1;
+}
+
+.max-w-xl {
+	max-width: 36rem; /* 576px */
 }

@@ -1,9 +1,9 @@
 {{ define "main" }}
-<div class="light mb-5 flex flex-col items-center">
-	<h1 class="font-bold"><a href="/" class="light no-underline">{{ .Site.Title }}</a></h1>
-	<nav class="mt-4">
+<div class="light mb-5 flex flex-col">
+	<h1 class="font-bold text-5xl"><a href="/" class="light no-underline">John’s thoughts</a></h1>
+	<nav class="mt-4 text-base">
 	{{ range .Site.Menus.main }}
-		<a href="{{ .URL }}" class="my-2 lighter no-underline">{{- .Name -}}</a>
+		<a href="{{ .URL }}" class="mr-3 lighter no-underline">{{- .Name -}}</a>
 	{{ end }}
 	</nav>
 </div>
