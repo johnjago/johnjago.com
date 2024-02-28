@@ -123,10 +123,17 @@ pre {
 	background: #242424;
 	border-radius: 6px;
 	margin-bottom: 1.5rem;
-	margin-left: -10%;
+	margin-left: -60px;
+	margin-right: -60px;
 	overflow-x: auto;
-	padding: 1em;
-	width: 120%;
+	padding: 1rem;
+}
+
+@media screen and (max-width: 800px) {
+	pre {
+		margin-left: 0;
+		margin-right: 0;
+	}
 }
 
 pre code {
@@ -205,13 +212,6 @@ footer a:hover,
 
 .post-date {
 	font-size: small;
-}
-
-@media screen and (max-width: 800px) {
-	pre {
-		margin-left: 0;
-		width: inherit;
-	}
 }
 
 .inline {
