@@ -60,7 +60,21 @@ section ul {
 }
 
 article img {
-	max-width: 100%;
+	box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+	margin-bottom: 3rem;
+	margin-top: 2rem;
+	max-width: 140%;
+}
+
+@media screen and (max-width: 900px) {
+	article img {
+		max-width: 100%;
+	}
+}
+
+article p:has(img) {
+	display: flex;
+	justify-content: center;
 }
 
 li {
