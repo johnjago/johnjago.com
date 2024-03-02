@@ -6,6 +6,9 @@ draft: false
 
 ## Now
 
+[Dashify](https://wordpress.org/plugins/dashify/) {{< years "2024–" >}} \
+Better WooCommerce order management.
+
 [LinkQR](https://linkqr.johnjago.com) {{< years "2024–" >}} \
 Share links using QR codes.
 
