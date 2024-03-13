@@ -26,10 +26,6 @@ Chinese language blog posts.
 Preview how an image looks as a favicon in a browser tab. \
 {{< users "200 yearly active users" >}}
 
-[PeachPay](https://peachpay.app) {{< years "2020–2024" >}} \
-I co-founded a company that set out to innovate in ecommerce checkout. Since inception, we've gone through several iterations of what that means. \
-{{< users "700 merchants" >}}
-
 [Deformat](https://deformat.johnjago.com) {{< years "2016–" >}} \
 Remove extra whitespace from text. \
 {{< users "7,000 yearly active users" >}}
@@ -46,6 +42,10 @@ Experiments in creative coding.
 
 [Pitch](https://pitch-iota.vercel.app/) {{< years "2021" >}} \
 Web version of the original Pitch Card Generator from 2016, built with Next.js.
+
+[PeachPay](https://peachpay.app) {{< years "2020–2024" >}} \
+I co-founded a company that set out to innovate in ecommerce checkout, first building a mobile app that let people buy with QR codes, and later an all-in-one payments and checkout extension for WooCommerce. \
+{{< users "700 merchants, tens of millions of dollars processed" >}}
 
 [Goupfile](https://goupfile.johnjago.com) {{< years "2019–2022" >}} \
 File sharing with multiple files under one URL, easy to remember URLs that don't have ambiguous characters, and QR codes for sharing the download link.
