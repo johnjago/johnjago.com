@@ -17,10 +17,14 @@ assetDir = "static"
 		url = "hi/"
 		weight = 1
 	[[menu.main]]
+		name = "blogroll"
+		url = "blogroll/"
+		weight = 2
+	[[menu.main]]
 		name = "projects"
 		url = "projects/"
-		weight = 2
+		weight = 3
 	[[menu.main]]
 		name = "work logs"
 		url = "https://undo.studio"
-		weight = 3
+		weight = 4
