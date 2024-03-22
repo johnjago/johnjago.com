@@ -106,6 +106,13 @@ i {
 	font-style: italic
 }
 
+hr {
+	border: 2px solid rgb(214 211 209);
+	border-radius: 50rem;
+	margin: 3rem auto;
+	width: 3rem;
+}
+
 code,
 pre {
 	font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;

@@ -10,7 +10,7 @@ I’m currently [trying to start](https://undo.studio) my own little software bu
 
 After graduating from university, I worked briefly as a software engineer for a finance company before [co-founding a startup](https://web.archive.org/web/20220713045101/https://www.businessinsider.com/peachpay-one-click-checkout-woocommerce-fintech-payments-bolt-fast-2021-4).
 
-~
+---
 
 你好，我叫高彰！我也用中文写博文，[你可以看一下](https://gaozhang.co)。
 
