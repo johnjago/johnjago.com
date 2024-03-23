@@ -20,7 +20,7 @@ This comes as a shock because the industry, about ten years ago, seemed to make
 every move *away* from using serifs in text. Take the well known transformation
 of the Google logotype from serif to sans-serif.
 
-![The Google logo introduced in 2015 compared to the previous one](serifs/google.jpg)
+![The Google logo introduced in 2015 compared to the previous one](/serifs/google.jpg)
 
 Although MongoDB had always used a serif typeface for their logo, they recently
 rebranded, and with that came the use of serif typefaces in places that you
@@ -37,7 +37,7 @@ become the expectation on digital displays.
 Why does it look strange? Perhaps it reminds us of those posters from the early
 twentieth century.
 
-![Charles Williams, Jr. telegraph instruments poster](serifs/williams.jpg)
+![Charles Williams, Jr. telegraph instruments poster](/serifs/williams.jpg)
 
 Which, by the way, have always amused me for their use of no fewer than ten
 typefaces on the same poster.
@@ -70,7 +70,7 @@ in books.
 > our headlines will use Flare, a nearly-but-not-quite sans typography that
 > makes a bolder statement.
 
-![Proton's new typeface, ABC Arizona](serifs/proton-arizona.png)
+![Proton's new typeface, ABC Arizona](/serifs/proton-arizona.png)
 
 They're right, it doesn't quite look like a typeface that you'd see in court
 documents, yet it has small but distinct serifs on two of the variations.

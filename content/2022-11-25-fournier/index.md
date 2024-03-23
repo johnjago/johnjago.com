@@ -16,33 +16,33 @@ Upon [Matthew Butterick's recommendation](https://practicaltypography.com/charte
 
 Used sparsely, there's no "middle school essay" feeling.
 
-![The word Charter set in Charter itself](fournier/charter.jpg)
+![The word Charter set in Charter itself](/fournier/charter.jpg)
 
 However, in larger blocks, it begins to feel that way.
 
-![Charter glyphs](fournier/charter-glyphs.jpg)
+![Charter glyphs](/fournier/charter-glyphs.jpg)
 
 Not quite like
 
-![A very serif font](fournier/sistema-operatum.png)
+![A very serif font](/fournier/sistema-operatum.png)
 
 but getting there.
 
 That's when I found [Source Serif](https://blog.typekit.com/2014/05/20/source-serif-pro/). I had been using Source Code Pro for many years before that, because out of all the fonts I've tried for code and the terminal, Source Code Pro felt like home, so it's not a surprise that Source Serif feels the same. It's a nice middle ground between serif and sans-serif, of course having serifs nonetheless.
 
-![Source Serif Pro specimen](fournier/source-serif-pro.jpg)
+![Source Serif Pro specimen](/fournier/source-serif-pro.jpg)
 
 Like Charter, it's inspired by artifacts from the transitional period of European typeface design in the 17th and 18th centuries, which is when printing was moving away from looking like it was handwritten. It's also partly a slab-serif, which is a form that grew popular alongside printed advertisements in the early 19th century. These advertisements needed to grab people's attention, and the thick, blocky serifs did just that.
 
 Here's a slab-serif called Beton. Perfect for a poster.
 
-![Beton specimen](fournier/beton.jpg)
+![Beton specimen](/fournier/beton.jpg)
 
 Why do Charter and Source Serif share so many similarities? It's because they both spring from the same source, Pierre Simon Fournier.
 
 Fournier was a punch-cutter and printer in 18th century France. (By the way, if you need a list of jobs which are now just machines in an office, the history of typography is a good place to find it.) He made contributions to the point system for measuring font sizes, and influenced, among others, Benjamin Franklin. He influenced Matthew Carter in the design of Charter, and Frank Grießhammer in the design of Source Serif.
 
-![The specimen of Fournier that Source Serif and Charter are based on](fournier/fournier.png)
+![The specimen of Fournier that Source Serif and Charter are based on](/fournier/fournier.png)
 
 Did Fournier expect his influence to reach so many people, perhaps soon one billion more?
 

@@ -113,6 +113,16 @@ hr {
 	width: 3rem;
 }
 
+sup {
+	font-size: small;
+	margin-left: 0.1rem;
+	vertical-align: super;
+}
+
+sup a {
+	text-decoration: none;
+}
+
 code,
 pre {
 	font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;

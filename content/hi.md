@@ -16,7 +16,7 @@ After graduating from university, I worked briefly as a software engineer for a 
 
 ## Follow this blog
 
-[Subscribe to my newsletter](https://buttondown.email/john) where I collect my writings from around the web in one place, or follow the [RSS feed](index.xml).
+[Subscribe to my newsletter](https://buttondown.email/john) where I collect my writings from around the web in one place, or follow the [RSS feed](/index.xml).
 
 ## Get in touch
 
