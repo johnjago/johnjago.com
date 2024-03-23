@@ -107,10 +107,16 @@ i {
 }
 
 hr {
-	border: 2px solid rgb(214 211 209);
-	border-radius: 50rem;
+	border: 0;
 	margin: 3rem auto;
-	width: 3rem;
+	max-width: 36rem;
+	opacity: 0.5;
+	text-align: center;
+}
+
+hr::before {
+	content: "✽ ✽ ✽";
+	white-space: pre;
 }
 
 sup {
