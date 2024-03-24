@@ -49,9 +49,8 @@ h3 {
 a {
 	color: #333;
 	text-decoration: underline;
-	text-decoration-color: #ff5d5d;
-	text-decoration-thickness: 0.125rem;
-	text-underline-offset: 0.125rem;
+	text-decoration-thickness: 0.1rem;
+	text-underline-offset: 0.2rem;
 }
 
 section ul {
@@ -185,11 +184,6 @@ footer a,
 footer a:hover,
 .post-link:hover {
 	text-decoration: underline;
-}
-
-.post-link:hover {
-	text-decoration-color: #ff5d5d;
-	text-decoration-thickness: 0.125rem;
 }
 
 ::selection {
