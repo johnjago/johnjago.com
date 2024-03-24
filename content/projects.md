@@ -13,7 +13,7 @@ Better WooCommerce order management.
 Share links using QR codes.
 
 [undo.studio](https://undo.studio) {{< years "2023–" >}} \
-The little details of what it's like to start a software business from day one. Marketing, engineering, customer support, and everything else.
+A journal on what it's like to start a software business from day one. Marketing, engineering, customer support, and everything else.
 
 [高彰的小笔记](https://gaozhang.co/) {{< years "2020–" >}} \
 Chinese language blog posts.

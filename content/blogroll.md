@@ -4,7 +4,7 @@ type: "meta"
 draft: false
 ---
 
-If you’re reading this personal blog, you might be interested in others.
+If you’re reading this personal blog, you might be interested other personal blogs!
 
 ## My favourites
 
@@ -28,7 +28,7 @@ If you’re reading this personal blog, you might be interested in others.
 
 ## Blogrolls
 
-These people have their own blogrolls, so go explore!
+These people have their own blogrolls.
 
 - [Ben Kuhn](https://www.benkuhn.net/blogroll/)
 - [Manuel Moreale](https://manuelmoreale.com/blogroll)

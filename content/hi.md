@@ -4,7 +4,7 @@ type: "meta"
 draft: false
 ---
 
-I like to create things and write about what I learn along the way.
+I like to create things and share what I learn along the way.
 
 I’m currently [trying to start](https://undo.studio) my own little software business.
 
@@ -16,10 +16,12 @@ After graduating from university, I worked briefly as a software engineer for a 
 
 ## Follow this blog
 
-[Subscribe to my newsletter](https://buttondown.email/john) where I collect my writings from around the web in one place, or follow the [RSS feed](/index.xml).
+[Subscribe to my newsletter](https://buttondown.email/john) where I collect my writings from this blog and around the web in one place.
+
+I occasionally share things on [Are.na](https://www.are.na/john-jago), [Twitter](https://twitter.com/johncjago/), and [GitHub](https://github.com/johnjago).
+
+There is also an [RSS feed](/index.xml).
 
 ## Get in touch
 
-Find me on [Are.na](https://www.are.na/john-jago), [Twitter](https://twitter.com/johncjago/), and [GitHub](https://github.com/johnjago).
-
-Comments? I love hearing from you! Email `jc @ this domain`
+I love hearing from you! My email is jc@johnjago.com.
