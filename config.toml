@@ -25,6 +25,6 @@ assetDir = "static"
 		url = "/projects/"
 		weight = 3
 	[[menu.main]]
-		name = "work logs"
+		name = "work journal"
 		url = "https://undo.studio"
 		weight = 4
