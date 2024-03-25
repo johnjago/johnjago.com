@@ -58,6 +58,16 @@ section ul {
 	padding-left: 3rem;
 }
 
+.footnotes ol {
+	margin-left: 1.3rem;
+}
+
+@media screen and (min-width: 640px) {
+	.footnotes ol {
+		margin-left: 0;
+	}
+}
+
 article img {
 	border: 0.2rem solid #535353;
 	max-width: 140%;
