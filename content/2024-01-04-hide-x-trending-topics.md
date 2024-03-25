@@ -23,4 +23,4 @@ Click **Apply changes**. Refresh or open Twitter, and the trending topics should
 
 ## Not working?
 
-If the above snippet isn’t working, [send me a message](https://johnjago.com/hi/) and I’ll update it.
+If the above snippet isn’t working, [send me a message](https://johnjago.com/hi/#get-in-touch) and I’ll update it.
