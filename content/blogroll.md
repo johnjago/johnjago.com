@@ -4,7 +4,7 @@ type: "page"
 draft: false
 ---
 
-If you’re reading this personal blog, you might be interested other personal blogs!
+Personal blogs are a great form of authentic expression—it’s not just the writing, but also the design and feeling. Here are some I enjoy reading. They are in no particular order.
 
 ## My favourites
 
@@ -13,9 +13,10 @@ If you’re reading this personal blog, you might be interested other personal b
 - [Dan Luu](https://danluu.com/)
 - [David Heinemeier Hansson](https://world.hey.com/dhh/)
 - [Neil Panchal](https://neil.computer/)
-- [Manuel Moreale](https://manuelmoreale.com/)
+- [Manuel Moreale](https://manuelmoreale.com/), who has a series on [People and Blogs](https://peopleandblogs.com/)
 - [Ryan Kulp](https://www.ryanckulp.com/)
 - [Nikita Prokopov](https://tonsky.me/)
+- [Mu-An Chiou](https://muan.co/)
 - [Scott Locklin](https://scottlocklin.wordpress.com/)
 - [Matthew Butterick](https://matthewbutterick.com/chron/)
 - [Linus Lee](https://thesephist.com/)
@@ -25,10 +26,3 @@ If you’re reading this personal blog, you might be interested other personal b
 - [Ben Borgers](https://ben.page/)
 - [Steph Ango](https://stephango.com/)
 - [Wesley Aptekar-Cassels](https://notebook.wesleyac.com/)
-
-## Blogrolls
-
-These people have their own blogrolls.
-
-- [Ben Kuhn](https://www.benkuhn.net/blogroll/)
-- [Manuel Moreale](https://manuelmoreale.com/blogroll)
