@@ -4,6 +4,8 @@ type: "page"
 draft: false
 ---
 
+This is a history of all projects I’ve worked on that I can remember. Mostly software.
+
 ## Now
 
 [Dashify](https://wordpress.org/plugins/dashify/) {{< years "2024–" >}} \
@@ -13,7 +15,7 @@ Better WooCommerce order management.
 Share links using QR codes.
 
 [undo.studio](https://undo.studio) {{< years "2023–" >}} \
-A journal on what it's like to start a software business from day one. Marketing, engineering, customer support, and everything else.
+What it's like to start a software business from day one. Marketing, engineering, customer support, and everything else.
 
 [高彰的小笔记](https://gaozhang.co/) {{< years "2020–" >}} \
 Chinese language blog posts.
@@ -32,10 +34,10 @@ Remove extra whitespace from text. \
 
 ## Previously
 
-*Projects that are not actively developed or used.*
+*Projects not actively developed or used.*
 
 [Timeless](https://github.com/johnjago/timeless) {{< years "2021–2023" >}} \
-Hugo theme used by this blog. It emphasizes readability and good typography.
+Hugo theme used by this blog. It emphasizes readability and good typography. I have sinced merged it into this blog’s codebase for ease of maintenance.
 
 [Generative art](https://github.com/undostudio/generative-art#generative-art--undostudio) {{< years "2021" >}} \
 Experiments in creative coding.
@@ -74,8 +76,8 @@ Firefox add-on that removes distractions on YouTube.
 [Pitch Card Generator](https://github.com/johnjago/pitch-card-generator) {{< years "2016" >}} \
 Creates random, printable pitch calling cards to aid in calling out pitch style without the other team knowing. Made this with a friend for a high school softball coach.
 
-uSay Change {{< years "2011" >}} \
+*uSay Change* {{< years "2011" >}} \
 Middle school project. It was a site where people could submit ideas on how to improve products or services. Like [Canny](https://canny.io/) but worse. Lots of hacked together PHP.
 
-Guess the Number {{< years "2011" >}} \
+*Guess the Number* {{< years "2011" >}} \
 The first program I made that wasn't a webpage, a number guessing game in Visual Basic.
