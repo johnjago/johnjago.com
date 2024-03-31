@@ -297,3 +297,11 @@ footer a:hover,
 .max-w-xl {
 	max-width: 36rem; /* 576px */
 }
+
+.break-keep {
+	word-break: keep-all;
+}
+
+.whitespace-nowrap {
+	white-space: nowrap;
+}
