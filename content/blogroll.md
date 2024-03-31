@@ -22,6 +22,7 @@ Personal blogs are a great form of authentic expression—it’s not just the wr
 - [Linus Lee](https://thesephist.com/)
 - Mark MacKay’s [Method of Action](https://method.ac/writing/) and [Exploration Work](https://exploration.work/)
 - [Jordan O'Connor](https://jdnoc.com/blog/)
+- [Brandur Leach](https://brandur.org/)
 - [Jeremy Côté](https://jeremycote.net/)
 - [Ben Borgers](https://ben.page/)
 - [Steph Ango](https://stephango.com/)
