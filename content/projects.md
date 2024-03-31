@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-type: "meta"
+type: "page"
 draft: false
 ---
 

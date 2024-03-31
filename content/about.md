@@ -1,6 +1,6 @@
 ---
 title: "About me"
-type: "meta"
+type: "page"
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Blogroll"
-type: "meta"
+type: "page"
 draft: false
 ---
 

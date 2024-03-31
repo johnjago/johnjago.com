@@ -1,6 +1,6 @@
 ---
 title: "Books"
-type: "meta"
+type: "page"
 draft: false
 ---
 
