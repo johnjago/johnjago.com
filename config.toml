@@ -5,26 +5,30 @@ rssLimit = 25
 assetDir = "static"
 
 [params]
-	description = "I like to create things and write about what I learn along the way."
+	description = "A public journal and evergreen notebook where I share what I’m working on, reading, and thinking about."
 	images = ['images/card.png']
-	blogHome = "/blog/"
+	blogHome = "/"
 	allPostsText = "read more"
 	script = '<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>'
 
 [menu]
 	[[menu.main]]
-		name = "say hi"
-		url = "/hi/"
+		name = "about"
+		url = "/about/"
 		weight = 1
-	[[menu.main]]
-		name = "blogroll"
-		url = "/blogroll/"
-		weight = 2
 	[[menu.main]]
 		name = "projects"
 		url = "/projects/"
+		weight = 2
+	[[menu.main]]
+		name = "blogroll"
+		url = "/blogroll/"
 		weight = 3
 	[[menu.main]]
 		name = "work journal"
 		url = "https://undo.studio"
 		weight = 4
+	[[menu.main]]
+		name = "中文"
+		url = "https://gaozhang.co"
+		weight = 5
