@@ -1,34 +1,9 @@
-baseURL = "https://johnjago.com"
-languageCode = "en-us"
-title = "johnjago.com"
+baseURL = 'https://johnjago.com'
+languageCode = 'en-us'
+title = 'John Jago'
 rssLimit = 25
-assetDir = "static"
+assetDir = 'static'
 
 [params]
-	description = "A public journal and evergreen notebook where I share what I’m working on, reading, and thinking about."
-	images = ['images/card.png']
-	blogHome = "/"
-	allPostsText = "read more"
-	script = '<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>'
-
-[menu]
-	[[menu.main]]
-		name = "about"
-		url = "/about/"
-		weight = 1
-	[[menu.main]]
-		name = "projects"
-		url = "/projects/"
-		weight = 2
-	[[menu.main]]
-		name = "blogroll"
-		url = "/blogroll/"
-		weight = 3
-	[[menu.main]]
-		name = "work journal"
-		url = "https://undo.studio"
-		weight = 4
-	[[menu.main]]
-		name = "中文"
-		url = "https://gaozhang.co"
-		weight = 5
+	description = 'My public journal where I share what I’m working on, reading, and thinking about.'
+	images = ['card.png']

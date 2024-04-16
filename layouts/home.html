@@ -1,0 +1,95 @@
+{{ define "main" }}
+<section class="prose prose-neutral prose-a:underline-offset-2">
+	<p>Hi, I’m John! This website is where I share what I’m working on, reading, and thinking about. It’s like an updating book—a public journal.</p>
+</section>
+<section class="mt-16">
+	<div class="flex justify-between items-baseline mb-8">
+		<h2
+			class="font-bold text-xl mr-4"
+		>
+			Thoughts
+		</h2>
+		<a
+			href="/thoughts/"
+			class="text-sm text-neutral-500 underline underline-offset-2"
+		>
+			All thoughts →
+		</a>
+	</div>
+	{{ range first 4 (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") }}
+	<a
+		href="{{ .Permalink }}"
+		class="underline underline-offset-2"
+	>
+		{{ .Title }}
+	</a>
+	<time
+		datetime='{{ .Date.Format "2006-01-02" }}'
+		class="text-sm text-neutral-500 mb-4 block"
+	>
+		{{ .Date.Format "2 January 2006" }}
+	</time>
+	{{ end }}
+	<hr class="mt-8 bg-neutral-600 w-3 h-3 border-0">
+</section>
+<section class="mt-16">
+	<div class="flex justify-between items-baseline mb-8">
+		<h2
+			class="font-bold text-xl mr-4"
+		>
+			Work journal
+		</h2>
+		<a
+			href="/work-journal/"
+			class="text-sm text-neutral-500 underline underline-offset-2"
+		>
+			All entries →
+		</a>
+	</div>
+	{{ range first 4 (where .Site.Pages "Params.category" "work-journal") }}
+	<a
+		href="{{ .Permalink }}"
+		class="underline underline-offset-2"
+	>
+		{{ .Title }}
+	</a>
+	<time
+		datetime='{{ .Date.Format "2006-01-02" }}'
+		class="text-sm text-neutral-500 mb-4 block"
+	>
+		{{ .Date.Format "2 January 2006" }}
+	</time>
+	{{ end }}
+	<hr class="mt-8 bg-neutral-600 w-3 h-3 border-0">
+</section>
+<!-- <section class="mt-16">
+	<div class="flex justify-between items-baseline mb-8">
+		<h2
+			class="font-bold text-xl mr-4"
+		>
+			Technical posts
+		</h2>
+		<a
+			href="/technical-posts"
+			class="text-sm text-neutral-500 underline underline-offset-2"
+		>
+			All technical posts →
+		</a>
+	</div>
+	{{ range first 4 (where .Site.Pages "Type" "post") }}
+	<a
+		href="{{ .Permalink }}"
+		class="underline underline-offset-2"
+	>
+		{{ .Title }}
+	</a>
+	<time
+		datetime='{{ .Date.Format "2006-01-02" }}'
+		class="text-sm text-neutral-500 mb-4 block"
+	>
+		{{ .Date.Format "2 January 2006" }}
+	</time>
+	{{ end }}
+	<hr class="mt-8 bg-neutral-600 w-3 h-3 border-0">
+</section> -->
+{{ end }}

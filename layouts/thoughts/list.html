@@ -1,0 +1,26 @@
+{{ define "description" }}
+	{{ .Summary }}
+{{ end }}
+
+{{ define "main" }}
+<h1 class="text-2xl font-bold mt-16 mb-8">
+	{{ .Title }}
+</h1>
+</div>
+	{{ range (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") }}
+	<a
+		href="{{ .Permalink }}"
+		class="underline underline-offset-2"
+	>
+		{{ .Title }}
+	</a>
+	<time
+		datetime='{{ .Date.Format "2006-01-02" }}'
+		class="text-sm text-neutral-500 mb-4 block"
+	>
+		{{ .Date.Format "2 January 2006" }}
+	</time>
+	{{ end }}
+	<hr class="mt-8 bg-neutral-600 w-3 h-3 border-0">
+</div>
+{{ end }}

@@ -4,17 +4,17 @@ type: "page"
 draft: false
 ---
 
-This is a history of all projects I’ve worked on that I can remember. Mostly software.
+A history of all software and writing projects I’ve worked on that I can remember.
 
 ## Now
 
-[Dashify](https://wordpress.org/plugins/dashify/) {{< years "2024–" >}} \
+[Dashify](https://getdashify.com) {{< years "2024–" >}} \
 Better WooCommerce order management.
 
 [LinkQR](https://linkqr.johnjago.com) {{< years "2024–" >}} \
 Share links using QR codes.
 
-[undo.studio](https://undo.studio) {{< years "2023–" >}} \
+[Work journal](/work-journal/) {{< years "2023–" >}} \
 What it's like to start a software business from day one. Marketing, engineering, customer support, and everything else.
 
 [高彰的小笔记](https://gaozhang.co/) {{< years "2020–" >}} \
@@ -34,7 +34,7 @@ Remove extra whitespace from text. \
 
 ## Previously
 
-*Projects not actively developed or used.*
+*Projects not actively developed or used, or which I’m no longer involved in.*
 
 [Timeless](https://github.com/johnjago/timeless) {{< years "2021–2023" >}} \
 Hugo theme used by this blog. It emphasizes readability and good typography. I have sinced merged it into this blog’s codebase for ease of maintenance.

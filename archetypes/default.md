@@ -1,7 +1,10 @@
----
-title: ""
-date: {{ .Date }}
-type: "post"
-slug: ""
-draft: false
----
++++
+title = ''
+slug = ''
+date = {{ .Date }}
+location = 'Waukee, Iowa, US'
+type = 'post'
+category = 'thoughts'
+unlisted = false
+draft = false
++++
