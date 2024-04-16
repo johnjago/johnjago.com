@@ -31,7 +31,3 @@ To have Tailwind CSS watch for changes and rebuild the CSS file:
 ```sh
 make css
 ```
-
-## License
-
-CC0
