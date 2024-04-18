@@ -2,7 +2,7 @@
 title = ''
 slug = ''
 date = {{ .Date }}
-location = 'Waukee, Iowa, US'
+location = 'Waukee, Iowa'
 type = 'post'
 category = 'thoughts'
 unlisted = false

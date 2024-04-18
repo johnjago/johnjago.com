@@ -2,7 +2,7 @@
 title = 'Day 3: First blog post on the Dashify website'
 slug = 'day-3-first-dashify-blog-post'
 date = 2024-04-17T22:01:44-05:00
-location = 'Waukee, Iowa, United States'
+location = 'Waukee, Iowa'
 type = 'post'
 category = 'work-journal'
 unlisted = false
