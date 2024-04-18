@@ -2,7 +2,7 @@
 title = 'Day 2: Cold email results'
 slug = 'day-2-cold-email-results'
 date = 2024-04-16T16:54:44-05:00
-location = 'Waukee, Iowa, US'
+location = 'Waukee, Iowa'
 type = 'post'
 category = 'work-journal'
 unlisted = false
