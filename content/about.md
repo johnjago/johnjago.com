@@ -6,7 +6,7 @@ draft: false
 
 Hi! I’m John Jago.
 
-This website is where I share what I’m working on, reading, and thinking about. It’s like an updating book—a public journal.
+This website is where I share what I’m working on, reading, and thinking about—it’s my public journal.
 
 Want to reach me? I love getting personal email: jc@johnjago.com
 
