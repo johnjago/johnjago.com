@@ -24,13 +24,13 @@
 	<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>
 </head>
 <body class="bg-[#fffcf9] max-w-[38rem] mx-auto my-24 px-8 text-neutral-600 text-lg">
-	<header class="mb-4 pb-4 border-b border-b-neutral-300 flex justify-between">
+	<header class="mb-4 pb-4 border-b border-b-neutral-300 flex justify-between items-center">
 		<!-- The span is needed because the h1 reduces the height by about 3px. Not sure why. -->
 		{{ if .IsHome }}<h1>{{ else }}<span>{{ end }}
 			<a href="/" class="font-handwriting whitespace-nowrap">John Jago</a>
 		{{ if .IsHome }}</h1>{{ else}}</span>{{ end }}
 		</a>
-		<nav class="break-keep">
+		<nav class="break-keep text-base">
 			<a href="/about/" class="mr-4 hover:underline hover:underline-offset-2">About</a>
 			<a href="/projects/" class="mr-4 hover:underline hover:underline-offset-2">Projects</a>
 			<a href="/blogroll/" class="hover:underline hover:underline-offset-2">Blogroll</a>
@@ -40,7 +40,7 @@
 		{{ block "main" . }}
 		{{ end }}
 	</main>
-	<footer class="mt-16 pt-4 flex justify-between border-t border-t-neutral-300">
+	<footer class="text-base mt-16 pt-4 flex justify-between border-t border-t-neutral-300">
 		<nav>
 			<a
 				href="{{ if .IsHome }}#top{{ else }}/{{end}}"
