@@ -2,6 +2,7 @@
 title: "Hash tables for unsorted array lookups"
 date: 2019-08-03T18:58:57-05:00
 type: "post"
+category: "technical"
 slug: "hash-table-unsorted-array"
 draft: false
 ---

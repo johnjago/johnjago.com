@@ -2,6 +2,7 @@
 title: "Hide trending topics on X with uBlock Origin"
 date: 2024-01-04T15:56:55-06:00
 type: "post"
+category: "technical"
 slug: "hide-x-trending-topics"
 draft: false
 ---

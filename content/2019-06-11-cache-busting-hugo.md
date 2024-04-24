@@ -2,6 +2,7 @@
 title: "Cache busting static assets in Hugo"
 date: 2019-06-11T16:26:49-05:00
 type: "post"
+category: "technical"
 slug: "cache-busting-hugo"
 draft: false
 ---

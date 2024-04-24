@@ -1,13 +1,11 @@
-{{ define "description" }}
-	{{ .Summary }}
-{{ end }}
+{{ define "description" }}{{ .Description }}{{ end }}
 
 {{ define "main" }}
 <h1 class="text-2xl font-bold mt-16 mb-8">
 	{{ .Title }}
 </h1>
 </div>
-	{{ range (where (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") "Params.category" "!=" "technical") }}
+	{{ range (where .Site.Pages "Params.category" "==" "technical") }}
 	<a
 		href="{{ .Permalink }}"
 		class="underline underline-offset-2"

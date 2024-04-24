@@ -2,13 +2,14 @@
 title: "The biggest problem with programming languages"
 date: 2022-12-26T09:54:53-06:00
 type: "post"
+category: "technical"
 slug: "language-gap"
 draft: false
 ---
 
-It’s easy to describe in spoken language what you want to build. 
+It’s easy to describe in spoken language what you want to build.
 
-“I want a web application where I can upload files…” 
+“I want a web application where I can upload files…”
 
 You can describe how it should behave, how it should handle different scenarios, and what other functionality it should have. Taking the idea and building it is not a trivial task. It  requires that you spend time learning how to program and then spend time building it. Why does it have to be that way?
 

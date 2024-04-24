@@ -2,6 +2,7 @@
 title: "Clojure vs Go: Making a spell checker"
 date: 2021-06-06
 type: "post"
+category: "technical"
 slug: "clojure-vs-go"
 draft: false
 ---

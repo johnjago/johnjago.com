@@ -2,6 +2,7 @@
 title: "Keyboard shortcuts"
 date: 2021-03-13
 type: "post"
+category: "technical"
 slug: "shortcuts"
 draft: false
 ---

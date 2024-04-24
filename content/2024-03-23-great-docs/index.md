@@ -2,6 +2,7 @@
 title: "Two open source projects with great documentation"
 date: 2024-03-23T12:08:50-05:00
 type: "post"
+category: "technical"
 slug: "great-docs"
 draft: false
 ---

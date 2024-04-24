@@ -2,6 +2,7 @@
 title: "Hide the LinkedIn news feed with uBlock Origin"
 date: 2024-01-03T23:54:29-06:00
 type: "post"
+category: "technical"
 slug: "hide-linkedin-feed"
 draft: false
 ---
