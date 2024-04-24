@@ -4,7 +4,7 @@ type: "page"
 draft: false
 ---
 
-Personal blogs are a great form of authentic expression—it’s not just the writing, but also the design and feeling. Here are some I enjoy reading. They are in no particular order.
+Personal blogs are a great form of expression—it’s not just the writing, but also the design and feeling. Here are some I enjoy reading. They are in no particular order.
 
 - [Derek Sivers](https://sive.rs/blog)
 - [Ben Kuhn](https://www.benkuhn.net/)
