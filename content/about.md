@@ -4,7 +4,9 @@ type: "page"
 draft: false
 ---
 
-Hi! I’m John Jago.
+Hi! I’m John.
+
+![A photo of John](/me.jpeg)
 
 This website is where I share what I’m working on, reading, and thinking about—it’s my public journal.
 
