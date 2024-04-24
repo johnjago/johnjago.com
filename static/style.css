@@ -6,3 +6,12 @@
 article hr::before {
 	content: "✽ ✽ ✽" !important;
 }
+
+article img {
+	max-width: calc(100% + 4rem)
+}
+
+article p:has(img) {
+	display: flex;
+	justify-content: center;
+}
