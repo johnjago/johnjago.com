@@ -27,7 +27,7 @@
 		{{ .Date.Format "2 January 2006" }}
 	</time>
 	{{ end }}
-	<hr class="mt-8 bg-neutral-600 w-3 h-3 border-0">
+	<hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
 </section>
 <section class="mt-16">
 	<div class="flex justify-between items-baseline mb-8">
@@ -57,7 +57,7 @@
 		{{ .Date.Format "2 January 2006" }}
 	</time>
 	{{ end }}
-	<hr class="mt-8 bg-neutral-600 w-3 h-3 border-0">
+	<hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
 </section>
 <section class="mt-16">
 	<div class="flex justify-between items-baseline mb-8">
@@ -70,7 +70,7 @@
 			href="/technical"
 			class="text-base text-neutral-500 underline underline-offset-2"
 		>
-			All technical posts →
+			All posts →
 		</a>
 	</div>
 	{{ range first 4 (where .Site.Pages "Params.category" "technical") }}
@@ -87,6 +87,5 @@
 		{{ .Date.Format "2 January 2006" }}
 	</time>
 	{{ end }}
-	<hr class="mt-8 bg-neutral-600 w-3 h-3 border-0">
 </section>
 {{ end }}
