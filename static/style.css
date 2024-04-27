@@ -4,7 +4,8 @@
 
 .hr::before,
 article hr::before {
-	content: "✽ ✽ ✽" !important;
+	content: "✽   ✽   ✽" !important;
+	white-space: pre;
 }
 
 article img {
