@@ -22,7 +22,7 @@ After graduating from university in 2020, I worked briefly as a software enginee
 
 I occasionally share things on [Are.na](https://www.are.na/john-jago), [Twitter](https://twitter.com/johncjago/), and [GitHub](https://github.com/johnjago).
 
-I hope that one day [read.cv](https://read.cv/jago) will replace LinkedIn.
+I hope that one day [Read.cv](https://read.cv/jago) will replace LinkedIn.
 
 ## 你会中文吗？
 
