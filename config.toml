@@ -2,7 +2,6 @@ baseURL = 'https://johnjago.com'
 languageCode = 'en-us'
 title = 'John Jago'
 rssLimit = 25
-assetDir = 'static'
 
 [params]
 	description = 'My public journal where I share what I’m working on, reading, and thinking about.'

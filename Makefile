@@ -1,10 +1,10 @@
 all: build deploy
 
 hugo:
-	hugo serve --disableFastRender
+	hugo serve
 
 css:
-	node_modules/.bin/tailwindcss -i static/style.css -o static/style.out.css --minify --watch
+	node_modules/.bin/tailwindcss -i assets/style.css -o assets/style.out.css --minify --watch
 
 build:
 	hugo --cleanDestinationDir --minify

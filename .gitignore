@@ -4,7 +4,7 @@ resources/
 .hugo_build.lock
 
 # Tailwind CSS generated file
-static/style.out.css
+assets/style.out.css
 
 # Development dependencies
 node_modules/
