@@ -32,7 +32,6 @@ server {
 	error_page 404 404.html;
 
 	rewrite ^/blog/(?!$|index\.html)(.*)$ /$1 permanent;
-	rewrite ^/about[/]?$ /hi/ permanent;
 
 	location / {
 		try_files $uri $uri/ =404;
