@@ -8,9 +8,9 @@ Hi! I’m John.
 
 ![A photo of John](/me.jpeg)
 
-This website is where I share what I’m working on, reading, and thinking about—it’s my public journal.
+This website is where I share what I’m working on, reading, and thinking about. It’s my public journal.
 
-Want to reach me? I love getting personal email: jc@johnjago.com
+Want to reach me? I love getting personal email. jc@johnjago.com
 
 ## Work
 
@@ -20,9 +20,7 @@ After graduating from university in 2020, I worked briefly as a software enginee
 
 ## Elsewhere
 
-I occasionally share things on [Are.na](https://www.are.na/john-jago), [Twitter](https://twitter.com/johncjago/), and [GitHub](https://github.com/johnjago).
-
-I hope that one day [Read.cv](https://read.cv/jago) will replace LinkedIn.
+I occasionally share things on [Are.na](https://www.are.na/john-jago), [Twitter](https://twitter.com/johncjago/), and [GitHub](https://github.com/johnjago), and I hope that one day [Read.cv](https://read.cv/jago) will replace LinkedIn.
 
 ## 你会中文吗？
 
