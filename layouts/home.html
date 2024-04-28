@@ -4,13 +4,13 @@
 		<h2
 			class="font-bold text-2xl mr-4"
 		>
-			Thoughts
+			Blog
 		</h2>
 		<a
-			href="/thoughts/"
+			href="/blog/"
 			class="text-base text-neutral-500 underline underline-offset-2"
 		>
-			All thoughts →
+			All posts →
 		</a>
 	</div>
 	{{ range first 4 (where (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") "Params.category" "!=" "technical") }}
@@ -70,7 +70,7 @@
 			href="/technical-posts/"
 			class="text-base text-neutral-500 underline underline-offset-2"
 		>
-			All posts →
+			All tech posts →
 		</a>
 	</div>
 	{{ range first 4 (where .Site.Pages "Params.category" "technical") }}
