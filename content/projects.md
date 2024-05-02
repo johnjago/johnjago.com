@@ -4,7 +4,7 @@ type: "page"
 draft: false
 ---
 
-A history of all software and writing projects I’ve worked on that I can remember.
+A history of all my software and writing projects that I can remember.
 
 ## Now
 
