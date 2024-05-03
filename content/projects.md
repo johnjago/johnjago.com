@@ -15,7 +15,7 @@ Better WooCommerce order management.
 Share links using QR codes.
 
 [Work journal](/work-journal/) {{< years "2023–" >}} \
-What it's like to start a software business from day one. Marketing, engineering, customer support, and everything else.
+A 90 day series where I share daily updates on my attempt to make a living by creating a bootstrapped software product.
 
 [高彰的小笔记](https://gaozhang.co/) {{< years "2020–" >}} \
 Chinese language blog posts.
