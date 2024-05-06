@@ -34,7 +34,7 @@ server {
 
 	root                /home/john/johnjago.com;
 	index               index.html;
-	error_page          404 404.html;
+	error_page          404 /404.html;
 	rewrite             ^/blog/(?!$|index\.html)(.*)$ /$1 permanent;
 
 	location / {
