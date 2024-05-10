@@ -10,7 +10,7 @@ Hi! I’m John.
 
 This website is where I share what I’m working on, reading, and thinking about. It’s my public journal.
 
-Want to reach me? I love getting personal email. jc@johnjago.com
+Want to reach me? I love getting a thoughtful email. Send your letter to jc@johnjago.com
 
 ## Work
 
