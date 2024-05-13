@@ -10,7 +10,7 @@ A few of my software and writing projects.
 
 {{< project
 	title="Dashify"
-	description="A WooCommerce extension that upgrades the WooCommerce order dashboard with cleaner styling and more functionality."
+	description="WooCommerce extension that upgrades the WooCommerce order dashboard with cleaner styling and more functionality."
 	years="2024 to present"
 	users="10 active users"
 	link="https://getdashify.com"
@@ -33,7 +33,7 @@ A few of my software and writing projects.
 
 {{< project
 	title="Faview"
-	description="A tool for seeing how the selected image looks as a favicon in the browser tab."
+	description="See how the selected image looks as a favicon in the browser tab."
 	years="2021 to present"
 	users="1K visitors per year"
 	link="https://faview.johnjago.com"
@@ -50,7 +50,7 @@ A few of my software and writing projects.
 
 {{< project
 	title="Deformat"
-	description="A tool to remove extra whitespace from text."
+	description="Remove extra whitespace from text."
 	years="2016 to present"
 	users="9.3K visitors per year"
 	link="https://deformat.johnjago.com"
@@ -58,7 +58,7 @@ A few of my software and writing projects.
 
 {{< project
 	title="LinkQR"
-	description="A website for creating a QR code from a link."
+	description="Create a QR code for a link."
 	years="2024"
 	link="https://linkqr.johnjago.com"
 >}}
@@ -128,7 +128,7 @@ A few of my software and writing projects.
 
 {{< project
 	title="Musearch"
-	description="A tool for searching the same query in multiple search engines to compare how results show in each."
+	description="Search the same query in multiple search engines to compare how results show in each."
 	years="2017 to 2018"
 	link="https://github.com/johnjago/musearch"
 	linkText="view the code"
@@ -145,7 +145,7 @@ A few of my software and writing projects.
 
 {{< project
 	title="Pitch Card Generator"
-	description="Creates random, printable baseball pitch calling cards. I [remade this as a web app](#pitch) in 2021."
+	description="Create random, printable baseball pitch calling cards. I [remade this as a web app](#pitch) in 2021."
 	years="2016"
 	link="https://github.com/johnjago/pitch-card-generator"
 	linkText="view screenshots and code"
