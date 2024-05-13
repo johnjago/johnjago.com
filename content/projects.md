@@ -4,80 +4,155 @@ type: "page"
 draft: false
 ---
 
-A history of all my software and writing projects that I can remember.
+A few of my software and writing projects.
 
-## Now
+***
 
-[Dashify](https://getdashify.com) {{< years "2024–" >}} \
-Better WooCommerce order management.
+{{< project
+	title="Dashify"
+	description="A WooCommerce extension that upgrades the WooCommerce order dashboard with cleaner styling and more functionality."
+	years="2024 to present"
+	users="10 active users"
+	link="https://getdashify.com"
+>}}
 
-[LinkQR](https://linkqr.johnjago.com) {{< years "2024–" >}} \
-Share links using QR codes.
+{{< project
+	title="Work journal"
+	description="A series where I write daily updates on my attempt to make a living by creating a bootstrapped software product."
+	years="2023 to present"
+	link="/work-journal/"
+	linkText="open the journal"
+>}}
 
-[Work journal](/work-journal/) {{< years "2023–" >}} \
-A 90 day series where I share daily updates on my attempt to make a living by creating a bootstrapped software product.
+{{< project
+	title="高彰的小笔记"
+	description="In 2019, I began taking Mandarin Chinese classes at my university, and after a couple semesters I wanted to continue learning. I write short essays to keep practicing what I’ve learned."
+	years="2021 to present"
+	link="https://gaozhang.co"
+>}}
 
-[高彰的小笔记](https://gaozhang.co/) {{< years "2020–" >}} \
-Chinese language blog posts.
+{{< project
+	title="Faview"
+	description="A tool for seeing how the selected image looks as a favicon in the browser tab."
+	years="2021 to present"
+	users="1K visitors per year"
+	link="https://faview.johnjago.com"
+>}}
 
-## Published
+{{< project
+	title="Pitch"
+	description="In high school, I made a pitch calling card generator for the school’s softball coach. When the coach told me that the [legacy Java desktop app](#pitch-card-generator) could no longer run, I recreated it with Next.js."
+	years="2021 to present"
+	users="dozens of coaches"
+	link="https://pitch-iota.vercel.app"
+	linkText="open the app"
+>}}
 
-*People use these, but I'm not focused on growing them.*
+{{< project
+	title="Deformat"
+	description="A tool to remove extra whitespace from text."
+	years="2016 to present"
+	users="9.3K visitors per year"
+	link="https://deformat.johnjago.com"
+>}}
 
-[Faview](https://faview.johnjago.com) {{< years "2021–" >}} \
-Preview how an image looks as a favicon in a browser tab. \
-{{< users "200 yearly active users" >}}
+{{< project
+	title="LinkQR"
+	description="A website for creating a QR code from a link."
+	years="2024"
+	link="https://linkqr.johnjago.com"
+>}}
 
-[Deformat](https://deformat.johnjago.com) {{< years "2016–" >}} \
-Remove extra whitespace from text. \
-{{< users "7,000 yearly active users" >}}
+{{< project
+	title="Experiments in creative coding"
+	description="Generative, algorithmic, and mathematical art using R and JavaScript. "
+	years="2021"
+	link="https://github.com/johnjago/generative-art#generative-art--undostudio"
+	linkText="view the gallery"
+>}}
 
-## Previously
+{{< project
+	title="PeachPay"
+	description="I co-founded a company that set out to innovate in ecommerce checkout, first building a mobile app that lets people buy with QR codes, and later an all-in-one payments and checkout extension for WooCommerce."
+	years="2020 to 2024"
+	users="tens of millions of dollars processed"
+	link="https://peachpay.app"
+>}}
 
-*Projects not actively developed or used, or which I’m no longer involved in.*
+{{< project
+	title="Goupfile"
+	description="File sharing with multiple files under one URL, easy to remember URLs that don’t have ambiguous characters, and QR codes for sharing the download link."
+	years="2019 to 2022"
+	link="https://goupfile.johnjago.com"
+	linkText="open the app"
+>}}
 
-[Timeless](https://github.com/johnjago/timeless) {{< years "2021–2023" >}} \
-Hugo theme used by this blog. It emphasizes readability and good typography. I have sinced merged it into this blog’s codebase for ease of maintenance.
+{{< project
+	title="Blognow"
+	description="Zero config static site generator for blogs, like Hugo but with less configuration."
+	years="2019 to 2021"
+	link="https://github.com/johnjago/blognow/blob/master/README.md"
+	linkText="view screenshots and code"
+>}}
 
-[Generative art](https://github.com/undostudio/generative-art#generative-art--undostudio) {{< years "2021" >}} \
-Experiments in creative coding.
+{{< project
+	title="tailwind-login"
+	description="Clone of the DigitalOcean login page ([archive](http://web.archive.org/web/20190113042309/https://cloud.digitalocean.com/login)) to demonstrate how flexible Tailwind CSS is. A coworker of mine couldn’t tell which was the real one."
+	years="2019"
+	link="https://johnjago.github.io/tailwind-login/"
+>}}
 
-[Pitch](https://pitch-iota.vercel.app/) {{< years "2021" >}} \
-Web version of the original Pitch Card Generator from 2016, built with Next.js.
+{{< project
+	title="mmap-demo"
+	description="Demo of the mmap system call for memory-mapped files in Unix."
+	years="2019"
+	link="https://github.com/johnjago/mmap-demo"
+	linkText="view the code"
+>}}
 
-[PeachPay](https://peachpay.app) {{< years "2020–2024" >}} \
-I co-founded a company that set out to innovate in ecommerce checkout, first building a mobile app that let people buy with QR codes, and later an all-in-one payments and checkout extension for WooCommerce. \
-{{< users "700 merchants, tens of millions of dollars processed" >}}
+{{< project
+	title="cshear"
+	description="Concurrent shearsort algorithm in C using pthreads."
+	years="2019"
+	link="https://github.com/johnjago/cshear"
+	linkText="view the code"
+>}}
 
-[Goupfile](https://goupfile.johnjago.com) {{< years "2019–2022" >}} \
-File sharing with multiple files under one URL, easy to remember URLs that don't have ambiguous characters, and QR codes for sharing the download link.
+{{< project
+	title="is-am-pm"
+	description="Node.js package that tells you whether a number on the 24-hour clock or a date corresponds to am or pm."
+	years="2019"
+	link="https://www.npmjs.com/package/is-am-pm"
+	linkText="view the npm package"
+>}}
 
-[Blognow](https://github.com/johnjago/blognow) {{< years "2019–2021" >}} \
-Zero config static site generator for blogs, like Hugo but with less configuration.
+{{< project
+	title="Musearch"
+	description="A tool for searching the same query in multiple search engines to compare how results show in each."
+	years="2017 to 2018"
+	link="https://github.com/johnjago/musearch"
+	linkText="view the code"
+>}}
 
-[mmap-demo](https://github.com/johnjago/mmap-demo) {{< years "2019" >}} \
-Demo of the mmap system call for memory-mapped files in Unix.
+{{< project
+	title="Stripped YouTube"
+	description="Firefox add-on that removes distractions on YouTube."
+	years="2016 to 2022"
+	users="20 active users, 8 five-star reviews"
+	link="https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/"
+	linkText="view listing"
+>}}
 
-[cshear](https://github.com/johnjago/cshear) {{< years "2019" >}} \
-Concurrent shearsort algorithm in C using pthreads.
+{{< project
+	title="Pitch Card Generator"
+	description="Creates random, printable baseball pitch calling cards. I [remade this as a web app](#pitch) in 2021."
+	years="2016"
+	link="https://github.com/johnjago/pitch-card-generator"
+	linkText="view screenshots and code"
+>}}
 
-[is-am-pm](https://www.npmjs.com/package/is-am-pm) {{< years "2019" >}} \
-Node.js package that tells you whether a number on the 24-hour clock or a date corresponds to am or pm.
-
-[tailwind-login](https://johnjago.github.io/tailwind-login/) {{< years "2019" >}} \
-Clone of the DigitalOcean login page ([archive](http://web.archive.org/web/20190113042309/https://cloud.digitalocean.com/login)) to demonstrate how flexible Tailwind CSS is. A coworker of mine couldn't tell which was the real one.
-
-[Musearch](https://github.com/johnjago/musearch) {{< years "2017—2018" >}} \
-Search the same query in multiple search engines to check how well your content shows up in each of them.
-
-[Stripped YouTube](https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/) {{< years "2016–2022" >}} \
-Firefox add-on that removes distractions on YouTube.
-
-[Pitch Card Generator](https://github.com/johnjago/pitch-card-generator) {{< years "2016" >}} \
-Creates random, printable pitch calling cards to aid in calling out pitch style without the other team knowing. Made this with a friend for a high school softball coach.
-
-*uSay Change* {{< years "2011" >}} \
-Middle school project. It was a site where people could submit ideas on how to improve products or services. Like [Canny](https://canny.io/) but worse. Lots of hacked together PHP.
-
-*Guess the Number* {{< years "2011" >}} \
-The first program I made that wasn't a webpage, a number guessing game in Visual Basic.
+{{< project
+	title="uSay Change"
+	description="Middle school project. It was a site where people could submit ideas on how to improve products or services. Like [Canny in its early days](https://baremetrics.com/blog/canny-bootstrapped-800k-arr), but worse. Lots of hacked together PHP."
+	years="2011"
+>}}

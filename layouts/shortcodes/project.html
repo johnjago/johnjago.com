@@ -1,0 +1,7 @@
+<div class="mb-16 last:mb-0">
+	<h2 id='{{ .Get "title" | anchorize }}' class="mb-1">{{ .Get "title" }}</h2>
+	<p class="mb-2">{{ .Get "description" | markdownify }}</p>
+	<small class="text-base text-neutral-500 inline">
+		{{ .Get "years" }}{{ with .Get "users" }} — {{ . }}{{ end }}{{ if .Get "link" }} — <a href='{{ .Get "link" }}'>{{ with .Get "linkText" }}{{ . }}{{ else }}visit the website{{ end }}</a> <img class="inline my-0" src="/up-right-arrow.svg" width="14" class="inline">{{ else }}{{ end }}
+	</small>
+</div>
