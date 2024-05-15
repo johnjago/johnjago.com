@@ -4,7 +4,6 @@ slug: "twitter-for-you"
 date: 2024-01-16T16:14:40-06:00
 location: "Waukee, Iowa"
 type: "post"
-category: "work-journal"
 draft: false
 ---
 
