@@ -1,10 +1,10 @@
 {{ define "description" }}{{ .Description }}{{ end }}
 
 {{ define "main" }}
-<h1 class="text-2xl font-bold mt-16 mb-4">
+<h1 class="text-2xl font-bold mt-16 mb-8">
 	{{ .Title }}
 </h1>
-<p class="mb-4">{{ .Description }}</p>
+<p>{{ .Description }}</p>
 <hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
 </div>
 	{{ range (where .Site.Pages "Params.category" "==" "work-journal") }}
@@ -16,7 +16,7 @@
 	</a>
 	<time
 		datetime='{{ .Date.Format "2006-01-02" }}'
-		class="text-base text-neutral-500 mb-4 block"
+		class="text-base text-neutral-500 mt-1 mb-6 block"
 	>
 		{{ .Date.Format "2 January 2006" }}
 	</time>
