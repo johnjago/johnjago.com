@@ -2,7 +2,7 @@
 title = 'Day 33: What should I introduce in Dashify Pro?'
 slug = 'day-33-dashify-pro'
 date = 2024-05-17T20:57:11-07:00
-location = 'Waukee, Iowa'
+location = 'Denver, Colorado'
 type = 'post'
 category = 'work-journal'
 unlisted = false

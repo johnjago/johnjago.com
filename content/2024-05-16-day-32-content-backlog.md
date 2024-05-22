@@ -2,7 +2,7 @@
 title = 'Day 32: Creating a backlog of content'
 slug = 'day-32-content-backlog'
 date = 2024-05-16T20:44:47-07:00
-location = 'Waukee, Iowa'
+location = 'Denver, Colorado'
 type = 'post'
 category = 'work-journal'
 unlisted = false
