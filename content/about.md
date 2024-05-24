@@ -20,7 +20,7 @@ After graduating from university in 2020, I worked briefly as a software enginee
 
 ## Elsewhere
 
-Find me on [Are.na](https://www.are.na/john-jago), [Read.cv](https://read.cv/jago), [Twitter](https://twitter.com/johncjago/), and [GitHub](https://github.com/johnjago).
+Find me on [Are.na](https://www.are.na/john-jago), [Read.cv](https://read.cv/jago), and [GitHub](https://github.com/johnjago).
 
 ## 你会中文吗？
 
