@@ -12,7 +12,7 @@ A few of my software and writing projects.
 	title="Dashify"
 	description="WooCommerce extension that upgrades the WooCommerce order dashboard with cleaner styling and more functionality."
 	years="2024 to present"
-	users="10 active users"
+	users="40 active users"
 	link="https://getdashify.com"
 >}}
 
