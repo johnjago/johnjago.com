@@ -23,11 +23,12 @@
 	<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 	<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>
 </head>
-<body class="bg-[#fffcf9] max-w-[38rem] mx-auto my-24 px-8 text-neutral-600 text-lg">
-	<header class="mb-4 pb-4 border-b border-b-neutral-300 flex justify-between items-center">
+<body class="bg-[#fffcf9] max-w-[38rem] mx-auto my-2 px-8 text-neutral-600 text-lg">
+	{{ if ne .Type "post" }}
+	<header class="mb-24 pt-24 flex flex-col gap-8 text-center border-t-4 border-t-neutral-600">
 		<!-- The span is needed because the h1 reduces the height by about 3px. Not sure why. -->
 		{{ if .IsHome }}<h1>{{ else }}<span>{{ end }}
-			<a href="/" class="font-handwriting whitespace-nowrap">John Jago</a>
+			<a href="/" class="text-3xl font-handwriting whitespace-nowrap">John Jago</a>
 		{{ if .IsHome }}</h1>{{ else}}</span>{{ end }}
 		</a>
 		<nav class="break-keep text-base">
@@ -36,11 +37,14 @@
 			<a href="/blogroll/" class="hover:underline hover:underline-offset-2">Blogroll</a>
 		</nav>
 	</header>
+	{{ else }}
+	<div class="mb-24 border-t-4 border-t-neutral-600"></div>
+	{{ end }}
 	<main>
 		{{ block "main" . }}
 		{{ end }}
 	</main>
-	<footer class="text-base mt-16 pt-4 flex justify-between border-t border-t-neutral-300">
+	<footer class='text-base mt-24 pb-2 flex justify-between border-b-4 border-b-neutral-600'>
 		<nav>
 			<a
 				href="{{ if .IsHome }}#top{{ else }}/{{end}}"
