@@ -16,3 +16,8 @@ article p:has(img) {
 	display: flex;
 	justify-content: center;
 }
+
+blockquote p:first-of-type::before,
+blockquote p:last-of-type::after {
+	content: '';
+}
