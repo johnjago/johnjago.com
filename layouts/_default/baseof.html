@@ -25,7 +25,7 @@
 </head>
 <body class="bg-[#fffcf9] max-w-[38rem] mx-auto mb-8 px-8 text-neutral-600 text-lg">
 	{{ if ne .Type "post" }}
-	<header class="mb-24 pt-24 flex flex-col gap-8 text-center border-t-[0.25rem] border-t-neutral-600">
+	<header class="mb-24 pt-24 flex flex-col gap-6 text-center border-t-[0.25rem] border-t-neutral-600">
 		<!-- The span is needed because the h1 reduces the height by about 3px. Not sure why. -->
 		{{ if .IsHome }}<h1>{{ else }}<span>{{ end }}
 			<a href="/" class="text-3xl font-handwriting whitespace-nowrap">John Jago</a>
