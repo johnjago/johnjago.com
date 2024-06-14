@@ -1,4 +1,4 @@
 +++
-title = 'Blog posts'
+title = 'Blog'
 description = 'Thoughts, ideas, and reflections.'
 +++
