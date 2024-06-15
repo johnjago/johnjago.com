@@ -1,18 +1,10 @@
 {{ define "main" }}
 <section class="mt-16">
-	<div class="flex justify-between items-baseline mb-8">
-		<h2
-			class="font-bold text-2xl mr-4"
-		>
-			Blog
-		</h2>
-		<a
-			href="/blog/"
-			class="text-base text-neutral-500 underline underline-offset-2"
-		>
-			All posts →
-		</a>
-	</div>
+	<h2
+		class="font-bold text-2xl mb-8"
+	>
+		Blog
+	</h2>
 	{{ range first 4 (where (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") "Params.category" "!=" "technical") }}
 	<a
 		href="{{ .Permalink }}"
@@ -27,22 +19,22 @@
 		{{ .Date.Format "2 January 2006" }}
 	</time>
 	{{ end }}
+	<div class="text-right">
+		<a
+			href="/blog/"
+			class="text-sm font-semibold uppercase hover:underline hover:underline-offset-2"
+		>
+			All posts →
+		</a>
+	</div>
 	<hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
 </section>
 <section class="mt-16">
-	<div class="flex justify-between items-baseline mb-8">
-		<h2
-			class="font-bold text-2xl mr-4"
-		>
-			Work journal
-		</h2>
-		<a
-			href="/work-journal/"
-			class="text-base text-neutral-500 underline underline-offset-2"
-		>
-			All entries →
-		</a>
-	</div>
+	<h2
+		class="font-bold text-2xl mb-8"
+	>
+		Work journal
+	</h2>
 	{{ range first 4 (where .Site.Pages "Params.category" "work-journal") }}
 	<a
 		href="{{ .Permalink }}"
@@ -57,22 +49,22 @@
 		{{ .Date.Format "2 January 2006" }}
 	</time>
 	{{ end }}
+	<div class="text-right">
+		<a
+			href="/work-journal/"
+			class="text-sm font-semibold uppercase hover:underline hover:underline-offset-2"
+		>
+			All entries →
+		</a>
+	</div>
 	<hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
 </section>
 <section class="mt-16">
-	<div class="flex justify-between items-baseline mb-8">
-		<h2
-			class="font-bold text-2xl mr-4"
-		>
-			Technical posts
-		</h2>
-		<a
-			href="/technical-posts/"
-			class="text-base text-neutral-500 underline underline-offset-2"
-		>
-			All tech posts →
-		</a>
-	</div>
+	<h2
+		class="font-bold text-2xl mb-8"
+	>
+		Technical posts
+	</h2>
 	{{ range first 4 (where .Site.Pages "Params.category" "technical") }}
 	<a
 		href="{{ .Permalink }}"
@@ -87,5 +79,13 @@
 		{{ .Date.Format "2 January 2006" }}
 	</time>
 	{{ end }}
+	<div class="text-right">
+		<a
+			href="/technical-posts/"
+			class="text-sm font-semibold uppercase hover:underline hover:underline-offset-2"
+		>
+			All technical posts →
+		</a>
+	</div>
 </section>
 {{ end }}
