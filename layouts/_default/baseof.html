@@ -24,7 +24,6 @@
 	<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>
 </head>
 <body class="bg-[#fffcf9] text-neutral-600 text-lg">
-	{{ if ne .Type "post" }}
 	<header class="my-24 px-8 flex flex-col gap-6 text-center">
 		<!-- The span is needed because the h1 reduces the height by about 3px. Not sure why. -->
 		{{ if .IsHome }}<h1>{{ else }}<span>{{ end }}
@@ -37,7 +36,6 @@
 			<a href="/blogroll/" class="hover:underline hover:underline-offset-2">Blogroll</a>
 		</nav>
 	</header>
-	{{ end }}
 	<main class="max-w-[38rem] mx-auto px-8">
 		{{ block "main" . }}
 		{{ end }}
