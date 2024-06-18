@@ -9,7 +9,7 @@
 </div>
 	{{ range (where .Site.Pages "Params.category" "==" "technical") }}
 	<a
-		href="{{ .Permalink }}"
+		href="{{ .RelPermalink }}"
 		class="underline underline-offset-2"
 	>
 		{{ .Title }}

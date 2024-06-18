@@ -11,7 +11,7 @@
 </div>
 	{{ range (where (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") "Params.category" "!=" "technical") }}
 	<a
-		href="{{ .Permalink }}"
+		href="{{ .RelPermalink }}"
 		class="underline underline-offset-2"
 	>
 		{{ .Title }}

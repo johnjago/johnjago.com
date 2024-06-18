@@ -7,7 +7,7 @@
 	</h2>
 	{{ range first 4 (where (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") "Params.category" "!=" "technical") }}
 	<a
-		href="{{ .Permalink }}"
+		href="{{ .RelPermalink }}"
 		class="underline underline-offset-2"
 	>
 		{{ .Title }}
@@ -37,7 +37,7 @@
 	</h2>
 	{{ range first 4 (where .Site.Pages "Params.category" "work-journal") }}
 	<a
-		href="{{ .Permalink }}"
+		href="{{ .RelPermalink }}"
 		class="underline underline-offset-2"
 	>
 		{{ .Title }}
@@ -67,7 +67,7 @@
 	</h2>
 	{{ range first 4 (where .Site.Pages "Params.category" "technical") }}
 	<a
-		href="{{ .Permalink }}"
+		href="{{ .RelPermalink }}"
 		class="underline underline-offset-2"
 	>
 		{{ .Title }}
