@@ -1,7 +1,10 @@
 tailwind = node_modules/.bin/tailwindcss -i assets/style.css -o assets/style.out.css --minify
 
+write:
+	hugo serve --disableFastRender
+
 dev:
-	(hugo serve & ${tailwind} --watch)
+	(hugo serve --disableFastRender & ${tailwind} --watch)
 
 css:
 	${tailwind}
