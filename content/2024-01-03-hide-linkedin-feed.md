@@ -31,4 +31,4 @@ www.linkedin.com###feed-news-module
 
 ## Not working?
 
-If the above isn’t working, [let me know](https://johnjago.com/hi/#get-in-touch) and I’ll update this page.
+If the above isn’t working, [let me know](https://johnjago.com/about#contact) and I’ll update this page.
