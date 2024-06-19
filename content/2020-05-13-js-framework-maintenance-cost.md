@@ -1,9 +1,9 @@
 ---
-title: "JavaScript frameworks from the last decade did not age well"
+title: "The maintenance cost of JavaScript frameworks"
 date: 2020-05-13T19:35:40-05:00
 type: "post"
 category: "technical"
-slug: "maintenance"
+slug: "js-framework-maintenance-cost"
 draft: false
 ---
 
@@ -21,10 +21,9 @@ Let's illustrate this with an example.
 Suppose it's late 2010, and you need to build an interactive web UI. Rather than
 reinvent the wheel (remember, you're being paid to make a dashboard for the
 business, not to invent wheels), you come across a library called Backbone.js.
-Hallelujah! You don't have to spend late nights at the office trying to figure
-out how to keep the UI in sync with the data. You `npm install` it (just kidding,
-npm was only a year old at the time), or more likely you just download some
-files from a website.
+Hooray! You don't have to spend late nights at the office trying to figure
+out how to keep the UI in sync with the data. You `npm install` it and start
+developing.
 
 Fast forward a couple years, and some new frameworks start popping up and gaining
 popularity. Because they are supported by big companies who have the resources to

@@ -1,9 +1,9 @@
 ---
-title: "Keyboard shortcuts"
+title: "My Git and other shell aliases"
 date: 2021-03-13
 type: "post"
 category: "technical"
-slug: "shortcuts"
+slug: "my-git-and-shell-aliases"
 draft: false
 ---
 

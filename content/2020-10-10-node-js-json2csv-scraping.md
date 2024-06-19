@@ -1,9 +1,9 @@
 ---
-title: "You can do a lot with text and pipes in Linux"
+title: "Scraping a website with Node.js and json2csv"
 date: 2020-10-10T18:25:48-05:00
 type: "post"
 category: "technical"
-slug: "text"
+slug: "node-js-json2csv-scraping"
 draft: false
 ---
 

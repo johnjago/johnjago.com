@@ -1,17 +1,18 @@
 ---
-title: "Software will slap you if you write it poorly"
+title: "Programming’s built-in feedback loop"
 date: 2020-06-03T07:50:07-05:00
 type: "post"
 category: "technical"
-slug: "feedback"
+slug: "programming-feedback-loop"
 draft: false
 ---
 
-When making software, it's easy to know when you're doing something wrong. It's
-as if the practice of writing code has a built-in feedback loop that will punish
-you for your bad code, and reward you for good code.
+When writing software, it's easy to know when you're doing something wrong.
+It's as if the practice of writing code has a built-in feedback loop that will
+slow you down and create mistakes when the code is “bad”, and speed you up as
+well as prevent mistakes when the code is “good”.
 
-First, let's look at an example of bad code.
+First, let's look at an example of “bad” code.
 
 Suppose you are making some HTTP endpoints using your favorite server language:
 Ruby, Python, Go, whatever. These endpoints allow clients to create, update,

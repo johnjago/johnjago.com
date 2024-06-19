@@ -3,7 +3,7 @@ title: "Programming blogs that go deep"
 date: 2020-11-21T15:44:17-06:00
 type: "post"
 category: "technical"
-slug: "blogs"
+slug: "programming-blogs"
 draft: false
 ---
 

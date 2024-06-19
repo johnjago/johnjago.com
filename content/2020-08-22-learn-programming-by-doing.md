@@ -1,9 +1,9 @@
 ---
-title: "Learn more by doing"
+title: "Learn programming by doing"
 date: 2020-08-22T08:54:16-05:00
 type: "post"
 category: "technical"
-slug: "doing"
+slug: "learn-programming-by-doing"
 draft: false
 ---
 
