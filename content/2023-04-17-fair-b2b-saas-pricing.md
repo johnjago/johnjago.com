@@ -1,6 +1,6 @@
 ---
-title: "“Let me make money first” pricing"
-slug: "money-first-pricing"
+title: "A fair B2B SaaS pricing model"
+slug: "fair-b2b-saas-pricing"
 date: 2023-04-17T22:30:04-05:00
 location: "Ames, Iowa"
 type: "post"

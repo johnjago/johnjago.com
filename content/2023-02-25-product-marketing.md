@@ -1,5 +1,5 @@
 ---
-title: "Where most product marketing falls short"
+title: "Where product marketing falls short"
 date: 2023-02-25T21:08:53-06:00
 type: "post"
 slug: "product-marketing"
