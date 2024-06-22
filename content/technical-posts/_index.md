@@ -1,4 +1,4 @@
 +++
 title = 'Technical posts'
-description = 'Posts about programming and software engineering, along with solutions to specific problems I’ve encountered.'
+description = 'My thoughts on programming and software engineering, along with code snippets and solutions to problems I’ve encountered.'
 +++
