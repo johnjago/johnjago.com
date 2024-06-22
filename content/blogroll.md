@@ -4,7 +4,9 @@ type: "page"
 draft: false
 ---
 
-Personal blogs are a wonderful form of expression—it’s not just the writing, but also the design and feeling. Here are some I enjoy reading. This list is shuffled each time I update the page.
+Personal blogs and websites are a wonderful form of expression. It’s not only the writing—the design says as much about a person as their words.
+
+Here are some I enjoy reading. They are shuffled each time I update this page.
 
 - [Jordan O'Connor](https://jdnoc.com/blog/)
 - [Javier Arce](https://javier.computer/)
