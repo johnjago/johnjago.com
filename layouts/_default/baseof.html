@@ -23,45 +23,22 @@
 	<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 	<script src="https://zhidao.johnjago.com/script.js" data-site="MZJJIBDM" defer></script>
 </head>
-<body class="bg-[#fffcf9] text-neutral-600 text-lg">
-	<header class="my-24 px-8 flex flex-col gap-6 text-center">
-		<!-- The span is needed because the h1 reduces the height by about 3px. Not sure why. -->
-		{{ if .IsHome }}<h1>{{ else }}<span>{{ end }}
-			<a href="/" class="text-3xl font-handwriting whitespace-nowrap">John Jago</a>
-		{{ if .IsHome }}</h1>{{ else}}</span>{{ end }}
-		</a>
-		<nav class="break-keep text-sm font-semibold uppercase flex flex-wrap gap-4 justify-center max-w-[38rem] mx-auto">
-			<a href="/" class="hover:underline hover:underline-offset-2">Writing</a>
-			<a href="/projects/" class="hover:underline hover:underline-offset-2">Projects</a>
-			<a href="/blogroll/" class="hover:underline hover:underline-offset-2">Blogroll</a>
-			<a href="/about/" class="hover:underline hover:underline-offset-2">About</a>
-		</nav>
+<body class="max-w-[38rem] mx-auto px-8 my-24 bg-[#fffcf9] text-neutral-600 text-lg">
+	<header>
+	{{ if .IsHome }}
+		<h1>
+	{{ end }}
+			<a href="/" class="font-handwriting whitespace-nowrap">John Jago</a>
+	{{ if .IsHome }}
+		</h1>
+	{{ end }}
 	</header>
-	<main class="max-w-[38rem] mx-auto px-8">
+	<main>
 		{{ block "main" . }}
 		{{ end }}
 	</main>
-	<footer class='text-sm font-semibold uppercase mt-24 py-8 border-t border-t-neutral-200'>
-		<div class="flex justify-between max-w-[38rem] mx-auto px-8">
-			<nav>
-				<a
-					href="{{ if .IsHome }}#top{{ else }}/{{end}}"
-					class="hover:underline hover:underline-offset-2"
-				>
-					Home
-				</a>
-			</nav>
-			<div>
-				<a
-					href="https://buttondown.email/john"
-					class="hover:underline hover:underline-offset-2"
-				>Subscribe</a>
-				<a
-					href="/index.xml"
-					class="ml-4 hover:underline hover:underline-offset-2"
-				>RSS</a>
-			</div>
-		</div>
+	<footer class='prose prose-sm prose-neutral mt-16 pt-4 border-t border-t-neutral-600 prose-a:underline-offset-2 max-w-none'>
+		<p>Thanks for reading! If you like what I write, I have a <a href="https://buttondown.email/john">newsletter</a> you can subscribe to. This site also has an <a href="/index.xml">RSS feed</a>.{{ if not .IsHome }} Here’s a way to get to <a href="/">the home page</a>.{{ end }}
 	</footer>
 </body>
 </html>
