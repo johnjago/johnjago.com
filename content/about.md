@@ -6,7 +6,7 @@ draft: false
 
 Hi, I’m John.
 
-I like books, long walks, making things on the web, and sharing a little bit of what I’ve learned.
+I like books, long walks, and making things on the web.
 
 ## Work
 
