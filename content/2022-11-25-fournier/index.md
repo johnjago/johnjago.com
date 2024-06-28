@@ -8,7 +8,7 @@ draft: false
 
 A while back, I was looking for the perfect typeface. I think I found it.
 
-I wanted [my blog](https://johnjago.com/blog), my [work blog](https://undo.studio), my [Chinese blog](https://gaozhang.co), and my [page with links to all the blogs](https://johnjago.com) to share the same feel, yet be unique. How do you accomplish that? If you want to change the colors, the layout, the shapes, then the only thing consistency can arise from is the typeface. I didn't even want the same font, just the same feel. The fonts can be different, like one being sans-serif and another serif, but the typeface—the design ethos—should be the same.
+I wanted a couple of my personal websites to share the same feel, yet be unique. How do you accomplish that? If you want to change the colors, the layout, the shapes, then the only thing consistency can arise from is the typeface. I didn't even want the same font, just the same feel. The fonts can be different, like one being sans-serif and another serif, but the typeface—the design ethos—should be the same.
 
 When I write on a computer, it's usually in a monospaced font. I never really thought about why. Maybe it makes me feel like I'm sitting at a typewriter? Perhaps it goes along with being in editing mode. I might want to focus on the idea instead of the presentation. Could this perfect typeface also have a monospaced font? That way, I can have the same feeling while drafting, without editing in a font that's too decorative.
 
