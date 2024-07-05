@@ -6,16 +6,18 @@
 </h1>
 <p>{{ .Description }}</p>
 <hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
-</div>
+<ul>
 	{{ range (where .Site.Pages "Params.category" "==" "work-journal") }}
-	<a
-		href="{{ .RelPermalink }}"
-		class="underline underline-offset-2 decoration-neutral-400"
-	>{{ .Title }}</a>
-	<time
-		datetime='{{ .Date.Format "2006-01-02" }}'
-		class="text-base text-neutral-500 mt-1 mb-8 block"
-	>{{ .Date.Format "2 January 2006" }}</time>
+	<li class="mb-5">
+		<a
+			href="{{ .RelPermalink }}"
+			class="underline underline-offset-2 decoration-neutral-400"
+		>{{ .Title }}</a>
+		<time
+			datetime='{{ .Date.Format "2006-01-02" }}'
+			class="text-base text-neutral-500 mt-1 block"
+		>{{ .Date.Format "2 January 2006" }}</time>
+	</li>
 	{{ end }}
-</div>
+</ul>
 {{ end }}

@@ -13,16 +13,20 @@
 </section>
 <section class="mt-16">
 	<h2 class="font-bold text-xl mb-5">Blog</h2>
-	{{ range first 4 (where (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") "Params.category" "!=" "technical") }}
-	<a
-		href="{{ .RelPermalink }}"
-		class="underline underline-offset-2 decoration-neutral-400"
-	>{{ .Title }}</a>
-	<time
-		datetime='{{ .Date.Format "2006-01-02" }}'
-		class="text-base text-neutral-500 mt-1 mb-8 block"
-	>{{ .Date.Format "2 January 2006" }}</time>
-	{{ end }}
+	<ul>
+		{{ range first 4 (where (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") "Params.category" "!=" "technical") }}
+		<li class="mb-5">
+			<a
+				href="{{ .RelPermalink }}"
+				class="underline underline-offset-2 decoration-neutral-400"
+			>{{ .Title }}</a>
+			<time
+				datetime='{{ .Date.Format "2006-01-02" }}'
+				class="text-base text-neutral-500 mt-1 block"
+			>{{ .Date.Format "2 January 2006" }}</time>
+		</li>
+		{{ end }}
+	</ul>
 	<a
 		href="/blog/"
 		class="text-sm font-semibold uppercase hover:underline hover:underline-offset-2 decoration-neutral-400"
@@ -32,16 +36,20 @@
 </section>
 <section class="mt-16">
 	<h2 class="font-bold text-xl mb-5">Work journal</h2>
-	{{ range first 4 (where .Site.Pages "Params.category" "work-journal") }}
-	<a
-		href="{{ .RelPermalink }}"
-		class="underline underline-offset-2 decoration-neutral-400"
-	>{{ .Title }}</a>
-	<time
-		datetime='{{ .Date.Format "2006-01-02" }}'
-		class="text-base text-neutral-500 mt-1 mb-8 block"
-	>{{ .Date.Format "2 January 2006" }}</time>
-	{{ end }}
+	<ul>
+		{{ range first 4 (where .Site.Pages "Params.category" "work-journal") }}
+		<li class="mb-5">
+			<a
+				href="{{ .RelPermalink }}"
+				class="underline underline-offset-2 decoration-neutral-400"
+			>{{ .Title }}</a>
+			<time
+				datetime='{{ .Date.Format "2006-01-02" }}'
+				class="text-base text-neutral-500 mt-1 block"
+			>{{ .Date.Format "2 January 2006" }}</time>
+		</li>
+		{{ end }}
+	</ul>
 	<a
 		href="/work-journal/"
 		class="text-sm font-semibold uppercase hover:underline hover:underline-offset-2 decoration-neutral-400"
@@ -51,16 +59,20 @@
 </section>
 <section class="mt-16">
 	<h2 class="font-bold text-xl mb-5">Technical notebook</h2>
-	{{ range first 4 (where .Site.Pages "Params.category" "technical") }}
-	<a
-		href="{{ .RelPermalink }}"
-		class="underline underline-offset-2 decoration-neutral-400"
-	>{{ .Title }}</a>
-	<time
-		datetime='{{ .Date.Format "2006-01-02" }}'
-		class="text-base text-neutral-500 mt-1 mb-8 block"
-	>{{ .Date.Format "2 January 2006" }}</time>
-	{{ end }}
+	<ul>
+		{{ range first 4 (where .Site.Pages "Params.category" "technical") }}
+		<li class="mb-5">
+			<a
+				href="{{ .RelPermalink }}"
+				class="underline underline-offset-2 decoration-neutral-400"
+			>{{ .Title }}</a>
+			<time
+				datetime='{{ .Date.Format "2006-01-02" }}'
+				class="text-base text-neutral-500 mt-1 block"
+			>{{ .Date.Format "2 January 2006" }}</time>
+		</li>
+		{{ end }}
+	</ul>
 	<a
 		href="/technical-posts/"
 		class="text-sm font-semibold uppercase hover:underline hover:underline-offset-2 decoration-neutral-400"
