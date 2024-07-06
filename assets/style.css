@@ -21,3 +21,7 @@ blockquote p:first-of-type::before,
 blockquote p:last-of-type::after {
 	content: '';
 }
+
+.footnotes ol {
+	padding-inline-start: 1em;
+}
