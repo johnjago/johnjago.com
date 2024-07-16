@@ -10,18 +10,27 @@ A few of my software and writing projects.
 
 {{< project
 	title="Dashify"
-	description="WooCommerce extension that upgrades the WooCommerce order dashboard with cleaner styling and more functionality."
+	description="WordPress extension that upgrades the WooCommerce order dashboard with cleaner styling and more functionality."
 	years="2024 to present"
-	users="40 active users"
+	users="100+ active users"
 	link="https://getdashify.com"
 >}}
 
 {{< project
-	title="Work journal"
-	description="A series where I write daily updates on my attempt to make a living by creating a bootstrapped software product."
-	years="2023 to present"
-	link="/work-journal/"
-	linkText="open the journal"
+	title="Faview"
+	description="See how an image looks as a favicon in the browser tab."
+	years="2021 to present"
+	users="1K visitors per year"
+	link="https://faview.johnjago.com"
+>}}
+
+{{< project
+	title="Pitch"
+	description="In high school, I made a pitch calling card generator for the school’s softball coach. When the coach told me that the legacy Java [desktop app](#pitch-card-generator) could no longer run, I recreated it with Next.js."
+	years="2021 to present"
+	users="7K visitors per year"
+	link="https://pitch-iota.vercel.app"
+	linkText="open the app"
 >}}
 
 {{< project
@@ -32,28 +41,19 @@ A few of my software and writing projects.
 >}}
 
 {{< project
-	title="Faview"
-	description="See how the selected image looks as a favicon in the browser tab."
-	years="2021 to present"
-	users="1K visitors per year"
-	link="https://faview.johnjago.com"
->}}
-
-{{< project
-	title="Pitch"
-	description="In high school, I made a pitch calling card generator for the school’s softball coach. When the coach told me that the [legacy Java desktop app](#pitch-card-generator) could no longer run, I recreated it with Next.js."
-	years="2021 to present"
-	users="dozens of coaches"
-	link="https://pitch-iota.vercel.app"
-	linkText="open the app"
->}}
-
-{{< project
 	title="Deformat"
 	description="Remove extra whitespace from text."
 	years="2016 to present"
-	users="9.3K visitors per year"
+	users="10K visitors per year"
 	link="https://deformat.johnjago.com"
+>}}
+
+{{< project
+	title="Work journal"
+	description="A series where I wrote daily updates on my attempt to make a living by creating a bootstrapped software product."
+	years="2024"
+	link="/work-journal/"
+	linkText="open the journal"
 >}}
 
 {{< project

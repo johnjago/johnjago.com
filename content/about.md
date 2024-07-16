@@ -10,7 +10,7 @@ I like books, long walks, and making things on the web.
 
 ## Work
 
-I’m currently trying to make a living building [Dashify](https://getdashify.com), [documenting](/work-journal/) the journey from the very start.
+I’m currently trying to make a living building [Dashify](https://getdashify.com). For a while, I [wrote daily](/work-journal/) about Dashify’s progress.
 
 After graduating from university in 2020, I worked briefly as a software engineer for a finance company before [co-founding a startup](https://web.archive.org/web/20220713045101/https://www.businessinsider.com/peachpay-one-click-checkout-woocommerce-fintech-payments-bolt-fast-2021-4) which I left after four years.
 
