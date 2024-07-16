@@ -1,5 +1,5 @@
 +++
-title = 'Day 90: Concluding my bootstrapping journal after 23,011 words'
+title = 'Day 90: Concluding my work journal'
 slug = 'day-90-work-journal-conclusion'
 date = 2024-07-13T20:36:44-05:00
 location = 'Waukee, Iowa'
