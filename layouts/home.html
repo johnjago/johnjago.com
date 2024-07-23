@@ -35,29 +35,6 @@
 	</a>
 </section>
 <section class="mt-16">
-	<h2 class="font-bold text-xl mb-5">Work journal</h2>
-	<ul>
-		{{ range first 4 (where .Site.Pages "Params.category" "work-journal") }}
-		<li class="mb-5">
-			<a
-				href="{{ .RelPermalink }}"
-				class="underline underline-offset-2 decoration-neutral-400"
-			>{{ .Title }}</a>
-			<time
-				datetime='{{ .Date.Format "2006-01-02" }}'
-				class="text-base text-neutral-500 mt-1 block"
-			>{{ .Date.Format "2 January 2006" }}</time>
-		</li>
-		{{ end }}
-	</ul>
-	<a
-		href="/work-journal/"
-		class="text-sm font-semibold decoration-neutral-400 px-2 py-1 bg-neutral-200 rounded hover:bg-neutral-600 hover:text-gray-50 transition-colors"
-	>
-		All entries →
-	</a>
-</section>
-<section class="mt-16">
 	<h2 class="font-bold text-xl mb-5">Technical notebook</h2>
 	<ul>
 		{{ range first 4 (where .Site.Pages "Params.category" "technical") }}
