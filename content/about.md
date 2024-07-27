@@ -4,7 +4,7 @@ type: "page"
 draft: false
 ---
 
-Hi, I’m John.
+Hi! My name is John.
 
 I like books, long walks, and making things on the web.
 
