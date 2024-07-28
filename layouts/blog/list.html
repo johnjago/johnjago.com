@@ -6,7 +6,7 @@
 <h1 class="text-2xl font-bold mt-16 mb-8">
 	{{ .Title }}
 </h1>
-<p>{{ .Description }}</p>
+<p class="prose prose-lg prose-neutral prose-a:underline-offset-2 prose-a:decoration-neutral-400 prose-a:whitespace-nowrap">{{ .Description | markdownify }}</p>
 <hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
 <ul>
 	{{ range (where (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") "Params.category" "!=" "technical") }}
