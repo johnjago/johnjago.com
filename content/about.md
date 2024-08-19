@@ -4,9 +4,7 @@ type: "page"
 draft: false
 ---
 
-My name is John.
-
-I love to build things that people use.
+My name is John, and I love creating things on the web.
 
 I’m currently making [Dashify](https://getdashify.com)—a modern, ecommerce-focused dashboard for WooCommerce. For a while, I [wrote daily](/work-journal/) about Dashify’s progress to show what it’s like to build and market a software product from scratch.
 
