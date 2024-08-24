@@ -15,7 +15,7 @@
 	<h2 class="font-bold text-xl mb-5">Blog</h2>
 	<ul>
 		{{ range first 4 (where (where (where .Site.Pages "Type" "post") "Params.category" "!=" "work-journal") "Params.category" "!=" "technical") }}
-		<li class="mb-5">
+		<li class="mb-3 last-of-type:mb-5">
 			<a
 				href="{{ .RelPermalink }}"
 				class="underline underline-offset-2 decoration-neutral-400"
@@ -25,7 +25,7 @@
 	</ul>
 	<a
 		href="/blog/"
-		class="text-sm font-semibold decoration-neutral-400 px-2 py-1 bg-neutral-200 rounded hover:bg-neutral-600 hover:text-gray-50 transition-colors"
+		class="text-sm font-semibold px-2 py-1 bg-[#fffcf9] border-2 border-neutral-600 shadow-[3px_3px_0_0_#525252] hover:shadow-none transition-shadow"
 	>
 		All posts →
 	</a>
@@ -34,7 +34,7 @@
 	<h2 class="font-bold text-xl mb-5">Technical notebook</h2>
 	<ul>
 		{{ range first 4 (where .Site.Pages "Params.category" "technical") }}
-		<li class="mb-5">
+		<li class="mb-3 last-of-type:mb-5">
 			<a
 				href="{{ .RelPermalink }}"
 				class="underline underline-offset-2 decoration-neutral-400"
@@ -44,7 +44,7 @@
 	</ul>
 	<a
 		href="/technical-posts/"
-		class="text-sm font-semibold decoration-neutral-400 px-2 py-1 bg-neutral-200 rounded hover:bg-neutral-600 hover:text-gray-50 transition-colors"
+		class="text-sm font-semibold px-2 py-1 bg-[#fffcf9] border-2 border-neutral-600 shadow-[3px_3px_0_0_#525252] hover:shadow-none transition-shadow"
 	>
 		All notes →
 	</a>
