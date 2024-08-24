@@ -14,7 +14,7 @@ I value [craft](https://www.craftcouncil.org/magazine/article/craft-seriously-wh
 
 ## Contact
 
-Want to say hello? I’d be happy to hear from you! You can send an email to jc@johnjago.com.
+Want to say hello? I’d be happy to hear from you! Send an email to jc@johnjago.com.
 
 ## Elsewhere
 
