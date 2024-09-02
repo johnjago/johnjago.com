@@ -4,9 +4,7 @@ type: "page"
 draft: false
 ---
 
-My name is John, and I love creating things on the web.
-
-I also like reading books, taking long walks in nature, and exploring new places.
+My name is John. I like creating things on the web, reading books, taking long walks in nature, and exploring new places.
 
 I write to learn and to share what I’ve learned with others and with my future self.
 

@@ -1,4 +1,4 @@
 +++
 title = 'Blog'
-description = 'Thoughts, ideas, and reflections.'
+description = 'Writing as reflection.'
 +++
