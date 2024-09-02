@@ -81,7 +81,7 @@ That line will show in the diff, and the remainder of the code that was indented
 
 In my example below, it’s showing the whole function because it’s relatively small. If it’s larger, Git will abbreviate as needed.
 
-```sh
+```
 ~/code/sample (main) git diff -w
 diff --git a/sample.js b/sample.js
 index 50976cf..bea391d 100644
