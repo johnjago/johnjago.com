@@ -4,7 +4,7 @@ slug: "framer"
 date: 2024-03-10T18:07:18-05:00
 location: "Waukee, Iowa"
 type: "post"
-category: "technical"
+category: "work-journal"
 draft: false
 ---
 
