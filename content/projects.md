@@ -153,6 +153,6 @@ A few of my software and writing projects.
 
 {{< project
 	title="uSay Change"
-	description="Middle school project. It was a site where people could submit ideas on how to improve products or services. Like [Canny in its early days](https://baremetrics.com/blog/canny-bootstrapped-800k-arr), but worse. Lots of hacked together PHP."
+	description="My first major coding project that I created near the end of middle school. It was a site where people could submit ideas on how to improve products or services. Lots of hacked together PHP."
 	years="2011"
 >}}
