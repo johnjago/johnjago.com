@@ -4,7 +4,7 @@ slug: "twitter-for-you"
 date: 2024-01-16T16:14:40-06:00
 location: "Waukee, Iowa"
 type: "post"
-draft: false
+unlisted: true
 ---
 
 You see Twitter accounts with thousands, or maybe even millions of followers, but how did they get there?
