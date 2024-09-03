@@ -8,7 +8,7 @@ category: "technical"
 draft: false
 ---
 
-While reinstalling Docker Desktop using Homebrew to fix some issues in getting started with my [next idea](first-idea), I encountered this error:
+While reinstalling Docker Desktop using Homebrew, I encountered this error:
 
 ```
 Error: docker: It seems the App source '/Applications/Docker.app' is not there.
