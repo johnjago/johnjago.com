@@ -1,16 +1,13 @@
 ---
 title: "About me"
 type: "page"
-draft: false
 ---
 
 Hi there, I’m John.
 
 I like creating things on the web, reading books, and taking long walks in nature.
 
-I write to learn and to share what I’ve learned with others—and with my future self.
-
-I value [craft](https://www.craftcouncil.org/magazine/article/craft-seriously-what-does-word-mean) and authenticity.
+I have a deep appreciation for [craft](/craft/), and I’m always looking to connect with like-minded people.
 
 ## Contact
 
