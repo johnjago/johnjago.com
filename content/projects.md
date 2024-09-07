@@ -4,9 +4,16 @@ type: "page"
 draft: false
 ---
 
-A few of my software and writing projects.
+A nearly complete history of all my software and writing projects.
 
 ***
+
+{{< project
+	title="Textbox"
+	description="A blank page for typing."
+	years="2024 to present"
+	link="https://textbox.johnjago.com"
+>}}
 
 {{< project
 	title="Dashify"
