@@ -8,13 +8,12 @@ Personal blogs and websites are a wonderful form of expression. It’s not only 
 
 Here are some I enjoy reading. They are shuffled each time I update this page.
 
-- [Jordan O'Connor](https://jdnoc.com/blog/)
+- [Matt Baer](https://write.as/matt/)
 - [Javier Arce](https://javier.computer/)
 - [Ben Borgers](https://ben.page/)
 - [Manuel Moreale](https://manuelmoreale.com/), who has a series [People and Blogs](https://peopleandblogs.com/)
 - [Brandur Leach](https://brandur.org/)
 - [Andy Matuschak](https://andymatuschak.org/)
-- [Ryan Kulp](https://www.ryanckulp.com/)
 - [Herman Martinus](https://herman.bearblog.dev/)
 - [David Heinemeier Hansson](https://world.hey.com/dhh/)
 - [Linus Lee](https://thesephist.com/)
