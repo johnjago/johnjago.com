@@ -19,4 +19,4 @@ You can find me on [Are.na](https://www.are.na/john-jago), [Read.cv](https://rea
 
 ## 你会中文吗？
 
-你好，我叫高彰！我也用中文写博文，[你可以看一下](https://gaozhang.co)。
+你好，我叫高彰！我也用中文写博文，{{< raw >}}<a href="https://gaozhang.co" style="text-underline-offset: 4px;">你可以看一下</a>{{< /raw >}}。
