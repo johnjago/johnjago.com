@@ -9,6 +9,13 @@ A nearly complete history of all my software and writing projects.
 ***
 
 {{< project
+	title="An online writing app"
+	description="Distraction-free writing tool."
+	years="2024 to present"
+	link="https://onlinewriting.app"
+>}}
+
+{{< project
 	title="OnlineTools.co"
 	description="A toolbox in your browser tab."
 	years="2024 to present"
