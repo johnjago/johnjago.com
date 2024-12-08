@@ -26,7 +26,7 @@ A nearly complete history of all my software and writing projects.
 	title="Dashify"
 	description="WordPress extension that upgrades the WooCommerce admin dashboard with cleaner styling and more functionality."
 	years="2024 to present"
-	users="100+ active users"
+	users="300+ active users"
 	link="https://getdashify.com"
 >}}
 
