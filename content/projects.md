@@ -4,27 +4,27 @@ type: "page"
 draft: false
 ---
 
-A nearly complete history of all my software and writing projects.
+A nearly complete history of my software and writing projects.
 
 ***
 
 {{< project
 	title="An online writing app"
-	description="Distraction-free writing tool."
+	description="Distraction-free writing."
 	years="2024 to present"
 	link="https://onlinewriting.app"
 >}}
 
 {{< project
 	title="OnlineTools.co"
-	description="A toolbox in your browser tab."
+	description="Toolbox in your browser tab."
 	years="2024 to present"
 	link="https://onlinetools.co"
 >}}
 
 {{< project
 	title="Textbox"
-	description="A blank page for typing."
+	description="A textbox on a page."
 	years="2024 to present"
 	link="https://textbox.johnjago.com"
 >}}
@@ -33,7 +33,6 @@ A nearly complete history of all my software and writing projects.
 	title="Dashify"
 	description="WordPress extension that upgrades the WooCommerce admin dashboard with cleaner styling and more functionality."
 	years="2024 to present"
-	users="300+ active users"
 	link="https://getdashify.com"
 >}}
 
@@ -41,7 +40,6 @@ A nearly complete history of all my software and writing projects.
 	title="Faview"
 	description="See how an image looks as a favicon in the browser tab."
 	years="2021 to present"
-	users="1K visitors per year"
 	link="https://faview.johnjago.com"
 >}}
 
@@ -49,14 +47,12 @@ A nearly complete history of all my software and writing projects.
 	title="Pitch"
 	description="In high school, I made a pitch calling card generator for the school’s softball coach. When the coach told me that the legacy Java [desktop app](#pitch-card-generator) could no longer run, I recreated it with Next.js."
 	years="2021 to present"
-	users="7K visitors per year"
 	link="https://pitch-iota.vercel.app"
-	linkText="open the app"
 >}}
 
 {{< project
 	title="高彰的小笔记"
-	description="In 2019, I began taking Mandarin Chinese classes at my university, and after a couple semesters I wanted to continue learning. I write short essays to keep practicing what I’ve learned."
+	description="In 2019, I began taking Mandarin Chinese classes at my university, and after a couple semesters I wanted to continue learning. I write short essays to keep practicing."
 	years="2021 to present"
 	link="https://gaozhang.co"
 >}}
@@ -65,7 +61,6 @@ A nearly complete history of all my software and writing projects.
 	title="Deformat"
 	description="Remove extra whitespace from text."
 	years="2016 to present"
-	users="10K visitors per year"
 	link="https://deformat.johnjago.com"
 >}}
 
@@ -96,7 +91,6 @@ A nearly complete history of all my software and writing projects.
 	title="PeachPay"
 	description="I co-founded a company that set out to innovate in ecommerce checkout, first building a mobile app that lets people buy with QR codes, and later an all-in-one payments and checkout extension for WooCommerce."
 	years="2020 to 2024"
-	users="tens of millions of dollars processed"
 	link="https://peachpay.app"
 >}}
 
@@ -105,7 +99,6 @@ A nearly complete history of all my software and writing projects.
 	description="File sharing with multiple files under one URL, easy to remember URLs that don’t have ambiguous characters, and QR codes for sharing the download link."
 	years="2019 to 2022"
 	link="https://goupfile.johnjago.com"
-	linkText="open the app"
 >}}
 
 {{< project
@@ -113,7 +106,7 @@ A nearly complete history of all my software and writing projects.
 	description="Zero config static site generator for blogs, like Hugo but with less configuration."
 	years="2019 to 2021"
 	link="https://github.com/johnjago/blognow/blob/master/README.md"
-	linkText="view screenshots and code"
+	linkText="screenshots and code"
 >}}
 
 {{< project
@@ -128,7 +121,7 @@ A nearly complete history of all my software and writing projects.
 	description="Demo of the mmap system call for memory-mapped files in Unix."
 	years="2019"
 	link="https://github.com/johnjago/mmap-demo"
-	linkText="view the code"
+	linkText="code"
 >}}
 
 {{< project
@@ -136,7 +129,7 @@ A nearly complete history of all my software and writing projects.
 	description="Concurrent shearsort algorithm in C using pthreads."
 	years="2019"
 	link="https://github.com/johnjago/cshear"
-	linkText="view the code"
+	linkText="code"
 >}}
 
 {{< project
@@ -144,7 +137,7 @@ A nearly complete history of all my software and writing projects.
 	description="Node.js package that tells you whether a number on the 24-hour clock or a date corresponds to am or pm."
 	years="2019"
 	link="https://www.npmjs.com/package/is-am-pm"
-	linkText="view the npm package"
+	linkText="npm package"
 >}}
 
 {{< project
@@ -152,16 +145,15 @@ A nearly complete history of all my software and writing projects.
 	description="Search the same query in multiple search engines to compare how results show in each."
 	years="2017 to 2018"
 	link="https://github.com/johnjago/musearch"
-	linkText="view the code"
+	linkText="code"
 >}}
 
 {{< project
 	title="Stripped YouTube"
 	description="Firefox add-on that removes distractions on YouTube."
 	years="2016 to 2022"
-	users="20 active users, 8 five-star reviews"
 	link="https://addons.mozilla.org/en-US/firefox/addon/stripped-youtube/"
-	linkText="view listing"
+	linkText="listing"
 >}}
 
 {{< project
@@ -169,7 +161,7 @@ A nearly complete history of all my software and writing projects.
 	description="Create random, printable baseball pitch calling cards. I [remade this as a web app](#pitch) in 2021."
 	years="2016"
 	link="https://github.com/johnjago/pitch-card-generator"
-	linkText="view screenshots and code"
+	linkText="screenshots and code"
 >}}
 
 {{< project
