@@ -36,6 +36,7 @@ server {
 	index               index.html;
 	error_page          404 /404.html;
 	rewrite             ^/blog/(?!$|index\.html)(.*)$ /$1 permanent;
+	rewrite             ^/work-journal/(?!$|index\.html)(.*)$ /2024-bootstrapping-journal/$1 permanent;
 
 	location / {
 		try_files $uri $uri/ =404;

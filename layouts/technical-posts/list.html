@@ -7,7 +7,9 @@
 <p class="prose prose-lg prose-neutral prose-a:text-neutral-700 prose-a:font-normal prose-a:underline-offset-2 prose-a:decoration-neutral-500 prose-a:whitespace-nowrap">{{ .Description | markdownify }}</p>
 <hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
 <ul>
-	{{ range (where .Site.Pages "Params.category" "==" "technical") }}
+	{{ range (where (where .Site.Pages "Params.category" "technical")
+		"Params.unlisted" "!=" true)
+	}}
 	<li class="mb-5">
 		<a
 			href="{{ .RelPermalink }}"

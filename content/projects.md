@@ -65,10 +65,10 @@ A nearly complete history of my software and writing projects.
 >}}
 
 {{< project
-	title="Work journal"
+	title="Bootstrapping journal"
 	description="A series where I wrote daily updates on my attempt to make a living by creating a bootstrapped software product."
 	years="2024"
-	link="/work-journal/"
+	link="/2024-bootstrapping-journal/"
 	linkText="open the journal"
 >}}
 

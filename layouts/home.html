@@ -14,9 +14,11 @@
 <section class="mt-16">
 	<h2 class="font-bold text-xl mb-5">Blog</h2>
 	<ul>
-		{{ range first 4 (where (where (where .Site.Pages "Type" "post")
-			"Params.category" "==" nil)
-			"Params.unlisted" "!=" true) }}
+		{{ range first 4 (where (where (where
+			.Site.Pages "Type" "post")
+			"Params.category" nil)
+			"Params.unlisted" "!=" true)
+		}}
 		<li class="mb-3 last-of-type:mb-5">
 			<a
 				href="{{ .RelPermalink }}"
@@ -35,7 +37,10 @@
 <section class="mt-16">
 	<h2 class="font-bold text-xl mb-5">Technical notebook</h2>
 	<ul>
-		{{ range first 4 (where .Site.Pages "Params.category" "technical") }}
+		{{ range first 4 (where (where
+			.Site.Pages "Params.category" "technical")
+			"Params.unlisted" "!=" true)
+		}}
 		<li class="mb-3 last-of-type:mb-5">
 			<a
 				href="{{ .RelPermalink }}"
