@@ -1,18 +1,29 @@
 # [johnjago.com](https://johnjago.com)
 
-My personal website! A home for my writing and a summary of what I’m doing.
+My personal website! A home for my writing and a history of projects I’ve worked
+on.
 
 ## Colophon
 
-This is a static site generated with [Hugo](https://gohugo.io/).
+This is a static site generated with [Hugo](https://gohugo.io/), styled with [Tailwind CSS](https://tailwindcss.com/), hosted on [DigitalOcean](https://www.digitalocean.com/), and set in Source Sans 3.
 
-Styled with [Tailwind CSS](https://tailwindcss.com/).
+## Serving the site locally
 
-Hosted on [DigitalOcean](https://www.digitalocean.com/).
+To serve site locally for creating and editing content:
 
-Set in Source Sans 3.
+```sh
+make
+```
 
-## Build
+or
+
+```sh
+make write
+```
+
+(these are the same thing)
+
+## Development
 
 First time:
 
@@ -20,14 +31,11 @@ First time:
 npm install
 ```
 
-Then, to serve Hugo site locally:
+Then:
 
 ```sh
-make hugo
+make dev
 ```
 
-To have Tailwind CSS watch for changes and rebuild the CSS file:
-
-```sh
-make css
-```
+This will watch for CSS changes and rebuild with Tailwind CSS, in addition to
+serving the site locally.
