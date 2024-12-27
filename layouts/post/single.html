@@ -3,42 +3,42 @@
 {{ end }}
 
 {{ define "main" }}
-	<div class="mt-16 mb-8">
-		<time
-			datetime='{{ .Date.Format "2006-01-02" }}'
-			class="text-base text-neutral-500"
-		>
-			{{ .Date.Format "2 January 2006" }}
-		</time>
-		{{ if .Section }}
-			{{ $index := .Site.GetPage "section" .Section }}
-			{{ with $index }}
-				<span class="mx-0.5 text-neutral-500">•</span>
-				<a href="{{ .RelPermalink }}" class="underline underline-offset-2 decoration-neutral-500 text-neutral-500 text-base">
-					{{- .Title -}}
-				</a>
-			{{ end }}
-		{{ end }}
-		<h1 class="text-2xl font-bold mt-2">
-			{{ .Title }}
-		</h1>
-	</div>
-	<article class="prose prose-lg prose-neutral prose-a:text-neutral-700 prose-a:font-normal prose-a:underline-offset-2 prose-a:decoration-neutral-500 prose-a:whitespace-nowrap prose-h2:text-xl prose-h3:text-lg prose-hr:h-fit prose-hr:border-none prose-hr:opacity-50 prose-hr:text-center prose-blockquote:not-italic prose-blockquote:font-normal prose-blockquote:text-base prose-blockquote:px-8 prose-blockquote:border-l-0 prose-blockquote:border-t prose-blockquote:border-t-neutral-300 prose-blockquote:border-b prose-blockquote:border-b-neutral-300 prose-blockquote:bg-neutral-100">
-		{{ .Content }}
-	</article>
+<div class="mt-16 mb-8">
+	<time
+		datetime='{{ .Date.Format "2006-01-02" }}'
+		class="text-base text-neutral-500"
+	>
+		{{ .Date.Format "2 January 2006" }}
+	</time>
 	{{ if .Section }}
-		{{ if (or .NextInSection .PrevInSection) }}
-			<hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
-		{{ end }}
-		{{ with .NextInSection }}
-			<div>
-				<b>Next: </b><a href="{{ .RelPermalink }}" class="underline underline-offset-2 decoration-neutral-500">{{ .Title }}</a>
-			</div>
-		{{ end }}
-		{{ with .PrevInSection }}
-			<div class="mt-4">
-				<b>Previous: </b><a href="{{ .RelPermalink }}" class="underline underline-offset-2 decoration-neutral-500">{{ .Title }}</a>
-			</div>
+		{{ $index := .Site.GetPage "section" .Section }}
+		{{ with $index }}
+			<span class="mx-0.5 text-neutral-500">•</span>
+			<a href="{{ .RelPermalink }}" class="underline underline-offset-2 decoration-neutral-500 text-neutral-500 text-base">
+				{{- .Title -}}
+			</a>
 		{{ end }}
 	{{ end }}
+	<h1 class="text-2xl font-bold mt-2">
+		{{ .Title }}
+	</h1>
+</div>
+<article class="prose prose-lg prose-neutral prose-a:text-neutral-700 prose-a:font-normal prose-a:underline-offset-2 prose-a:decoration-neutral-500 prose-a:whitespace-nowrap prose-h2:text-xl prose-h3:text-lg prose-hr:h-fit prose-hr:border-none prose-hr:opacity-50 prose-hr:text-center prose-blockquote:not-italic prose-blockquote:font-normal prose-blockquote:text-base prose-blockquote:px-8 prose-blockquote:border-l-0 prose-blockquote:border-t prose-blockquote:border-t-neutral-300 prose-blockquote:border-b prose-blockquote:border-b-neutral-300 prose-blockquote:bg-neutral-100">
+	{{ .Content }}
+</article>
+{{ if .Section }}
+	{{ if (or .NextInSection .PrevInSection) }}
+		<hr class="mt-[3.1111111em] mb-[3.1111111em] hr h-fit border-none opacity-50 text-center">
+	{{ end }}
+	{{ with .NextInSection }}
+		<div>
+			<b>Next: </b><a href="{{ .RelPermalink }}" class="underline underline-offset-2 decoration-neutral-500">{{ .Title }}</a>
+		</div>
+	{{ end }}
+	{{ with .PrevInSection }}
+		<div class="mt-4">
+			<b>Previous: </b><a href="{{ .RelPermalink }}" class="underline underline-offset-2 decoration-neutral-500">{{ .Title }}</a>
+		</div>
+	{{ end }}
+{{ end }}
 {{ end }}
