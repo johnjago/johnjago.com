@@ -15,7 +15,7 @@ Want to say hello? I’d be happy to hear from you! Send an email to jc@johnjago
 
 ## Elsewhere
 
-You can find me on [Are.na](https://www.are.na/john-jago), [Read.cv](https://read.cv/jago), and [GitHub](https://github.com/johnjago).
+You can find me on [Are.na](https://www.are.na/john-jago) and [GitHub](https://github.com/johnjago).
 
 ## 你会中文吗？
 
