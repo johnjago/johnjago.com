@@ -23,31 +23,10 @@ A nearly complete history of my software and writing projects.
 >}}
 
 {{< project
-	title="Textbox"
-	description="A textbox on a page."
-	years="2024 to present"
-	link="https://textbox.johnjago.com"
->}}
-
-{{< project
 	title="Dashify"
 	description="WordPress extension that upgrades the WooCommerce admin dashboard with cleaner styling and more functionality."
 	years="2024 to present"
 	link="https://getdashify.com"
->}}
-
-{{< project
-	title="Faview"
-	description="See how an image looks as a favicon in the browser tab."
-	years="2021 to present"
-	link="https://faview.johnjago.com"
->}}
-
-{{< project
-	title="Pitch"
-	description="In high school, I made a pitch calling card generator for the school’s softball coach. When the coach told me that the legacy Java [desktop app](#pitch-card-generator) could no longer run, I recreated it with Next.js."
-	years="2021 to present"
-	link="https://pitch-iota.vercel.app"
 >}}
 
 {{< project
@@ -58,10 +37,17 @@ A nearly complete history of my software and writing projects.
 >}}
 
 {{< project
-	title="Deformat"
-	description="Remove extra whitespace from text."
-	years="2016 to present"
-	link="https://deformat.johnjago.com"
+	title="Textbox"
+	description="A textbox on a page."
+	years="2024"
+	link="https://textbox.johnjago.com"
+>}}
+
+{{< project
+	title="LinkQR"
+	description="Create a QR code for a link."
+	years="2024"
+	link="https://linkqr.johnjago.com"
 >}}
 
 {{< project
@@ -73,18 +59,25 @@ A nearly complete history of my software and writing projects.
 >}}
 
 {{< project
-	title="LinkQR"
-	description="Create a QR code for a link."
-	years="2024"
-	link="https://linkqr.johnjago.com"
->}}
-
-{{< project
 	title="Experiments in creative coding"
 	description="Generative, algorithmic, and mathematical art using R and JavaScript. "
 	years="2021"
 	link="https://github.com/johnjago/generative-art#generative-art--undostudio"
 	linkText="view the gallery"
+>}}
+
+{{< project
+	title="Pitch"
+	description="In high school, I made a pitch calling card generator for the school’s softball coach. When the coach told me that the legacy Java [desktop app](#pitch-card-generator) could no longer run, I recreated it with Next.js."
+	years="2021"
+	link="https://pitch-iota.vercel.app"
+>}}
+
+{{< project
+	title="Faview"
+	description="See how an image looks as a favicon in the browser tab."
+	years="2021"
+	link="https://faview.johnjago.com"
 >}}
 
 {{< project
@@ -157,8 +150,15 @@ A nearly complete history of my software and writing projects.
 >}}
 
 {{< project
+	title="Deformat"
+	description="Remove extra whitespace from text."
+	years="2016"
+	link="https://deformat.johnjago.com"
+>}}
+
+{{< project
 	title="Pitch Card Generator"
-	description="Create random, printable baseball pitch calling cards. I [remade this as a web app](#pitch) in 2021."
+	description="Java desktop app for creating printable baseball pitch calling cards. I [remade this as a web app](#pitch) in 2021."
 	years="2016"
 	link="https://github.com/johnjago/pitch-card-generator"
 	linkText="screenshots and code"
