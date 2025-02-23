@@ -6,8 +6,11 @@ draft: false
 
 Personal blogs and websites are a wonderful form of expression. It’s not only the writing—the design says as much about a person as their words.
 
-Here are some I enjoy reading. They are shuffled each time I update this page.
+Here are some I enjoy reading. They are in no particular order.
 
+- [Stillness.Digital](https://stillness.digital/)
+- [Henry Desroches](https://henry.codes/)
+- [Applied Cartography](https://jmduke.com/)
 - [Matt Baer](https://write.as/matt/)
 - [Herman Martinus](https://herman.bearblog.dev/)
 - [Ben Borgers](https://ben.page/)
@@ -31,5 +34,4 @@ Here are some I enjoy reading. They are shuffled each time I update this page.
 - [Wesley Aptekar-Cassels](https://notebook.wesleyac.com/)
 - [Andy Matuschak](https://andymatuschak.org/)
 - [Matthew Butterick](https://matthewbutterick.com/chron/)
-- [David Heinemeier Hansson](https://world.hey.com/dhh/)
 - [Nikita Prokopov](https://tonsky.me/)
