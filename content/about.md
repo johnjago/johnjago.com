@@ -3,19 +3,15 @@ title: "About me"
 type: "page"
 ---
 
-Hi there, I’m John.
+Hi, my name is John.
 
-I like creating things on the web, reading books, and taking long walks in nature.
+I enjoy crafting software, writing, reading [books](https://stack.app/u/john/books), and taking long walks.
 
-I have a deep appreciation for [craft](/craft/), and I’m always looking to connect with like-minded people.
-
-## Contact
-
-Want to say hello? I’d be happy to hear from you! Send an email to jc@johnjago.com.
+Want to say hello? I’d be happy to hear from you! jc@johnjago.com
 
 ## Elsewhere
 
-You can find me on [Are.na](https://www.are.na/john-jago), [Stack](https://stack.app/u/john/books), and [GitHub](https://github.com/johnjago).
+You can find me on [Are.na](https://www.are.na/john-jago) and [GitHub](https://github.com/johnjago).
 
 ## 你会中文吗？
 

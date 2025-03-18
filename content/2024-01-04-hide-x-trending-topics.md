@@ -21,7 +21,3 @@ twitter.com##[aria-label="Timeline: Trending now"]
 ```
 
 Click **Apply changes**. Refresh or open Twitter, and the trending topics should be hidden.
-
-## Not working?
-
-If the above snippet isn’t working, [send me a message](https://johnjago.com/about#contact) and I’ll update it.
