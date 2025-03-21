@@ -8,7 +8,6 @@ Personal blogs and websites are a wonderful form of expression. It’s not only 
 
 Here are some I enjoy reading. They are in no particular order.
 
-- [Stillness.Digital](https://stillness.digital/)
 - [Henry Desroches](https://henry.codes/)
 - [Applied Cartography](https://jmduke.com/)
 - [Matt Baer](https://write.as/matt/)
@@ -16,13 +15,15 @@ Here are some I enjoy reading. They are in no particular order.
 - [Ben Borgers](https://ben.page/)
 - [Laurel Schwulst](https://laurelschwulst.com/)
 - [Maggie Appleton](https://maggieappleton.com/)
+- [stillness.digital](https://stillness.digital/)
+- [taylor.town](https://taylor.town/)
 - [Steph Ango](https://stephango.com/)
 - [Jeremy Côté](https://jeremycote.net/)
 - [Maximilian Hoffmann](https://max.hn/)
 - [Dan Luu](https://danluu.com/)
 - Mark MacKay’s [Method of Action](https://method.ac/writing/) and [Exploration Work](https://exploration.work/)
-- [Mu-An Chiou](https://muan.co/)
 - [Derek Sivers](https://sive.rs/blog)
+- [Tom MacWright](https://macwright.com/)
 - [Piper Haywood](https://piperhaywood.com/)
 - [Ben Kuhn](https://www.benkuhn.net/)
 - [Javier Arce](https://javier.computer/)
