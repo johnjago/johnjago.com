@@ -9,7 +9,7 @@ A nearly complete history of my software and writing projects.
 ***
 
 {{< project
-	title="An online writing app"
+	title="OnlineWriting.app"
 	description="Distraction-free writing."
 	years="2024 to present"
 	link="https://onlinewriting.app"
