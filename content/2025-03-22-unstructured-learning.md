@@ -6,7 +6,7 @@ location = 'Waukee, Iowa'
 type = 'post'
 +++
 
-*This was originally published on 9 July 2022 on a platform called Nicheless.*
+*This was originally published 9 July 2022 on [Nicheless](https://nicheless.blog/post/unstructured-learning-wins) and has been slightly revised.*
 
 ***
 
