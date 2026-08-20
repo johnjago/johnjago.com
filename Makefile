@@ -1,6 +1,6 @@
 tailwind = node_modules/.bin/tailwindcss -i assets/style.css -o assets/style.out.css --minify
 
-write:
+serve:
 	hugo serve --disableFastRender
 
 dev:
