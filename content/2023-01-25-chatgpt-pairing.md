@@ -4,7 +4,7 @@ slug: "chatgpt-pairing"
 date: 2023-01-25
 location: "Ames, Iowa"
 type: "post"
-draft: false
+draft: true
 ---
 
 ChatGPT is a great pair programmer, and I could see similar interfaces to knowledge replacing search engines.
