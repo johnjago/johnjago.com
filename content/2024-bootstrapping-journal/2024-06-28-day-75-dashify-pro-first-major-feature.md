@@ -4,7 +4,6 @@ url = 'day-75-dashify-pro-first-major-feature'
 date = 2024-06-28T18:54:09-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 I began work on the first major feature for Dashify Pro: a search bar in the WordPress admin navigation bar from which a merchant can search for an order by name, number, or other criteria.

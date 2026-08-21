@@ -4,7 +4,6 @@ url = 'day-1-cold-emails-to-woocommerce-agencies'
 date = 2024-04-15T17:45:55-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Welcome to my (freshly redesigned) work journal!

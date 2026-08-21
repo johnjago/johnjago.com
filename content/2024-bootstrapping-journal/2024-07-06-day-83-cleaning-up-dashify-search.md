@@ -4,7 +4,6 @@ url = 'day-83-cleaning-up-dashify-search'
 date = 2024-07-06T14:18:14-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 I decided to release Dashify Search earlier than planned by shipping only the ability to search WooCommerce orders by ID. Yes, I could have spent another day adding the ability to search orders by customer name, but searching by ID from anywhere in the WordPress dashboard already provides value—so let’s ship it.

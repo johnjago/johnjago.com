@@ -4,7 +4,6 @@ url = 'day-74-got-distracted'
 date = 2024-06-27T14:20:53-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 As a result of writing a lot for this work journal, I’ve been looking at my website and blog a lot, and doing that, I started to notice how even after many recent tweaks, it still doesn’t quite feel like home.

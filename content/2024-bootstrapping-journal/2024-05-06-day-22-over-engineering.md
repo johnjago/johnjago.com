@@ -4,7 +4,6 @@ url = 'day-22-over-engineering'
 date = 2024-05-06T21:27:47-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 As I build Dashify, I have to remind myself that over-engineering a solution only makes failure ever more likely.

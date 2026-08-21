@@ -4,7 +4,6 @@ url = 'day-23-woocommerce-subscriptions'
 date = 2024-05-07T23:49:51-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 The past few days I’ve been steadily building out support in Dashify for the WooCommerce Subscriptions extension, essentially tweaking the UI to make it and more appealing and intuitive for merchants.

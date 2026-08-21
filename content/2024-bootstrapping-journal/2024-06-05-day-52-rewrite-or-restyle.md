@@ -4,7 +4,6 @@ url = 'day-52-rewrite-or-restyle'
 date = 2024-06-05T12:22:38-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 One thing I’ve been pondering for Dashify is whether I should continue to restyle and rearrange existing components in the WooCommerce dashboard, adding new functionality when needed—or whether I should replace existing components with an entirely fresh creation.

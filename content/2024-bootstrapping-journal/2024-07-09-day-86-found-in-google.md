@@ -4,7 +4,6 @@ url = 'day-86-found-in-google'
 date = 2024-07-09T19:10:54-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 After launching the [first iteration of Dashify Search](https://getdashify.com/releases/2024-07-08-dashify-pro-order-search/), naturally I went to create [a page](https://getdashify.com/features/search/) on the website talking about it so that people can find it. This made me think a lot about marketing websites and how something as simple as the presence of a keyword in the title can make the difference between it being found by hundreds and it being forever invisible.

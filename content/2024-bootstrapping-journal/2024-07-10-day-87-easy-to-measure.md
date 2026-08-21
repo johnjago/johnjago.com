@@ -4,7 +4,6 @@ url = 'day-87-easy-to-measure'
 date = 2024-07-10T19:12:16-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 While making updates to the Dashify website, I had the thought that maybe I should create some conversion events in my web analytics so I know roughly where the converting visitors are coming from.

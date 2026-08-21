@@ -4,7 +4,6 @@ url = 'day-15-programming-better'
 date = 2024-04-29T21:21:11-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 It’s been three years since I wrote code where I really needed to think about what abstraction is best and which programming language construct can aid in creating a robust, readable solution—I guess that’s what happens after you hire a team and become a little removed from the action on the ground.

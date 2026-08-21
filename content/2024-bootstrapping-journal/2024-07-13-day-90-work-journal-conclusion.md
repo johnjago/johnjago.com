@@ -4,7 +4,6 @@ url = 'day-90-work-journal-conclusion'
 date = 2024-07-13T20:36:44-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 About four months ago, I left a startup I co-founded. It was quite the learning experience—I’ll save the details for another time. After leaving, I knew that I wanted another go at creating a business, but this time I wanted to do things differently. No VC funding, no ridiculous growth expectations. Just a modest business with kind people making a great product. Companies like [Basecamp](https://basecamp.com/small), [Buffer](https://buffer.com/about), and [Ghost](https://ghost.org/about) come to mind.

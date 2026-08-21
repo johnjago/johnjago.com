@@ -4,7 +4,6 @@ url = 'day-24-did-not-scale'
 date = 2024-05-08T22:39:46-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Paul Graham, without whom companies like Airbnb and Stripe probably wouldn’t exist, has a famous piece of advice to [do things that don’t scale](https://paulgraham.com/ds.html).

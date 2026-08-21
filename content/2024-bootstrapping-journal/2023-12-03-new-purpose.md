@@ -4,7 +4,6 @@ url: "new-purpose"
 date: 2023-12-03T10:38:07-06:00
 location: "Waukee, Iowa"
 type: "post"
-series: "bootstrapping-journal-2024"
 ---
 
 I originally bought the domain undo.studio so I could create a portfolio of creative side projects involving code, like this [generative art](https://github.com/undostudio/generative-art#generative-art--undostudio), as well as [type design](https://www.are.na/john-jago/typography-type-design-3eroutuwqrg).

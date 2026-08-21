@@ -4,7 +4,6 @@ url = 'day-50-email-verification-laravel'
 date = 2024-06-03T13:54:12-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Once again, I am pleasantly surprised at how Laravel takes care of something which every SaaS application needs—something that turns out to be the same for nearly every application: email verification after the user signs up.

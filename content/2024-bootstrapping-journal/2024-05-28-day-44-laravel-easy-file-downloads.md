@@ -4,7 +4,6 @@ url = 'day-44-laravel-easy-file-downloads'
 date = 2024-05-28T19:53:45-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Today I continued work on the portal where people can buy Dashify Pro and manage their licenses: I added a button to download the Dashify Pro plugin zip if the user has an active subscription.

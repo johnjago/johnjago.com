@@ -4,7 +4,6 @@ url = 'day-73-dashify-website-updates'
 date = 2024-06-26T14:20:01-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 I find it effective to do work in batches. What I mean by this is that, rather than working a little on the Dashify plugin, a little on marketing efforts, and a little on the website in a single day, I prefer to spend the entire day doing just one of those things.

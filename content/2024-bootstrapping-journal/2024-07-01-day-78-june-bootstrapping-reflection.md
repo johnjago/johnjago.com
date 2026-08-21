@@ -4,7 +4,6 @@ url = 'day-78-june-bootstrapping-reflection'
 date = 2024-07-01T11:47:01-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 June was the third full month of working on my own projects to make a living.

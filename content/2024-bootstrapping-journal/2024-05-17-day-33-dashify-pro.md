@@ -4,7 +4,6 @@ url = 'day-33-dashify-pro'
 date = 2024-05-17T20:57:11-07:00
 location = 'Denver, Colorado'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Today is the first day of my 5 day trip to see some family in California!

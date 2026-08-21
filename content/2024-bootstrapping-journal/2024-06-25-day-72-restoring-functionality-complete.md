@@ -4,7 +4,6 @@ url = 'day-72-restoring-functionality-complete'
 date = 2024-06-25T14:17:13-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 After quite a [fews days](/day-71-restoring-functionality-nearly-complete/) of working on restoring the ability to move order view panels while Dashify is on, I’m happy to say that it is complete!

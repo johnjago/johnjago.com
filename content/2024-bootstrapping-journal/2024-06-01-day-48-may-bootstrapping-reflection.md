@@ -4,7 +4,6 @@ url = 'day-48-may-bootstrapping-reflection'
 date = 2024-06-01T00:02:38-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 As I’m preparing to write this reflection, I’m looking back at the journal entries I wrote for every day of May, and I’m realizing just how much progress can happen in only a month. Everything feels like it happened much longer ago.

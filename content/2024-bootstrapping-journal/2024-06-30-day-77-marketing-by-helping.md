@@ -4,7 +4,6 @@ url = 'day-77-marketing-by-helping'
 date = 2024-06-30T10:32:40-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 One way to market an internet product is to help people in a relevant community for free.

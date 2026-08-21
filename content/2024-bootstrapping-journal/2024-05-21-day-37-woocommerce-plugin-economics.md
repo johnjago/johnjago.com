@@ -4,7 +4,6 @@ url = 'day-37-woocommerce-plugin-economics'
 date = 2024-05-21T18:02:25-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 How much money can you make from building and selling an extension for WooCommerce? Is it enough to make a business out of? I’m going to answer this question from the perspective of a solopreneur, so my threshold for a “yes” will be relatively low.

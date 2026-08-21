@@ -4,7 +4,6 @@ url = 'day-60-final-day-before-dashify-pro-launch'
 date = 2024-06-13T16:20:17-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Tomorrow’s definitely the day.

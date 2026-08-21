@@ -4,7 +4,6 @@ url = 'day-36-wordpress-plugin-licensing'
 date = 2024-05-20T16:19:06-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Previously, I created a WordPress plugin and implemented a system for licensing the paid version, a system which did not work well. Here’s what I learned from that, and how I will take those learning to develop a licensing system for a new plugin I’m developing.

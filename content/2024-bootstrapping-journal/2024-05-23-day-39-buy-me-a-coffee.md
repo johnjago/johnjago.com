@@ -4,7 +4,6 @@ url = 'day-39-buy-me-a-coffee'
 date = 2024-05-23T17:19:31-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Today, I took a short break from Dashify to create a [Buy Me a Coffee profile](https://buymeacoffee.com/johnjago) and link to it from some of my popular web tools.

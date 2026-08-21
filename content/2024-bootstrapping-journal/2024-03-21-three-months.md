@@ -4,7 +4,6 @@ url: "three-months"
 date: 2024-03-21T18:53:40-05:00
 location: "Waukee, Iowa"
 type: "post"
-series: "bootstrapping-journal-2024"
 ---
 
 Yesterday was my last day at a startup I co-founded. After four years, I felt it was the right time to move on, although the company itself will go on without me.

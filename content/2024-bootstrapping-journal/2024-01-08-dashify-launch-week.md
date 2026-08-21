@@ -4,7 +4,6 @@ url: "dashify-launch-week"
 date: 2024-01-08T22:34:05-06:00
 location: "Waukee, Iowa"
 type: "post"
-series: "bootstrapping-journal-2024"
 ---
 
 A month after we made the first commit to Dashify, the MVP is just about ready, and we're aiming to release it by the end of the week.

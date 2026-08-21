@@ -4,7 +4,6 @@ url = 'day-5-dashify-email-follow-ups'
 date = 2024-04-19T20:30:45-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 From sending 12 messages yesterday to people who commented on a dead competitor’s product, I got two responses! Now, since Dashify is not exactly like the competitor, although it has the same end goal, let’s see if it will be a good fit for them.

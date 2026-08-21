@@ -4,7 +4,6 @@ url = 'day-18-april-reflection'
 date = 2024-05-02T23:35:47-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 April was my first full month as an indie maker, earning a grand total of $0. Let’s see how the month went by looking at some other numbers!

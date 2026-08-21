@@ -4,7 +4,6 @@ url = 'day-69-restoring-functionality-continued'
 date = 2024-06-22T14:09:33-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 I continued work on [restoring the ability to move panels](/day-68-restoring-functionality/) today.

@@ -4,7 +4,6 @@ url: "first-idea"
 date: 2023-12-18T15:40:11-06:00
 location: "Waukee, Iowa"
 type: "post"
-series: "bootstrapping-journal-2024"
 ---
 
 For a few months, I’ve been slowly working on an idea. Unfortunately and fortunately, it’s time to pivot.

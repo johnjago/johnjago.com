@@ -4,7 +4,6 @@ url = 'day-64-search-bulk-actions-improvements'
 date = 2024-06-17T16:53:43-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Mostly a heads-down day working on a bug fix and small improvements to what Dashify does with the WooCommerce order list.

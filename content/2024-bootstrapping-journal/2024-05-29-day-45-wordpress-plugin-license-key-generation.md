@@ -4,7 +4,6 @@ url = 'day-45-wordpress-plugin-license-key-generation'
 date = 2024-05-29T20:16:06-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 The next step in building the portal for Dashify Pro is to generate license keys which people can use to activate the paid version of the plugin.

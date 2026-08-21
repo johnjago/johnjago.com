@@ -4,7 +4,6 @@ url = 'day-32-content-backlog'
 date = 2024-05-16T20:44:47-07:00
 location = 'Denver, Colorado'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Something I’m trying this week is to dedicate a single day to writing content for the Dashify blog, and then slowly post the articles throughout the following days.

@@ -4,7 +4,6 @@ url = 'day-54-dashify-pro-first-feature'
 date = 2024-06-07T16:17:42-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 After some back and forth in my mind, I settled on Dashify Pro’s first feature being something smaller and easier to implement than what I previously imagined it would be.

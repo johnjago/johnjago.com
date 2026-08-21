@@ -4,7 +4,6 @@ url = 'day-14-dashify-vision'
 date = 2024-04-28T22:03:42-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Are you building a product, adding features here and there, but not really knowing where it will go in the end? I took a break from directly working on Dashify today and spent time thinking about my vision for Dashify, a tool to give WooCommerce merchants a better order management experience. The standard WooCommerce dashboard where merchants manage orders is nothing spectacular. It gets the job done, can sometimes be a little slow, and doesn’t feel sleek.

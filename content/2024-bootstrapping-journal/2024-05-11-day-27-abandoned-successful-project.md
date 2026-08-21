@@ -4,7 +4,6 @@ url = 'day-27-abandoned-successful-project'
 date = 2024-05-11T18:48:27-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Yesterday I discovered that a project of mine which I put not much effort into, one that was last updated 3 years ago, is the first ranking result for the search term on Google, ahead of paid “competitors” which I had no intention of competing with.

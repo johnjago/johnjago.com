@@ -4,7 +4,6 @@ url = 'day-85-redoing-update-code'
 date = 2024-07-08T14:24:53-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 After a while working in a particular software domain, it becomes clear whether something was designed or whether it came to be through a process of evolution.

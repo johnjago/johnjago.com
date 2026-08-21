@@ -4,7 +4,6 @@ url = 'day-56-tempted-to-work'
 date = 2024-06-09T16:18:53-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Another Sunday!

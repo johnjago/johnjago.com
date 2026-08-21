@@ -4,7 +4,6 @@ url = 'day-63-planting-seeds'
 date = 2024-06-16T16:52:00-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Not a metaphor—today for my Sunday day off I actually planted seeds in a pot that’s been empty for a while.

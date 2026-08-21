@@ -4,7 +4,6 @@ url: "dashify-first-users"
 date: 2024-03-05T12:51:23-06:00
 location: "Waukee, Iowa"
 type: "post"
-series: "bootstrapping-journal-2024"
 ---
 
 In hopes of getting some first users, I posted about Dashify in a couple places: two Reddit posts that were asking for something similar to what Dashify offers, and one WordPress.org forum post of a similar but abandoned plugin.

@@ -4,7 +4,6 @@ url = 'day-68-restoring-functionality'
 date = 2024-06-21T14:07:32-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 When I first made the Dashify version of the WooCommerce order view, I removed some functionality on purpose to both simplify the initial code for Dashify, and to give the order view a cleaner look.

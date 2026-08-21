@@ -4,7 +4,6 @@ url = 'day-19-deep-work'
 date = 2024-05-03T20:15:08-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Only three days into May, and I’ve already put in 25% of the hours I put into Dashify for the entire month of April.

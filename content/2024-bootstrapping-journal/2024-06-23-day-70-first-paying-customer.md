@@ -4,7 +4,6 @@ url = 'day-70-first-paying-customer'
 date = 2024-06-23T14:13:06-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Five days after reaching 80 users, Dashify now has 90 users.

@@ -4,7 +4,6 @@ url = 'day-65-dashify-80-users'
 date = 2024-06-18T16:54:53-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 As if on a schedule, the active install count jumped from 70 to 80.

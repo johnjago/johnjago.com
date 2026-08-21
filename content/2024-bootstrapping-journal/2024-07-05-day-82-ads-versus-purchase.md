@@ -4,7 +4,6 @@ url = 'day-82-ads-versus-purchase'
 date = 2024-07-05T22:16:44-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 My working hours today were spent writing up the past few days of reflections, as well as doing some reflecting in my head, so I wanted to take this space to write something I’ve been thinking about lately.

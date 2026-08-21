@@ -4,7 +4,6 @@ url = 'day-2-cold-email-results'
 date = 2024-04-16T16:54:44-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 After sending a batch of cold emails to WooCommerce agencies who might be interested in Dashify, there’s been two visible results!

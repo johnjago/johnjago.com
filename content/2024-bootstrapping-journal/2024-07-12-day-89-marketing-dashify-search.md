@@ -4,7 +4,6 @@ url = 'day-89-marketing-dashify-search'
 date = 2024-07-12T17:04:31-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 You create a product, so now what? You need to market it, which means letting the right people know that it exists—the people who have the problem the product solves.

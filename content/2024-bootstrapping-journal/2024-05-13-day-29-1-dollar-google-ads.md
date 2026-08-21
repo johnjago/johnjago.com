@@ -4,7 +4,6 @@ url = 'day-29-1-dollar-google-ads'
 date = 2024-05-13T22:52:08-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Seeing the website analytics for Dashify go flat, with maybe one or two visitors a day at most, has been a little bit of a shock. It’s way different from last month, where Google Ads seemed to bring in traffic that converted.

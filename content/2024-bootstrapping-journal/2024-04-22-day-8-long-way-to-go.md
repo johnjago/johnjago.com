@@ -4,7 +4,6 @@ url = 'day-8-long-way-to-go'
 date = 2024-04-22T23:47:09-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 As I was tweaking some styles of the WooCommerce order view today, I realized two things.

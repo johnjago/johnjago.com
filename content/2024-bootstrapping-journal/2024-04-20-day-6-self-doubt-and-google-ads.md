@@ -4,7 +4,6 @@ url = 'day-6-self-doubt-and-google-ads'
 date = 2024-04-20T20:30:41-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 My project has so few users. Is it ever going to grow? This is a question I often ask myself, and one that many will ask themselves when they try to start something.

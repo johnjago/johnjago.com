@@ -4,7 +4,6 @@ url = 'day-55-license-key-activation-edge-cases'
 date = 2024-06-08T16:18:19-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 I didn’t feel too productive today. I worked a little on the activation of a license key from the Dashify Pro plugin settings.

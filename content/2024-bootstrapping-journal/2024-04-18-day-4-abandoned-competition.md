@@ -4,7 +4,6 @@ url = 'day-4-abandoned-competition'
 date = 2024-04-18T17:47:34-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 I began today with a goal of running some Google Ads, but took a detour to what many product makers would consider a gold mine: finding a competitor’s product that is seemingly in demand but abandoned.

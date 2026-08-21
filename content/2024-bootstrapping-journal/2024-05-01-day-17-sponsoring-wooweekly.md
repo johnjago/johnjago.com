@@ -4,7 +4,6 @@ url = 'day-17-sponsoring-wooweekly'
 date = 2024-05-01T23:46:30-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 This month I’m sponsoring WooWeekly, a WooCommerce newsletter run by one of the active members of the WooCommerce community. It’s one of just a handful of newsletters focused solely on WooCommerce, so the placement couldn’t be more relevant.

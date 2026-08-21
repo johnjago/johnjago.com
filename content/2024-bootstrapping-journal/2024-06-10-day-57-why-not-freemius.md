@@ -4,7 +4,6 @@ url = 'day-57-why-not-freemius'
 date = 2024-06-10T16:19:15-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 In a recent journal entry, I mentioned the work on the license key system for Dashify Pro being a slog. It’s not core to the product, and the trend these days is to use a SaaS that solves the side need, allowing you to focus on the core of your product.

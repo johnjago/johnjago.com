@@ -4,7 +4,6 @@ url = 'day-41-dashify-public-roadmap'
 date = 2024-05-25T20:21:12-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Today, in response to a question from someone, I created a [public roadmap for Dashify](https://getdashify.com/roadmap/).

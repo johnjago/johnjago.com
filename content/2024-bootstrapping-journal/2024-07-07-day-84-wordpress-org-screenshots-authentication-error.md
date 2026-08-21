@@ -4,7 +4,6 @@ url = 'day-84-wordpress-org-screenshots-authentication-error'
 date = 2024-07-07T14:21:49-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 With Dashify Search ready for release in a new version of Dashify Pro, I began updating marketing materials, focusing on the WordPress.org listing.

@@ -4,7 +4,6 @@ url = 'day-51-dashify-50-users'
 date = 2024-06-04T13:54:59-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Yesterday night, I saw that Dashify reached 50 users! In just four days since it reached 40 users, it gained 10 more.

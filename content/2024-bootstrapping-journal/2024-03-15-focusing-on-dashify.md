@@ -4,7 +4,6 @@ url: "focusing-on-dashify"
 date: 2024-03-15T17:31:52-05:00
 location: "Waukee, Iowa"
 type: "post"
-series: "bootstrapping-journal-2024"
 ---
 
 I have a tendency to have too many things going at once. If I start one project, I may soon start another, and spend half my time working on one, and half on the other.

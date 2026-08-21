@@ -4,7 +4,6 @@ url = 'day-35-trialware-not-permitted'
 date = 2024-05-19T15:38:49-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 As a WordPress developer listing plugins on WordPress.org, you may have come across the guideline that says “Trialware is not permitted.” What does this actually mean?

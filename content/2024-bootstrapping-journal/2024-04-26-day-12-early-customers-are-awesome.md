@@ -4,7 +4,6 @@ url = 'day-12-early-customers'
 date = 2024-04-26T22:19:58-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 If you have an idea, and you want to turn that idea into a successful product, there is nothing more valuable than an early, enthusiastic customer.

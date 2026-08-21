@@ -4,7 +4,6 @@ url = 'day-66-another-catch-up-day'
 date = 2024-06-19T14:04:17-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 It seems like this will become a habit, whether I like it or not.

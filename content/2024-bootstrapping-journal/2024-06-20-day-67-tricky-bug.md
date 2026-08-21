@@ -4,7 +4,6 @@ url = 'day-67-tricky-bug'
 date = 2024-06-20T14:06:29-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 I noticed a strange bug in Dashify recently.

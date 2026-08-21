@@ -4,7 +4,6 @@ url = 'day-62-catching-up'
 date = 2024-06-15T16:50:52-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 I spent today catching up on nearly ten days of work journal entries.

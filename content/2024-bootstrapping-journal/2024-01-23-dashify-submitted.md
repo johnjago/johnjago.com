@@ -4,7 +4,6 @@ url: "dashify-submitted"
 date: 2024-01-23T12:19:44-06:00
 location: "Waukee, Iowa"
 type: "post"
-series: "bootstrapping-journal-2024"
 ---
 
 After being shocked by the [51 day estimated wait](/51-days/), we took some extra time to polish the [first version of Dashify](/dashify-launch-week/) before submitting, since it wouldn’t have made a difference with that much of a wait.

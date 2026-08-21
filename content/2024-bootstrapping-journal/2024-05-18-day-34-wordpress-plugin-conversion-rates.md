@@ -4,7 +4,6 @@ url = 'day-34-wordpress-plugin-conversion-rates'
 date = 2024-05-18T13:54:37-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 For these next four entries in my work journal, I’m going to ask myself a question and do a little research to answer it.

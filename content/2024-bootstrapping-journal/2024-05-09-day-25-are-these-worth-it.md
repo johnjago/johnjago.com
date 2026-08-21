@@ -4,7 +4,6 @@ url = 'day-25-are-these-worth-it'
 date = 2024-05-09T11:13:03-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-series = 'bootstrapping-journal-2024'
 +++
 
 Recently, I’ve been questioning the value of this daily journal. I told myself that I would do it for 90 days, but writing one each day feels unnecessary.
