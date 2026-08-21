@@ -20,10 +20,10 @@ make
 or
 
 ```sh
-make write
+make serve
 ```
 
-(plain `make` just runs the first command which is `write`)
+(plain `make` just runs the first command which is `serve`)
 
 ## Development
 
