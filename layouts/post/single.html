@@ -8,7 +8,7 @@
 		datetime='{{ .Date.Format "2006-01-02" }}'
 		class="text-base text-neutral-500"
 	>
-		{{ .Date.Format "2 January 2006" }}
+		{{ .Date.Format "02 Jan 2006" }}
 	</time>
 	{{ if .Section }}
 		{{ $index := .Site.GetPage "section" .Section }}
