@@ -2,6 +2,6 @@
 title = ''
 slug = ''
 date = {{ .Date }}
-location = 'Waukee, Iowa'
+location = ''
 type = 'post'
 +++
