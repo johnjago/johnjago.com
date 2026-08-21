@@ -131,7 +131,6 @@ In Google I saw my own blog post from 5 years ago about [cache busting in Hugo](
 
 I clicked one result from a personal blog. The post was titled [Cache Busting CSS (and stuff) in Hugo](https://tormodh.net/posts/cache-busting-css-and-stuff-in-hugo/), and in the footnotes, I found the clue I needed.
 
-> ## Stuff I got wrong
 > When doing this simple bit, was that I had my CSS in the static/ folder. In order to Get resources, they must be in the assets/ folder. Bam. Fixed.
 
 I read the Hugo docs on directory structure, and indeed, `assets/` is where CSS is supposed to go, a change introduced in a prior version of Hugo.
