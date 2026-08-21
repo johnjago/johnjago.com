@@ -22,7 +22,6 @@
 		{{ if .section_not }}
 			{{ $pages = where $pages "Section" "!=" .section_not }}
 		{{ end }}
-		{{ $pages = where $pages "Params.unlisted" "!=" true }}
 	{{ end }}
 	{{ range $pages }}
 		<li class="mb-5">
