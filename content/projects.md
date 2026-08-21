@@ -51,11 +51,11 @@ A nearly complete history of my software and writing projects.
 >}}
 
 {{< project
-	title="Bootstrapping journal"
-	description="A series where I wrote daily updates on my attempt to make a living by creating a bootstrapped software product."
-	years="2024"
-	link="/2024-bootstrapping-journal/"
-	linkText="open the journal"
+	title="Building Dashify"
+	description="A series where I wrote daily updates on building a software product from scratch."
+	years="2023 to 2024"
+	link="/building-dashify/"
+	linkText="view the posts"
 >}}
 
 {{< project

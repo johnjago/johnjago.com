@@ -3,5 +3,5 @@ title = 'Blog'
 
 [filters]
 type = 'post'
-section_not = '2024-bootstrapping-journal'
+section_not = 'building-dashify'
 +++

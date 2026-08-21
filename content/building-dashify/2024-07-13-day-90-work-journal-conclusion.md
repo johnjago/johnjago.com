@@ -10,7 +10,7 @@ About four months ago, I left a startup I co-founded. It was quite the learning 
 
 To build a company like that, you first need to build a product, so that’s what I’ve been doing these four months.
 
-For the last three months, I’ve written a daily blog post either summarizing what I did that day or reflecting on a topic that was on my mind, and I’ve collected these posts into a [series](/2024-bootstrapping-journal/).
+For the last three months, I’ve written a daily blog post either summarizing what I did that day or reflecting on a topic that was on my mind, and I’ve collected these posts into a [series](/building-dashify/).
 
 ## Why I wrote daily
 
