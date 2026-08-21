@@ -4,7 +4,6 @@ slug = 'shift-shift-vs-code'
 date = 2024-12-28T10:10:22-06:00
 location = 'Waukee, Iowa'
 type = 'post'
-category = 'technical'
 +++
 
 After using IntelliJ IDEA at work, I got used to hitting the shift key twice to

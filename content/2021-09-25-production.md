@@ -2,7 +2,6 @@
 title: "To get it ready, use it in production"
 date: 2021-09-25
 type: "post"
-category: "technical"
 slug: "production"
 draft: false
 ---

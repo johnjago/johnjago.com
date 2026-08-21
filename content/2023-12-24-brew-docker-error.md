@@ -4,7 +4,6 @@ slug: "brew-docker-error"
 date: 2023-12-24T15:56:38-06:00
 location: "Waukee, Iowa"
 type: "post"
-category: "technical"
 draft: false
 ---
 

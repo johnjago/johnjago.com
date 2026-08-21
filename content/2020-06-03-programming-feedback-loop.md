@@ -2,7 +2,6 @@
 title: "Programming’s built-in feedback loop"
 date: 2020-06-03T07:50:07-05:00
 type: "post"
-category: "technical"
 slug: "programming-feedback-loop"
 draft: false
 ---

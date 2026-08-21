@@ -4,7 +4,6 @@ slug = 'hugo-css-mystery'
 date = 2024-04-28T20:29:22-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-category = 'technical'
 unlisted = false
 draft = false
 +++

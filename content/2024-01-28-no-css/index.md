@@ -4,7 +4,6 @@ slug: "no-css"
 date: 2024-01-28T20:25:23-06:00
 location: "Waukee, Iowa"
 type: "post"
-category: "technical"
 draft: false
 ---
 

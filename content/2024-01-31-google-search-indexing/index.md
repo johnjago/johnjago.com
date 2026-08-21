@@ -4,7 +4,6 @@ slug: "google-search-indexing"
 date: 2024-01-31T14:25:23-06:00
 location: "Waukee, Iowa"
 type: "post"
-category: "technical"
 draft: false
 ---
 

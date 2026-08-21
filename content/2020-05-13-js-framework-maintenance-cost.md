@@ -2,7 +2,6 @@
 title: "The maintenance cost of JavaScript frameworks"
 date: 2020-05-13T19:35:40-05:00
 type: "post"
-category: "technical"
 slug: "js-framework-maintenance-cost"
 draft: false
 ---

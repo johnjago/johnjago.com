@@ -2,7 +2,6 @@
 title: "Clojure: Checking for uppercase letters in a string"
 date: 2019-05-21
 type: "post"
-category: "technical"
 slug: "clojure-uppercase"
 draft: false
 ---

@@ -1,6 +1,5 @@
 +++
 title = 'Blog'
-description = 'Reflections and musings.'
 
 [filters]
 type = 'post'

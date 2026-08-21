@@ -4,7 +4,6 @@ slug = 'git-diff-ignore-whitespace'
 date = 2024-09-01T19:48:13-05:00
 location = 'Waukee, Iowa'
 type = 'post'
-category = 'technical'
 +++
 
 Sometimes you need to surround a block of code with an if statement, or put a block of code inside a for loop, and there’s no way around it.

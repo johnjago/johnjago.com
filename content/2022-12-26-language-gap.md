@@ -2,7 +2,6 @@
 title: "The biggest problem with programming languages"
 date: 2022-12-26T09:54:53-06:00
 type: "post"
-category: "technical"
 slug: "language-gap"
 draft: false
 ---

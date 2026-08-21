@@ -4,7 +4,6 @@ slug: "chatgpt-pairing"
 date: 2023-01-25
 location: "Ames, Iowa"
 type: "post"
-category: "technical"
 draft: false
 ---
 

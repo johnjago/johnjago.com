@@ -2,7 +2,6 @@
 title: "Typefaces included with Ubuntu 18.04"
 date: 2019-01-05
 type: "post"
-category: "technical"
 slug: "ubuntu-typefaces"
 draft: false
 ---
