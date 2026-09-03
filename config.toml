@@ -4,5 +4,5 @@ title = 'John Jago'
 rssLimit = 25
 
 [params]
-	description = 'My public journal where I share what I’m working on, reading, and thinking about.'
+	description = 'A website where I share what I’m working on, reading, and thinking about.'
 	images = ['card.png']
