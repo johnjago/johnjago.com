@@ -3,12 +3,6 @@
 My personal website! A home for my writing and a history of projects I’ve
 worked on.
 
-## Colophon
-
-This is a static site generated with [Hugo](https://gohugo.io/), styled with
-[Tailwind CSS](https://tailwindcss.com/), hosted on
-[DigitalOcean](https://www.digitalocean.com/), and set in Source Sans 3.
-
 ## Serving the site locally
 
 To serve the site locally for creating and editing content:
