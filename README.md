@@ -1,7 +1,8 @@
 # [johnjago.com](https://johnjago.com)
 
-My personal website! A home for my writing and a history of projects I’ve
-worked on.
+My personal website, a home for my writing, projects, and other things.
+
+It’s built using the Hugo static site generator.
 
 ## Serving the site locally
 
